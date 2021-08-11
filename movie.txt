@@ -171,6 +171,7 @@ A View to a Kill
 A Walk in the Clouds
 A Walk on the Moon
 A Walk to Remember
+A Warm December
 A Woman Under the Influence
 A.I. Artificial Intelligence
 Aaron Loves Angela
@@ -241,6 +242,7 @@ Alice in Wonderland
 Alice, Sweet Alice
 Alien
 Alien 3
+Alien Dead
 Alien Hunter
 Alien Nation
 Alien Resurrection
@@ -427,6 +429,7 @@ At Play in the Fields of the Lord
 At the Earth's Core
 Atlantis: The Lost Empire
 Attack of the 60 Foot Centerfold
+Attack of the Killer Tomatoes
 Audrey Rose
 August
 August
@@ -492,6 +495,7 @@ Badge 373
 Badlands
 Bagdad Café
 Bait
+Ballast
 Ballistic: Ecks vs. Sever
 Balls of Fury
 Balto
@@ -695,12 +699,15 @@ Blink
 Blizzard
 Blonde Ambition
 Blood Diamond
+Blood Diner
 Blood In Blood Out
 Blood Simple
 Blood Work
 Blood and Wine
 Bloodbrothers
+Bloodfist II
 Bloodfist V: Human Target
+Bloodfist VI: Ground Zero
 Bloodfist VII: Manhunt
 Bloodhounds of Broadway
 Bloodline
@@ -782,6 +789,7 @@ Boys on the Side
 Boyz n the Hood
 Braddock: Missing in Action III
 Brain Candy
+Brain Damage
 Brain Donors
 Brainscan
 Brainstorm
@@ -852,6 +860,7 @@ Buffalo Soldiers
 Buffy the Vampire Slayer
 Bug
 Bugs Bunny's 3rd Movie: 1001 Rabbit Tales
+Bugs Bunny: Superstar
 Bugsy
 Bull Durham
 Bullet
@@ -920,6 +929,7 @@ Candyman
 Candyman 2: Farewell to the Flesh
 Cannery Row
 Cannes Man
+Cannibal Rollerbabes
 Cannibal Women in the Avocado Jungle of Death
 Cannibal! The Musical
 Cannonball
@@ -1026,6 +1036,7 @@ Child's Play
 Child's Play
 Child's Play 2
 Child's Play 3
+Children Shouldn't Play with Dead Things
 Children of Men
 Children of a Lesser God
 Children of the Corn
@@ -1079,6 +1090,7 @@ Clara's Heart
 Clash of the Titans
 Clash of the Titans
 Class
+Class Act
 Class Action
 Class of '44
 Class of 1999
@@ -1134,6 +1146,7 @@ Color of Night
 Color of a Brisk and Leaping Day
 Colors
 Coma
+Combat Shock
 Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean
 Come Back, Charleston Blue
 Come See the Paradise
@@ -1384,6 +1397,7 @@ Defenseless
 Defiance
 Defiance
 Definitely, Maybe
+Defying Gravity
 Delgo
 Delirious
 Deliver Us from Eva
@@ -1411,12 +1425,14 @@ Desperate Measures
 Desperately Seeking Susan
 Despicable Me
 Destroyer
+Detective Conan: The Time-Bombed Skyscraper
 Deterrence
 Detroit 9000
 Detroit Rock City
 Deuce Bigalow: Male Gigolo
 Deuces Wild
 Devil
+Devil Girl
 Devil in a Blue Dress
 Devil's Pond
 Diabolique
@@ -1451,6 +1467,7 @@ Dirty Love
 Dirty Mary, Crazy Larry
 Dirty O'Neil
 Dirty Rotten Scoundrels
+Dirty Sanchez (TV series)
 Dirty Work
 Disaster Movie
 Disclosure
@@ -1566,6 +1583,7 @@ EXistenZ
 Eagle Eye
 Earth Girls Are Easy
 Earthquake
+East Palace, West Palace
 Eastern Promises
 Easy A
 Easy Money
@@ -1766,6 +1784,7 @@ Feds
 Feel the Noise
 Feeling Minnesota
 Felon
+Ferestadeh
 FernGully: The Last Rainforest
 Ferris Bueller's Day Off
 Festival Express
@@ -1894,6 +1913,7 @@ Frankenstein Unbound
 Frankie and Johnny
 Frantic
 Fraternity Vacation
+Freakshow
 Freaky Friday
 Freaky Friday
 Fred Claus
@@ -1953,6 +1973,7 @@ Full Metal Jacket
 Full Moon High
 Full Moon in Blue Water
 Full of It
+Fun Down There
 Fun with Dick and Jane
 Fun with Dick and Jane
 Funny About Love
@@ -2048,6 +2069,7 @@ Gloria
 Gloria
 Glory
 Go
+Go Fish
 Go Tell the Spartans
 God Told Me To
 Gods and Generals
@@ -2069,6 +2091,7 @@ GoldenEye
 Goldengirl
 Gone Baby Gone
 Gone Fishin'
+Gone in 60 Seconds
 Gone in 60 Seconds
 Gone with the West
 Good Boy!
@@ -2105,6 +2128,7 @@ Grand Theft Auto
 Grand Theft Parsons
 Grandma's Boy
 Grandview, U.S.A.
+Grave of the Fireflies
 Grave of the Vampire
 Gray Lady Down
 Grease
@@ -2437,6 +2461,7 @@ How to Train Your Dragon
 Howard the Duck
 Howling II
 Howling III
+Howling IV: The Original Nightmare
 Howling V: The Rebirth
 Huckleberry Finn
 Hudson Hawk
@@ -2554,10 +2579,12 @@ Indian Summer
 Indiana Jones and the Kingdom of the Crystal Skull
 Indiana Jones and the Last Crusade
 Indiana Jones and the Temple of Doom
+Indigo
 Inferno
 Infinity
 Inglourious Basterds
 Initiation: Silent Night, Deadly Night 4
+Ink
 Inkheart
 Innerspace
 Innocent Blood
@@ -2685,6 +2712,7 @@ Johnny Mnemonic
 Johnny Suede
 Johns
 Jonah Hex
+Jonah: A VeggieTales Movie
 Jonas Brothers: The 3D Concert Experience
 Jonathan Livingston Seagull
 Jory
@@ -2714,6 +2742,7 @@ Juno
 Jurassic Park
 Jurassic Park III
 Jury Duty
+Just Another Girl on the I.R.T.
 Just Before Dawn
 Just Between Friends
 Just Cause
@@ -2762,6 +2791,7 @@ Kill Bill: Volume 1
 Kill Bill: Volume 2
 Kill Me Again
 Kill Me Later
+Kill or Be Killed
 Kill the Moonlight
 Killer Flick
 Killer Force
@@ -2817,6 +2847,7 @@ Krippendorf's Tribe
 Krush Groove
 Kuffs
 Kull the Conqueror
+Kundun
 Kung Fu Panda
 Kung Pow! Enter the Fist
 L.A. Confidential
@@ -2855,6 +2886,7 @@ Last Dance
 Last Embrace
 Last Exit to Brooklyn
 Last Holiday
+Last House on Dead End Street
 Last Man Standing
 Last Rites
 Last of the Dogmen
@@ -3050,6 +3082,7 @@ Mac and Me
 MacArthur
 MacGruber
 Machete
+Macho Dancer
 Mack the Knife
 Macon County Line
 Mad City
@@ -3095,12 +3128,14 @@ Malone
 Mama's Dirty Girls
 Mame
 Mamma Mia!
+Man Bites Dog
 Man Friday
 Man Trouble
 Man of La Mancha
 Man of the Century
 Man of the House
 Man of the House
+Man of the Year
 Man of the Year
 Man on Fire
 Man on Fire
@@ -3226,6 +3261,7 @@ Meteor
 Metro
 Metropolitan
 Miami Blues
+Miami Connection
 Miami Rhapsody
 Miami Vice
 Michael
@@ -3411,6 +3447,7 @@ My Blue Heaven
 My Bodyguard
 My Bollywood Bride
 My Boss's Daughter
+My Brother's Wedding
 My Chauffeur
 My Cousin Vinny
 My Dog Skip
@@ -3530,6 +3567,7 @@ Night at the Museum
 Night at the Museum: Battle of the Smithsonian
 Night of the Comet
 Night of the Creeps
+Night of the Demon
 Night of the Demons 3
 Night of the Lepus
 Night of the Living Dead
@@ -3772,6 +3810,7 @@ Partners
 Parts: The Clonus Horror
 Party Monster
 Pass the Ammo
+Passage to Zarahemla
 Passed Away
 Passenger 57
 Passengers
@@ -3925,6 +3964,7 @@ Predators
 Prefontaine
 Prelude to a Kiss
 Premonition
+Press Start
 Presumed Innocent
 Pretty Baby
 Pretty Woman
@@ -4011,6 +4051,7 @@ Quigley Down Under
 Quills
 Quintet
 Quiz Show
+R.O.T.O.R.
 R.S.V.P.
 RV
 Rabbit Hole
@@ -4316,6 +4357,7 @@ Saw VII
 Say Anything...
 Say It Isn't So
 Scarecrow
+Scarecrows
 Scarface
 Scary Movie
 Scary Movie 2
@@ -4425,6 +4467,7 @@ Shanghai Surprise
 Shark Tale
 Sharks' Treasure
 Sharky's Machine
+Shatter Dead
 Shattered
 Shattered Glass
 Shaun of the Dead
@@ -4458,6 +4501,7 @@ Short Time
 Shorts
 Shout
 Shout at the Devil
+Showboy
 Showdown
 Showdown in Little Tokyo
 Showgirls
@@ -4508,6 +4552,7 @@ Sing
 Single White Female
 Singles
 Sinner
+Sinners
 Sioux City
 Sister Act
 Sister Act 2: Back in the Habit
@@ -4519,6 +4564,7 @@ Six Degrees of Separation
 Six Pack
 Six Ways to Sunday
 Six Weeks
+Six-String Samurai
 Sixpack Annie
 Sixteen Candles
 Skatetown, U.S.A.
@@ -4564,6 +4610,7 @@ Slither
 Slither
 Sliver
 Slow Dancing in the Big City
+Slugs
 Slumber Party '57
 Slumber Party Massacre 3
 Slums of Beverly Hills
@@ -4598,6 +4645,7 @@ Snowboard Academy
 So I Married an Axe Murderer
 Soapdish
 Society
+Socket
 Solar Crisis
 Solarbabies
 Solaris
@@ -4632,6 +4680,7 @@ Sophie's Choice
 Sorcerer
 Sorority Babes in the Slimeball Bowl-O-Rama
 Sorority Boys
+Sorority House Massacre
 Sorority House Massacre 2
 Sorority Row
 Soul Food
@@ -4681,12 +4730,14 @@ Spice World
 Spider-Man
 Spider-Man 3
 Spies Like Us
+Spike
 Spike of Bensonhurst
 Spiral
 Spirit of '76
 Spirit: Stallion of the Cimarron
 Splash
 Splice
+Split
 Split Decisions
 Spontaneous Combustion
 Spread
@@ -5071,6 +5122,7 @@ The Believers
 The Bell Jar
 The Best Little Whorehouse in Texas
 The Best Man
+The Best Two Years
 The Best of Times
 The Betsy
 The Beverly Hillbillies
@@ -5281,6 +5333,7 @@ The Doors
 The Dove
 The Dream Team
 The Drifter
+The Driller Killer
 The Driver
 The Drowning Pool
 The Duchess and the Dirtwater Fox
@@ -5396,6 +5449,7 @@ The Girl
 The Girl Next Door
 The Girl from Petrovka
 The Girl in the Park
+The Girlfriend Experience
 The Glass House
 The Glass Menagerie
 The Glass Shield
@@ -5995,6 +6049,7 @@ The Savage Is Loose
 The Savages
 The Scarecrow
 The Scarlet Letter
+The Scenic Route
 The Score
 The Scorpion King
 The Scout
@@ -6038,6 +6093,7 @@ The Silent Partner
 The Simpsons Movie
 The Singing Detective
 The Single Girls
+The Singles Ward
 The Sisterhood of the Traveling Pants 2
 The Sixth Sense
 The Skeleton Key
@@ -6049,6 +6105,7 @@ The Slumber Party Massacre
 The Smokers
 The Social Network
 The Soloist
+The Song Remains the Same
 The Sorcerer's Apprentice
 The Soul of Nigger Charley
 The Spanish Prisoner
@@ -6175,6 +6232,7 @@ The Usual Suspects
 The Van
 The Vanishing
 The Verdict
+The Video Dead
 The Village
 The Villain
 The Virgin Suicides
@@ -6338,6 +6396,7 @@ To Sleep with Anger
 To Wong Foo, Thanks for Everything! Julie Newmar
 To the Limit
 Toad Warrior
+Together Alone
 Tom & Viv
 Tom Horn
 Tom Sawyer
@@ -6472,6 +6531,7 @@ Twister
 Two Bits
 Two Brothers
 Two Can Play That Game
+Two Days
 Two Evil Eyes
 Two Moon Junction
 Two Much
@@ -6519,6 +6579,7 @@ Unforgettable
 Unforgiven
 Unholy Rollers
 Unhook the Stars
+Unidentified
 Uninvited
 United 93
 Universal Soldier
@@ -6591,6 +6652,7 @@ Virus
 Vision Quest
 Visioneers
 Visiting Hours
+Viva
 Viva Knievel!
 Volcano
 Volunteers
@@ -6626,6 +6688,7 @@ Walking and Talking
 Walking the Edge
 Wall Street
 Wall Street: Money Never Sleeps
+Waltz with Bashir
 Wanda Nevada
 Wanted
 Wanted: Dead or Alive
@@ -6648,6 +6711,7 @@ Waxwork II: Lost in Time
 Wayne's World
 Wayne's World 2
 We Are Marshall
+We Are the Strange
 We Own the Night
 We Were Soldiers
 We're No Angels
@@ -6793,6 +6857,7 @@ Wise Blood
 Wise Guys
 Wishmaster
 Witchboard
+Witchcraft
 Witchcraft II: The Temptress
 Witches' Brew
 With Honors
@@ -6817,7 +6882,9 @@ Wonderful World
 Wonderland
 Woo
 Working Girl
+Working Girls
 World Gone Wild
+World and Time Enough
 World's Greatest Dad
 Worth Winning
 Wrestling Ernest Hemingway
@@ -6864,14 +6931,17 @@ Your Three Minutes Are Up
 Yours, Mine & Ours
 Youth Without Youth
 Youth in Revolt
+Yu-Gi-Oh! The Movie: Pyramid of Light
 Zack and Miri Make a Porno
 Zandy's Bride
 Zapped Again!
 Zapped!
 Zardoz
+Zarkorr! The Invader
 Zathura
 Zebrahead
 Zelig
+Zero Day
 Zero Effect
 Zero to Sixty
 Zeus and Roxanne
