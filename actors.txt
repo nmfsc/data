@@ -1,18 +1,19 @@
 2 Tuff Tony
 40
 50 Cent
+A Martinez
 A. D. Miles
-A. J. Bakunas
 A. J. Benza
-A. J. Buckley
 A. J. Cook
 A. J. Cook
-A. J. Jerrick
 A. J. Langer
-A. Martinez
 A. Michael Baldwin
 A. Scott
-AJ. Michalka
+A.D. Miles
+A.J. Bakunas
+A.J. Buckley
+A.J. Jerrick
+AJ Michalka
 AZ
 Aaliyah
 Aaron Ashmore
@@ -51,7 +52,7 @@ Abbie Cornish
 Abby Brammell
 Abby Sullivan
 Abdel Qissi
-Abdoulaye N. Gom
+Abdoulaye N'Gom
 Abdul Salis
 Abe Vigoda
 Abel Woolrich
@@ -109,11 +110,11 @@ Adam J. Harrington
 Adam James
 Adam Kantor
 Adam Klugman
-Adam L. Fevre
-Adam L. Vorgna
+Adam LaVorgna
 Adam Lamberg
+Adam LeFevre
 Adam Levy
-Adam M. Kay
+Adam McKay
 Adam Mills
 Adam Nathan
 Adam Pally
@@ -226,10 +227,10 @@ Aida Linares
 Aida Turturro
 Aidan Devine
 Aidan Gillen
-Aidan M. Ardle
-Aidan O. Hara
+Aidan McArdle
+Aidan O'Hara
 Aidan Quinn
-Aideen O. Kelly
+Aideen O'Kelly
 Aiko Horiuchi
 Aileen Quinn
 Aimee Allen
@@ -245,7 +246,7 @@ Air Buddy
 Aisha Hinds
 Aisha Tyler
 Aishwarya Rai Bachchan
-Aisling O. Sullivan
+Aisling O'Sullivan
 Aitana Sánchez-Gijón
 Ajai Sanders
 Ajay Naidu
@@ -253,10 +254,11 @@ Akbar Kurtha
 Aki Aleong
 Akiva Schaffer
 Akosua Busia
-Al D. Rogatis
+Al DeRogatis
 Al Feuerbach
 Al Foster
 Al Franken
+Al Freeman Jr.
 Al Freeman, Jr.
 Al Green
 Al Harrington
@@ -267,10 +269,10 @@ Al Leong
 Al Lettieri
 Al Lewis
 Al Lohman
-Al M. Coy
 Al Mancini
 Al Martino
 Al Matthews
+Al McCoy
 Al Michaels
 Al Pacino
 Al Rodrigo
@@ -296,7 +298,7 @@ Alan Aisenberg
 Alan Alda
 Alan Arkin
 Alan Autry
-Alan B. M. Elroy
+Alan B. McElroy
 Alan Badel
 Alan Barzman
 Alan Bates
@@ -328,6 +330,7 @@ Alan Gelfant
 Alan Gibbs
 Alan Gifford
 Alan Goldsher
+Alan Hale Jr.
 Alan Hale, Jr.
 Alan Haufrect
 Alan Hewitt
@@ -411,8 +414,8 @@ Aldo Sambrell
 Aldona Grochal
 Alec Baldwin
 Alec Guinness
-Alec M. Cowen
 Alec Mapa
+Alec McCowen
 Alec Musser
 Alec Newman
 Alec Rayme
@@ -444,7 +447,7 @@ Alessandro Nivola
 Alessandro Sperduti
 Alessio Boni
 Aleta Mitchell
-Alethea M. Grath
+Alethea McGrath
 Alex 'Sasha' Walkup
 Alex Appel
 Alex Band
@@ -479,16 +482,16 @@ Alex Jones
 Alex Karras
 Alex Kendrick
 Alex Lowe
-Alex M. Arthur
-Alex M. Crindle
-Alex M. Kenna
 Alex MacQueen
 Alex Man
+Alex McArthur
+Alex McCrindle
+Alex McKenna
 Alex Meneses
 Alex Meraz
 Alex Morris
 Alex Norton
-Alex O. Loughlin
+Alex O'Loughlin
 Alex Rocco
 Alex Sharp
 Alex Solowitz
@@ -650,7 +653,7 @@ Alison Sweeney
 Alison Tucker
 Alissa Alban
 Alissa Dowdy
-Alistair M. Gowan
+Alistair McGowan
 Alix Koromzay
 Alla Korot
 Allan Arbus
@@ -701,7 +704,7 @@ Allisyn Ashley Arm
 Ally Sheedy
 Ally Walker
 Allyce Beasley
-Allyn Ann M. Lerie
+Allyn Ann McLerie
 Alma Beltran
 Alma Martinez
 Alois Moyo
@@ -712,7 +715,7 @@ Alon Abutbul
 Alona Alegre
 Alona Tal
 Alonzo Mourning
-Alphonso M. Auley
+Alphonso McAuley
 Altovise Davis
 Alun Armstrong
 Alun Armstrong
@@ -782,7 +785,7 @@ Amber Bezer
 Amber Heard
 Amber Lancaster
 Amber Lynn
-Amber O. Shea
+Amber O'Shea
 Amber Rose Revah
 Amber Sainsbury
 Amber Smith
@@ -841,7 +844,7 @@ Amy Matysio
 Amy Miller
 Amy Minderhout
 Amy Morton
-Amy O. Neill
+Amy O'Neill
 Amy Poehler
 Amy Robbins
 Amy Robinson
@@ -905,7 +908,7 @@ Andrea Feldman
 Andrea Howard
 Andrea James
 Andrea King
-Andrea L. Arronge
+Andrea L'Arronge
 Andrea Libman
 Andrea Marcovicci
 Andrea Martin
@@ -965,8 +968,8 @@ Andrew Lawrence
 Andrew Levitas
 Andrew Lodge
 Andrew Lowery
-Andrew M. Carthy
-Andrew M. Nee
+Andrew McCarthy
+Andrew McNee
 Andrew Miller
 Andrew Paris
 Andrew Parks
@@ -997,8 +1000,8 @@ Andrzej Bartkowiak
 Andrzej Seweryn
 André 3000
 André Benjamin
-André D. Shields
 André De Shields
+André DeShields
 André Dussollier
 André Hennicke
 André Leon Talley
@@ -1007,9 +1010,9 @@ André Morell
 André Oumansky
 André Sogliuzzo
 André Valardy
-André the Giant
 Andréa Parisy
 Andréas Voutsinas
+André~the~Giant
 Andy Anderson
 Andy Beckwith
 Andy Berman
@@ -1072,12 +1075,12 @@ Angela Lanza
 Angela Leslie
 Angela Lindvall
 Angela Little
-Angela M. Cluskey
 Angela Mao
+Angela McCluskey
 Angela Means
 Angela Moore
 Angela Paton
-Angela Punch M. Gregor
+Angela Punch McGregor
 Angela Sarafyan
 Angela Trimbur
 Angela Turner
@@ -1220,7 +1223,7 @@ Anna Walton
 Anna-Louise Plowman
 Anna-Maria Monticelli
 Anna-Marie Goddard
-AnnaLynne M. Cord
+AnnaLynne McCord
 AnnaSophia Robb
 Annabel Brooks
 Annabel Giles
@@ -1234,7 +1237,7 @@ Annabeth Gish
 Annaleigh Ashford
 Annalise Basso
 Annazette Chase
-Anndi M. Afee
+Anndi McAfee
 Anne Alvaro
 Anne Archer
 Anne Bancroft
@@ -1266,7 +1269,7 @@ Anne Lambton
 Anne Lockhart
 Anne Lonnberg
 Anne Marie Howard
-Anne Marie M. Evoy
+Anne Marie McEvoy
 Anne Meara
 Anne Parillaud
 Anne Pitoniak
@@ -1297,7 +1300,7 @@ Annette Crosbie
 Annette Funicello
 Annette Haven
 Annette Murphy
-Annette O. Toole
+Annette O'Toole
 Annette Rivera
 Annette Sinclair
 Annie Corley
@@ -1307,7 +1310,7 @@ Annie Golden
 Annie Hayes
 Annie Korzen
 Annie Lennox
-Annie M. Enroe
+Annie McEnroe
 Annie Meisels
 Annie Neal
 Annie Parisse
@@ -1332,17 +1335,17 @@ Anthony Boswell
 Anthony Brandon Wong
 Anthony Brophy
 Anthony Burch
-Anthony C. Sena
+Anthony C Sena
 Anthony Calf
 Anthony Cannata
 Anthony Chinn
 Anthony Clark
 Anthony Cozens
 Anthony Crivello
-Anthony D. Sando
 Anthony Daniels
 Anthony Dawson
 Anthony De Longis
+Anthony DeSando
 Anthony Denison
 Anthony Dowell
 Anthony Dutton
@@ -1367,7 +1370,7 @@ Anthony Jeselnik
 Anthony John Denison
 Anthony Johnson
 Anthony Kiedis
-Anthony L. Paglia
+Anthony LaPaglia
 Anthony Lucero
 Anthony Mackie
 Anthony Mangano
@@ -1381,7 +1384,7 @@ Anthony Muñoz
 Anthony Natale
 Anthony Nicholls
 Anthony Nocerino
-Anthony O. Donnell
+Anthony O'Donnell
 Anthony Peck
 Anthony Peck
 Anthony Pena
@@ -1410,13 +1413,13 @@ Anthony Wong Chau-Sang
 Anthony Zerbe
 Antje Traue
 Antoine Basler
-Antoine M. Lean
+Antoine McLean
 Antoinette Bower
 Antoinette Sibley
 Anton Alexander
 Anton Diffring
 Anton Dolin
-Anton L. Vey
+Anton LaVey
 Anton Lesser
 Anton Rodgers
 Anton Yelchin
@@ -1438,8 +1441,8 @@ Antonio Gil
 Antonio Inoki
 Antonio Monda
 Antonio Muñoz
-Antonio Sabato, Jr.
-Antonio Sabàto, Jr.
+Antonio Sabato Jr.
+Antonio Sabàto Jr.
 Antonio Tarver
 Antonio de la Torre
 Antonique Smith
@@ -1525,7 +1528,7 @@ Armando Acosta
 Armando G. Fernandez
 Armando MacRory
 Armando Riesco
-Armelia M. Queen
+Armelia McQueen
 Armen Ra
 Armen Weitzman
 Armie Hammer
@@ -1538,7 +1541,7 @@ Arnold Barkus
 Arnold Diamond
 Arnold Herzstein
 Arnold Johnson
-Arnold M. Culler
+Arnold McCuller
 Arnold Palmer
 Arnold Pinnock
 Arnold Schwarzenegger
@@ -1563,8 +1566,8 @@ Art Garfunkel
 Art Hern
 Art Hindle
 Art Hsu
-Art L. Fleur
 Art La Fleur
+Art LaFleur
 Art Lund
 Art Malik
 Art Metrano
@@ -1591,8 +1594,8 @@ Arthur Lowe
 Arthur Malet
 Arthur Napiontek
 Arthur Nascarella
-Arthur O. Connell
-Arthur O. Sullivan
+Arthur O'Connell
+Arthur O'Sullivan
 Arthur Penhallow
 Arthur Penn
 Arthur Q. Bryan
@@ -1607,6 +1610,7 @@ Arto Lindsay
 Arturo Peniche
 Arturo Rivera
 Artus de Penguern
+Arvie Lowe Jr.
 Arvie Lowe, Jr.
 Aryana Engineer
 Arye Gross
@@ -1676,7 +1680,7 @@ Aubrey Morris
 Aubrey Plaza
 Aubrey Richards
 Audra Lindley
-Audra M. Donald
+Audra McDonald
 Audra Wise
 Audrey Christie
 Audrey Hepburn
@@ -1706,7 +1710,7 @@ Austin Basis
 Austin Butler
 Austin MacDonald
 Austin Nichols
-Austin O. Brien
+Austin O'Brien
 Austin Pendleton
 Austin St. John
 Austin Stoker
@@ -1741,17 +1745,20 @@ Azizi Johari
 Azmine Jaffer
 Azura Skye
 Aïché Nana
+B-Real
 B. B. King
 B. Constance Barry
 B. D. Wong
-B. J. Britt
 B. J. Cleveland
 B. J. Novak
-B. J. Thomas
 B. J. Ward
-B. Real
 B. Wyatt
-BD. Wong
+B.B. King
+B.D. Wong
+B.J. Britt
+B.J. Thomas
+B.J. Ward
+BD Wong
 Babz Chula
 Bad Azz
 Badja Djola
@@ -1881,9 +1888,9 @@ Barry Kivel
 Barry Levinson
 Barry Livingston
 Barry Lynch
-Barry M. Evoy
-Barry M. Govern
 Barry Marder
+Barry McEvoy
+Barry McGovern
 Barry Melrose
 Barry Miller
 Barry Morse
@@ -1917,7 +1924,7 @@ Based Dub.
 Bashar Rahal
 Basil Hoffman
 Basil Hoskins
-Basil M. Rae
+Basil McRae
 Basil Wallace
 Bass guitar
 Bata Kameni
@@ -1967,8 +1974,8 @@ Bela B.
 Belinda Balaski
 Belinda Bauer
 Belinda J. Montgomery
-Belinda M. Clory
 Belinda Mayne
+Belinda McClory
 Belinda Metz
 Belinda Montgomery
 Belinda Palmer
@@ -2011,8 +2018,8 @@ Ben Kingsley
 Ben L. Jones
 Ben Lemon
 Ben Lessy
-Ben M. Cain
 Ben Masters
+Ben McCain
 Ben Mendelsohn
 Ben Miles
 Ben Miller
@@ -2058,7 +2065,7 @@ Benjamin Diskin
 Benjamin Hendrickson
 Benjamin J. Perry
 Benjamin John Parrillo
-Benjamin M. Kenzie
+Benjamin McKenzie
 Benjamin Millepied
 Benjamin Mouton
 Benjamin Ochieng
@@ -2069,7 +2076,7 @@ Benjamin Whitrow
 Benjamín Benítez
 Benjean
 Bennet Guillory
-Benno C. Schmidt, Jr.
+Benno C. Schmidt Jr.
 Benno Fürmann
 Benny Andersson
 Benny Baker
@@ -2111,8 +2118,8 @@ Bernie Coulson
 Bernie Friedman
 Bernie Hamilton
 Bernie Kopell
-Bernie M. Inerney
 Bernie Mac
+Bernie McInerney
 Bernie Nicholls
 Bernie Pock
 Bernie Sanders
@@ -2176,24 +2183,24 @@ Betty Gilpin
 Betty Kean
 Betty Laird
 Betty Linde
-Betty M. Dowall
+Betty McDowall
 Betty Miner
 Betty Shabazz
 Betty Thomas
 Betty White
 Beulah Quo
-Beverlee M. Kinsey
+Beverlee McKinsey
 Beverley Breuer
 Beverley Elliott
 Beverley Mitchell
 Beverly Archer
-Beverly D. Angelo
+Beverly D'Angelo
 Beverly Garland
 Beverly Hope Atkinson
 Beverly Johnson
 Beverly Leech
-Beverly M. Neely
 Beverly May
+Beverly McNeely
 Beverly Polcyn
 Beverly Powers
 Beverly Sanders
@@ -2212,7 +2219,7 @@ Bibi Andersson
 Bibi Besch
 Bibi Osterwald
 Biff Elliot
-Biff M. Guire
+Biff McGuire
 Biff Yeager
 Big Boi
 Big Boy
@@ -2293,13 +2300,13 @@ Bill Lake
 Bill Lancaster
 Bill Leadbitter
 Bill Lee
-Bill M. Cutcheon
-Bill M. Kinney
 Bill MacDonald
 Bill Macy
 Bill Maher
 Bill Marley
 Bill Maynard
+Bill McCutcheon
+Bill McKinney
 Bill Meilen
 Bill Melendez
 Bill Mondy
@@ -2310,7 +2317,7 @@ Bill Mumy
 Bill Murray
 Bill Nighy
 Bill Nunn
-Bill O. Reilly
+Bill O'Reilly
 Bill Paterson
 Bill Paxton
 Bill Pullman
@@ -2449,8 +2456,8 @@ Blake Foster
 Blake Hammond
 Blake Heron
 Blake Lively
-Blake M. Grath
-Blake M. Iver Ewing
+Blake McGrath
+Blake McIver Ewing
 Blake Nelson Boyd
 Blake Ritson
 Blake Shields
@@ -2465,7 +2472,7 @@ Bland Simpson
 Blas Elias
 Blaze Berdahl
 Blerim Destani
-Bleu M. Kenzie
+Bleu McKenzie
 Blink-182
 Blondie
 Blythe Auffarth
@@ -2496,7 +2503,7 @@ Bob Costas
 Bob Cousy
 Bob Crane
 Bob Cunningham
-Bob D. Simone
+Bob DeSimone
 Bob Delegall
 Bob Denver
 Bob Dishy
@@ -2534,12 +2541,12 @@ Bob Knight
 Bob Koherr
 Bob Lanier
 Bob Lujan
-Bob M. Clurg
-Bob M. Fadden
-Bob M. Grath
 Bob March
 Bob Marley
 Bob Mason
+Bob McClurg
+Bob McFadden
+Bob McGrath
 Bob Miller
 Bob Neill
 Bob Nelson
@@ -2598,7 +2605,7 @@ Bobby Parr
 Bobby Pickett
 Bobby Sherman
 Bobby Short
-Bobby Simmons, Jr.
+Bobby Simmons Jr.
 Bobby Slayton
 Bobby Steggert
 Bobby Van
@@ -2622,9 +2629,9 @@ Bonnie Hellman
 Bonnie Henna
 Bonnie Henry
 Bonnie Hunt
-Bonnie M. Kee
 Bonnie Martin
 Bonnie Mbuli
+Bonnie McKee
 Bonnie Piesse
 Bonnie Raitt
 Bonnie Root
@@ -2643,7 +2650,7 @@ Boris Kievsky
 Boris Kodjoe
 Boris Lee Krutonog
 Boris Leskin
-Boris M. Giver
+Boris McGiver
 Boris Sichkin
 Bosco Hogan
 Bostin Christopher
@@ -2712,14 +2719,14 @@ Brandon Call
 Brandon Cruz
 Brandon Fobbs
 Brandon Hammond
-Brandon Jay M. Laren
+Brandon Jay McLaren
 Brandon Kleyla
 Brandon Lee
 Brandon Maggart
 Brandon Molale
 Brandon Mychal Smith
 Brandon Novak
-Brandon O. Dell
+Brandon O'Dell
 Brandon Quintin Adams
 Brandon Routh
 Brandon Smith
@@ -2753,7 +2760,7 @@ Brenda Fricker
 Brenda James
 Brenda Kamino
 Brenda Lee
-Brenda M. Donald
+Brenda McDonald
 Brenda Pressley
 Brenda Russell
 Brenda Song
@@ -2770,17 +2777,17 @@ Brendan Fraser
 Brendan Gleeson
 Brendan Hughes
 Brendan Kelly
-Brendan M. Curdy
+Brendan McCurdy
 Brendan Meyer
-Brendan O. Brien
+Brendan O'Brien
 Brendan Penny
 Brendan Ryan Barrett
-Brendan Sexton I. I
+Brendan Sexton III
 Brenden Jefferson
 Brendon Nolan
-Brendon O. Duill
+Brendon O'Duill
 Brendon Ryan Barrett
-Brenna O. Brien
+Brenna O'Brien
 Brennan Brown
 Brennan Howard
 Brennan Mejia
@@ -2844,7 +2851,7 @@ Brian Dennehy
 Brian Dietzen
 Brian Doyle-Murray
 Brian Drummond
-Brian F. O. Byrne
+Brian F. O'Byrne
 Brian George
 Brian Geraghty
 Brian Gilbert
@@ -2868,19 +2875,19 @@ Brian Kerwin
 Brian Krause
 Brian Libby
 Brian Lonsdale
-Brian M. Cardie
-Brian M. Connachie
-Brian M. Govern
 Brian M. Logan
-Brian M. Namara
 Brian Mallon
 Brian Markinson
 Brian Matthews
+Brian McCardie
+Brian McConnachie
+Brian McGovern
+Brian McNamara
 Brian Meehl
 Brian Miller
 Brian Murray
-Brian O. Halloran
-Brian O. Shaughnessy
+Brian O'Halloran
+Brian O'Shaughnessy
 Brian Oulton
 Brian Palermo
 Brian Part
@@ -2942,13 +2949,13 @@ Brigitte Nielsen
 Brinke Stevens
 Brion James
 Brioni Farrell
-Briony M. Roberts
+Briony McRoberts
 Britney Spears
 Britt Allcroft
 Britt Ekland
 Britt Irvin
 Britt Leach
-Britt M. Killip
+Britt McKillip
 Britt Robertson
 Brittany Alyse Smith
 Brittany Ashton Holmes
@@ -2977,12 +2984,12 @@ Brooke Adams
 Brooke Bell
 Brooke Bundy
 Brooke Burns
-Brooke D. Orsay
+Brooke D'Orsay
 Brooke Dillman
 Brooke Fontaine
 Brooke Langton
 Brooke Lyons
-Brooke M. Carter
+Brooke McCarter
 Brooke Nevin
 Brooke Shields
 Brooke Smith
@@ -2994,7 +3001,7 @@ Brooks Rogers
 Brooks Woolley
 Brother Blue
 Brother Theodore
-Brownie M. Ghee
+Brownie McGhee
 Brownstone
 Bruce A. Young
 Bruce Abbott
@@ -3035,11 +3042,11 @@ Bruce La Bruce
 Bruce Lanoil
 Bruce Lee
 Bruce Locke
-Bruce M. Culloch
 Bruce M. Fischer
-Bruce M. Gill
 Bruce Mahler
 Bruce Malmuth
+Bruce McCulloch
+Bruce McGill
 Bruce Myles
 Bruce Norris
 Bruce Norris
@@ -3087,8 +3094,8 @@ Bryan Madorsky
 Bryan Marshall
 Bryan Massey
 Bryan Montgomery
-Bryan O. Byrne
-Bryan O. Dell
+Bryan O'Byrne
+Bryan O'Dell
 Bryan Pringle
 Bryan Singer
 Bryan Travis Smith
@@ -3099,14 +3106,14 @@ Bryce Dallas Howard
 Bryce Robinson
 Bryce Sorensen
 Brynn Thayer
-Brían F. O. Byrne
+Brían F. O'Byrne
 Bríd Brennan
 Bubba Smith
 Buck Flower
 Buck Ford
 Buck Henry
 Buck Kartalian
-Buck M. Dancer
+Buck McDancer
 Buck Taylor
 Buck Young
 Buckcherry
@@ -3147,7 +3154,7 @@ Burkely Duffield
 Burkhard Driest
 Burl Ives
 Burnell Tucker
-Burr D. Benning
+Burr DeBenning
 Burr Steers
 Burt Bacharach
 Burt Kwouk
@@ -3162,9 +3169,9 @@ Busta Rhymes
 Buster Jones
 Busy Philipps
 Butch Beard
-Butch M. Cain
+Butch McCain
 Butch Patrick
-Butterfly M. Queen
+Butterfly McQueen
 Butthole Surfers
 Byrne Piven
 Byron Allen
@@ -3183,23 +3190,25 @@ Béatrice Dalle
 Béla Károlyi
 Bérénice Bejo
 Bönz Malone
+C-Murder
 C. C. H. Pounder
-C. C.H. Pounder
 C. David Johnson
 C. Ernst Harth
 C. Everett Koop
-C. H Pounder
 C. J. Graham
 C. J. Laing
 C. J. Sanders
 C. Martin Croker
-C. Murder
-C. R. Stecyk I. I
+C. R. Stecyk III
 C. Thomas Howell
 C. Winston Damon
-CJ. Adams
-CJ. Mac
-CL. Smooth
+C.C.H. Pounder
+C.J. Graham
+C.J. Sanders
+CCH Pounder
+CJ Adams
+CJ Mac
+CL Smooth
 Cab Calloway
 Cacey Kustosz
 Cady Huffman
@@ -3207,8 +3216,8 @@ Caia Coley
 Caitlin Clarke
 Caitlin FitzGerald
 Caitlin Hale
-Caitlin M. Kenna
-Caitlin O. Heaney
+Caitlin McKenna
+Caitlin O'Heaney
 Caitlin Sanchez
 Caitlin Stansbury
 Caitlin Wachs
@@ -3219,7 +3228,7 @@ Caleb Landry Jones
 Cali Timmins
 Calico Cooper
 Calista Flockhart
-Callan M. Auliffe
+Callan McAuliffe
 Callie Thorne
 Callum Keith Rennie
 Calpernia Addams
@@ -3318,7 +3327,7 @@ Carey Mulligan
 Carey Scott
 Carice van Houten
 Carissa Capobianco
-Carl A. M. Gee
+Carl A. McGee
 Carl Anderson
 Carl Anthony Payne II
 Carl Ballantine
@@ -3336,11 +3345,11 @@ Carl Hancock Rux
 Carl Hiaasen
 Carl Kasell
 Carl Kraines
-Carl Le Blanc I. I
+Carl Le Blanc III
 Carl Lee
 Carl Lewis
 Carl Lumbly
-Carl M. Coy
+Carl McCoy
 Carl Michael Lindner
 Carl Monson
 Carl Nielsen
@@ -3410,10 +3419,10 @@ Carmen Ejogo
 Carmen Electra
 Carmen Filpi
 Carmen Llywelyn
-Carmen M. Rae
 Carmen Mathews
 Carmen Matthews
 Carmen Maura
+Carmen McRae
 Carmen Serano
 Carmen Twillie
 Carmen Zapata
@@ -3464,7 +3473,7 @@ Carolina Ravassa
 Caroline Aaron
 Caroline Cave
 Caroline Chikezie
-Caroline D. Amore
+Caroline D'Amore
 Caroline Dhavernas
 Caroline Dollar
 Caroline Goodall
@@ -3472,9 +3481,9 @@ Caroline Junko King
 Caroline Kava
 Caroline Lagerfelt
 Caroline Langrishe
-Caroline M. Williams
+Caroline McWilliams
 Caroline Munro
-Caroline O. Connor
+Caroline O'Connor
 Caroline Rhea
 Caroline Sunshine
 Caroline Vasicek
@@ -3487,7 +3496,7 @@ Carolyn De Fonseca
 Carolyn Farina
 Carolyn Jones
 Carolyn Lawrence
-Carolyn M. Cormick
+Carolyn McCormick
 Carolyn Moss
 Carolyn Murphy
 Carolyn Pickles
@@ -3505,7 +3514,7 @@ Carrie Stevens
 Carrie Szlasa
 Carrie-Anne Moss
 Carroll Baker
-Carroll O. Connor
+Carroll O'Connor
 Carrot Top
 Carré Otis
 Carson Daly
@@ -3568,11 +3577,11 @@ Catherine Hicks
 Catherine Keener
 Catherine Kellner
 Catherine Lloyd Burns
-Catherine M. Cormack
-Catherine M. Goohan
-Catherine M. Leod
 Catherine Mary Stewart
-Catherine O. Hara
+Catherine McCormack
+Catherine McGoohan
+Catherine McLeod
+Catherine O'Hara
 Catherine Oxenberg
 Catherine Parks
 Catherine Peppers
@@ -3620,8 +3629,8 @@ Cecily Polson
 Cedar Walton
 Cedric Maxwell
 Cedric Yarbrough
-Cedric the Entertainer
 Cedrick Hardman
+Cedric~the~Entertainer
 Celeste Holm
 Celeste Simpson-Boyd
 Celeste Yarnall
@@ -3631,7 +3640,7 @@ Celia Gregory
 Celia Imrie
 Celia Kaye
 Celia Lovsky
-Celia M. Guire
+Celia McGuire
 Celia Newman
 Celia Weston
 Celina Font
@@ -3656,7 +3665,7 @@ Chad Hayes
 Chad Kula
 Chad Lindberg
 Chad Lowe
-Chad M. Queen
+Chad McQueen
 Chad Michael Murray
 Chad Power
 Chad Stahelski
@@ -3735,14 +3744,14 @@ Charles Lavine
 Charles Levin
 Charles Lloyd-Pack
 Charles Ludlam
-Charles M. Caughan
-Charles M. Graw
-Charles M. Gregor
-Charles M. Keown
 Charles Malik Whitfield
 Charles Martin Smith
 Charles Martinet
 Charles Matthau
+Charles McCaughan
+Charles McGraw
+Charles McGregor
+Charles McKeown
 Charles Millot
 Charles Napier
 Charles Nelson Reilly
@@ -3790,9 +3799,9 @@ Charlie Hofheimer
 Charlie Hunnam
 Charlie Jones
 Charlie Korsmo
-Charlie M. Dermott
+Charlie McDermott
 Charlie Murphy
-Charlie O. Connell
+Charlie O'Connell
 Charlie Potter
 Charlie Rich
 Charlie Robinson
@@ -3899,7 +3908,7 @@ Chet Dixon
 Cheuk-Fai Chan
 Chevy Chase
 Cheyenne Jackson
-Chi M. Bride
+Chi McBride
 Chi Muoi Lo
 Chi-Ali
 Chiaki Kuriyama
@@ -3916,7 +3925,7 @@ Chief Dan George
 Chikako Hara
 Chill Wills
 Chin Kar-lok
-China Anne M. Clain
+China Anne McClain
 China Chow
 China Kantner
 China Kong
@@ -3928,7 +3937,7 @@ Chip Chinery
 Chip Esten
 Chip Fields
 Chip Lucia
-Chip M. Allister
+Chip McAllister
 Chip Zien
 Chipo Chung
 Chipper Lowell
@@ -4027,8 +4036,8 @@ Chris Mulkey
 Chris Mullin
 Chris Nash
 Chris Noth
-Chris O. Donnell
-Chris O. Dowd
+Chris O'Donnell
+Chris O'Dowd
 Chris Owen
 Chris Parnell
 Chris Paul
@@ -4060,6 +4069,7 @@ Chris Taylor
 Chris Thomas King
 Chris Torres
 Chris Tucker
+Chris Warren Jr.
 Chris Warren, Jr.
 Chris Webber
 Chris Wedge
@@ -4095,11 +4105,11 @@ Christian Erickson
 Christian Jacobs
 Christian Juttner
 Christian Kane
-Christian M. Kay
 Christian Maelen
 Christian Manon
 Christian Marquand
 Christian Martin
+Christian McKay
 Christian Meoli
 Christian Oliver
 Christian Potenza
@@ -4144,7 +4154,7 @@ Christine Cowden
 Christine Dunford
 Christine Ebersole
 Christine Elise
-Christine Elise M. Carthy
+Christine Elise McCarthy
 Christine Estabrook
 Christine Evangelista
 Christine Firkins
@@ -4222,8 +4232,6 @@ Christopher Lambert
 Christopher Lawford
 Christopher Lee
 Christopher Lloyd
-Christopher M. Donald
-Christopher M. Donald
 Christopher Maher
 Christopher Malcolm
 Christopher Maleki
@@ -4231,6 +4239,8 @@ Christopher Man
 Christopher Mankiewicz
 Christopher Martin
 Christopher Masterson
+Christopher McDonald
+Christopher McDonald
 Christopher Meloni
 Christopher Michael
 Christopher Michael Holley
@@ -4263,7 +4273,7 @@ Christopher Titus
 Christopher Trueblood
 Christopher Villiers
 Christopher Walken
-Christopher Wallace, Jr.
+Christopher Wallace Jr.
 Christopher Ward
 Christopher Williams
 Christy Carlson Romano
@@ -4289,11 +4299,11 @@ Chuck Henry
 Chuck Jones
 Chuck Liddell
 Chuck Low
-Chuck M. Cann
+Chuck McCann
 Chuck Mitchell
 Chuck Norris
 Chuck Pfarrer
-Chuck Pierce, Jr.
+Chuck Pierce Jr.
 Chuck Sacci
 Chuck Shamata
 Chuck Waters
@@ -4309,7 +4319,7 @@ Chyna Layne
 Chynna Phillips
 Ciarán Fitzgerald
 Ciarán Hinds
-Ciarán M. Menamin
+Ciarán McMenamin
 Cicely Tyson
 Cie Cie Win
 Cillian Murphy
@@ -4324,8 +4334,8 @@ Cindy Fisher
 Cindy Gilbert
 Cindy Grover
 Cindy Herron
-Cindy M. Gee
 Cindy Margolis
+Cindy McGee
 Cindy Morgan
 Cindy Pickett
 Cindy Sherman
@@ -4365,7 +4375,7 @@ Clarence Felder
 Clarence Gilyard
 Clarence Muse
 Clarence Page
-Clarence Williams I. I
+Clarence Williams III
 Clarice Blackburn
 Clarice Taylor
 Clark Brandon
@@ -4376,9 +4386,9 @@ Clark Johnson
 Clarke Peters
 Claude Akins
 Claude Dauphin
-Claude Ennis Starrett, Jr.
+Claude Ennis Starrett Jr.
 Claude Genest
-Claude Jarman, Jr.
+Claude Jarman Jr.
 Claude Lelouch
 Claude Maki
 Claudette Mink
@@ -4394,7 +4404,7 @@ Claudia Gerini
 Claudia Jennings
 Claudia Karvan
 Claudia Lennear
-Claudia M. Neil
+Claudia McNeil
 Claudia Mori
 Claudia Neidig
 Claudia Schiffer
@@ -4420,7 +4430,7 @@ Clayton Rohner
 Clayton Snyder
 Clayton Watson
 Cle Shaheed Sloan
-Clea D. Vall
+Clea DuVall
 Clea Lewis
 Clearance Giddens
 Cleavant Derricks
@@ -4436,8 +4446,8 @@ Cleveland Amory
 Cleveland Lumberjacks
 Cliff Brand
 Cliff Curtis
-Cliff D. Young
 Cliff De Young
+Cliff DeYoung
 Cliff Emmich
 Cliff Frazier
 Cliff Gorman
@@ -4451,6 +4461,7 @@ Cliff Thompson
 Clifford Bañagale
 Clifford David
 Clifford Earl
+Clifton Collins Jr.
 Clifton Collins, Jr.
 Clifton Davis
 Clifton James
@@ -4495,7 +4506,7 @@ Cody Cameron
 Cody Horn
 Cody Linley
 Cody Longo
-Cody M. Mains
+Cody McMains
 Coen brothers
 Colby Donaldson
 Colby Kline
@@ -4524,7 +4535,7 @@ Colin Higgins
 Colin Jeavons
 Colin Lawrence
 Colin Linden
-Colin M. Cormack
+Colin McCormack
 Colin Mochrie
 Colin Parker
 Colin Powell
@@ -4559,7 +4570,7 @@ Columbus Short
 Common
 Common
 Conan Lee
-Conan O. Brien
+Conan O'Brien
 Conard Fowkes
 Concetta Tomei
 Conchata Ferrell
@@ -4582,7 +4593,7 @@ Connor Paolo
 Connor Price
 Connor Widdows
 Conny Van Dyke
-Conor O. Farrell
+Conor O'Farrell
 Conrad Bain
 Conrad Brooks
 Conrad Coates
@@ -4643,17 +4654,17 @@ Cornel West
 Cornel Wilde
 Cornelia Frances
 Cornelia Guest
-Cornelia Hayes O. Herlihy
+Cornelia Hayes O'Herlihy
 Cornelia Sharpe
 Cornelius Booth
 Cornell John
 Corrine Bohrer
 Corrinne Michaels
-Cort M. Cown
+Cort McCown
 Cory Danziger
 Cory Edwards
 Cory Hardrict
-Cory M. Abee
+Cory McAbee
 Cory Monteith
 Cosie Costa
 Cosimo Fusco
@@ -4691,7 +4702,7 @@ Craig Kelly
 Craig Kilborn
 Craig Kirkwood
 Craig Lembke
-Craig M. Lachlan
+Craig McLachlan
 Craig Olejnik
 Craig Parker
 Craig Parkinson
@@ -4737,7 +4748,7 @@ Crystal Robbins
 Crystal Scales
 Crystal Smith
 Crystle Lightning
-Cuba Gooding, Jr.
+Cuba Gooding Jr.
 Cullen Douglas
 Cullen Moss
 Cung Le
@@ -4750,8 +4761,8 @@ Curt Matson
 Curtis Armstrong
 Curtis Carnathan
 Curtis Cokes
-Curtis M. Clarin
 Curtis Mayfield
+Curtis McClarin
 Curtis Rowe
 Cy Coleman
 Cy Grant
@@ -4788,8 +4799,8 @@ Cyril Appleton
 Cyril Cusack
 Cyril Lecomte
 Cyril Magnin
-Cyril O. Reilly
-Cyril O. Reilly
+Cyril O'Reilly
+Cyril O'Reilly
 Cyril Raffaelli
 Cyril Ritchard
 Cyril Shaps
@@ -4802,38 +4813,34 @@ Cécile de France
 Céline Bonnier
 Céline Lomez
 Céline Sallette
+D Quion
+D'Mitch Davis
+D'Urville Martin
+D-Nice
 D. B. Sweeney
 D. B. Woodside
 D. David Morin
-D. Forest Covan
-D. Forest Kelley
 D. Garnet Harding
-D. I.
 D. J. Cotrona
-D. J. Harder
 D. L. Hughley
-D. Mitch Davis
-D. Nice
-D. Obia Oparei
-D. Quina Moore
-D. Quion
-D. Ray Davis
-D. Urville Martin
-D. Vaughn Nixon
-D. Veren Bookwalter
-D. W. Brown
 D. W. Moffett
-D. Wayne Jessie
-D. X
-DJ. Clue
-DJ. Nu-Mark
-DJ. Paul
-DJ. Pooh
-DJ. Qualls
-DJ. Quik
-DJ. Spinderella
+D.B. Sweeney
+D.I.
+D.J. Cotrona
+D.J. Harder
+D.L. Hughley
+D.W. Brown
+D.W. Moffett
+DJ Clue
+DJ Nu-Mark
+DJ Paul
+DJ Pooh
+DJ Qualls
+DJ Quik
+DJ Spinderella
+DMX
 Da Brat
-Da'Vone M. Donald
+Da'Vone McDonald
 Dabbs Greer
 Dabney Coleman
 Dack Rambo
@@ -4849,7 +4856,7 @@ Daisy Betts
 Daisy Eagan
 Daisy Fuentes
 Daisy Hall
-Daisy M. Crackin
+Daisy McCrackin
 Daisy Previn
 Daisy Tahan
 Dakin Matthews
@@ -4861,7 +4868,7 @@ Dale Cummings
 Dale Cutts
 Dale Dickey
 Dale Dye
-Dale Earnhardt, Jr.
+Dale Earnhardt Jr.
 Dale Frye
 Dale Godboldo
 Dale Ishimoto
@@ -4871,7 +4878,7 @@ Dale Soules
 Dale Swann
 Dale Wyatt
 Dalip Tahil
-Dallas M. Kennon
+Dallas McKennon
 Dallas Roberts
 Dalton James
 Dalton Trumbo
@@ -4891,13 +4898,14 @@ Damita Jo Freeman
 Damián Alcázar
 Damián Delgado
 Damon Buford
-Damon D. Oliveira
+Damon D'Oliveira
 Damon Dash
 Damon Gibson
 Damon Gupton
 Damon Herriman
 Damon Jones
 Damon Wayans
+Damon Wayans Jr.
 Damon Wayans, Jr.
 Dan Aykroyd
 Dan Bakkedahl
@@ -4944,8 +4952,8 @@ Dan Marino
 Dan Martin
 Dan Monahan
 Dan Mott
-Dan O. Bannon
-Dan O. Herlihy
+Dan O'Bannon
+Dan O'Herlihy
 Dan Patrick
 Dan Payne
 Dan Povenmire
@@ -4954,6 +4962,7 @@ Dan Schneider
 Dan Seymour
 Dan Shor
 Dan Stanton
+Dan Tullis Jr.
 Dan Tullis, Jr.
 Dan Vadis
 Dan White
@@ -4999,7 +5008,7 @@ Dane Witherspoon
 Danelle Folta
 Danger Ehren
 Dania Ramirez
-Danica M. Kellar
+Danica McKellar
 Daniel Abineri
 Daniel Adams
 Daniel Bacon
@@ -5019,10 +5028,10 @@ Daniel Cosgrove
 Daniel Craig
 Daniel Cudmore
 Daniel Curtis Lee
-Daniel D. Santo
 Daniel Dae Kim
 Daniel Davis
 Daniel Day-Lewis
+Daniel DeSanto
 Daniel Demorest
 Daniel Di Biase
 Daniel Do
@@ -5050,14 +5059,14 @@ Daniel Lapaine
 Daniel Letterle
 Daniel Logan
 Daniel London
-Daniel M. Donald
 Daniel Magder
 Daniel Martínez
 Daniel Massey
 Daniel Mays
+Daniel McDonald
 Daniel Mesguich
 Daniel Newman
-Daniel O. Shea
+Daniel O'Shea
 Daniel Okrent
 Daniel Olbrychski
 Daniel Peacock
@@ -5117,16 +5126,16 @@ Dann Florek
 Danneel Harris
 Danny A. Abeckaser
 Danny Aiello
-Danny Aiello I. I
+Danny Aiello III
 Danny Arnold
 Danny Blanco-Hall
 Danny Bonaduce
 Danny Burstein
 Danny Cooksey
 Danny Corkill
-Danny D. Vito
 Danny Darst
 Danny Dayton
+Danny DeVito
 Danny Denzongpa
 Danny Elfman
 Danny Gans
@@ -5143,11 +5152,11 @@ Danny John-Jules
 Danny Kamekona
 Danny Kortchmar
 Danny Lopez
-Danny M. Bride
-Danny M. Bride
 Danny Mann
 Danny Masterson
 Danny Mastrogiorgio
+Danny McBride
+Danny McBride
 Danny Nucci
 Danny Pino
 Danny Pintauro
@@ -5178,13 +5187,13 @@ Daphne Zuniga
 Dar Robinson
 Dar Williams
 Dara Sedaka
-Daragh O. Malley
+Daragh O'Malley
 Daran Norris
 Darby Hinton
 Darby Lloyd Rains
 Darby Stanchfield
 Darcel Wynne
-Darcy D. Moss
+Darcy DeMoss
 Darcy Fehr
 Darcy Flynn
 Daren Firestone
@@ -5194,7 +5203,7 @@ Darian Mathias
 Darin Berry
 Dario Argento
 Dario Dukah
-Darius M. Crary
+Darius McCrary
 Darius Miles
 Darla Vandenbossche
 Darlanne Fluegel
@@ -5220,9 +5229,9 @@ Darren Aronofsky
 Darren Dalton
 Darren E. Burrows
 Darren Frost
-Darren M. Gavin
+Darren McGavin
 Darren Moore
-Darren O. Connor
+Darren O'Connor
 Darren Pang
 Darren Robinson
 Darren Shahlavi
@@ -5232,7 +5241,7 @@ Darris Love
 Darryl Brunson
 Darryl Hickman
 Darryl M. Bell
-Darryl M. Daniels
+Darryl McDaniels
 Darryl Pierce
 Darryl Sivad
 Dartanyan Edmonds
@@ -5286,7 +5295,7 @@ Dave Ward
 Dave Willis
 Dave Willock
 Daveigh Chase
-Davenia M. Fadden
+Davenia McFadden
 Davetta Sherwood
 Davey Davison
 Davey Johnstone
@@ -5361,10 +5370,10 @@ David Crosby
 David Cross
 David Cryer
 David Cubitt
-David D. Luise
 David Darling
 David Dastmalchian
 David Dayan Fisher
+David DeLuise
 David Della Rocco
 David Denman
 David Dewlow
@@ -5475,9 +5484,6 @@ David Lovgren
 David Lowe
 David Lynch
 David López
-David M. Callum
-David M. Ilwraith
-David M. Lean
 David Macklin
 David Maddock
 David Mann
@@ -5486,6 +5492,9 @@ David Marciano
 David Margulies
 David Marshall Grant
 David Martí
+David McCallum
+David McIlwraith
+David McLean
 David Mendenhall
 David Mickey Evans
 David Midthunder
@@ -5505,7 +5514,7 @@ David Ngoombujarra
 David Niven
 David Niven, Jr.
 David Norona
-David O. Hara
+David O'Hara
 David Ogden Stiers
 David Oliver
 David Opatoshu
@@ -5642,9 +5651,17 @@ De'Angelo Wilson
 De'Aundre Bonds
 De'aundre Bonds
 De'voreaux White
+DeForest Covan
+DeForest Kelley
+DeObia Oparei
+DeQuina Moore
+DeRay Davis
+DeVaughn Nixon
+DeVeren Bookwalter
+DeWayne Jessie
 Deacon Jones
 Deak Evgenikos
-Dealin L. Valley
+Dealin LaValley
 Dean Armstrong
 Dean Brooks
 Dean Butler
@@ -5661,9 +5678,9 @@ Dean Haglund
 Dean Jagger
 Dean Jones
 Dean Lorey
-Dean M. Dermott
 Dean Marshall
 Dean Martin
+Dean McDermott
 Dean Norris
 Dean Palmer
 Dean Shek
@@ -5703,9 +5720,9 @@ Deborah Harry
 Deborah Hedwall
 Deborah Kaplan
 Deborah Kara Unger
-Deborah M. Guire
-Deborah M. Naughton
 Deborah May
+Deborah McGuire
+Deborah McNaughton
 Deborah Moore
 Deborah Odell
 Deborah Offner
@@ -5739,7 +5756,7 @@ Debra Wilson
 Debra Winger
 Debrah Farentino
 Debralee Scott
-Deby L. Plante
+Deby LaPlante
 Declan Mulholland
 Dedee Pfeiffer
 Dedrick D. Gobert
@@ -5749,7 +5766,7 @@ Dee Dee Ramone
 Dee Dee Rescher
 Dee Jay Daniels
 Dee Jay Jackson
-Dee M. Cafferty
+Dee McCafferty
 Dee Snider
 Dee Wallace
 Deedee Magno Hall
@@ -5768,8 +5785,8 @@ Deirdre Berthrong
 Deirdre Lenihan
 Deirdre Lorenz
 Deirdre Lovejoy
-Deirdre O. Connell
-Deirdre O. Connell
+Deirdre O'Connell
+Deirdre O'Connell
 Deirdre Quinn
 Del Close
 Del Henney
@@ -5817,13 +5834,13 @@ Denis Lavant
 Denis Leary
 Denis Menochet
 Denis Ménochet
-Denis O. Hare
+Denis O'Hare
 Denis Quilley
 Denise Boutte
 Denise Bryer
 Denise Crosby
-Denise D. Barry
 Denise Dillaway
+Denise DuBarry
 Denise Dumont
 Denise Faye
 Denise Galik
@@ -5860,7 +5877,7 @@ Dennis Howard
 Dennis James
 Dennis Junt
 Dennis Kleinsmith
-Dennis L. A. White
+Dennis L.A. White
 Dennis Lehane
 Dennis Letts
 Dennis Lipscomb
@@ -5900,7 +5917,7 @@ Derek Jacobi
 Derek Jeter
 Derek Luke
 Derek Luke
-Derek M. Grath
+Derek McGrath
 Derek Mears
 Derek Meddings
 Derek Nelson
@@ -5919,11 +5936,11 @@ Derk Cheetwood
 Dermot Crowley
 Dermot Mulroney
 Dermott Downs
-Deron M. Bee
+Deron McBee
 Derrick 'Capone' Lee
 Derrick Ashong
 Derrick Branche
-Derrick O. Connor
+Derrick O'Connor
 Derrick Sanders
 Derwin Jordan
 Deryck Guyler
@@ -5932,6 +5949,7 @@ Deryle J. Lujan
 Desean Terry
 Deshun Wang
 Desi Arnaz
+Desi Arnaz Jr.
 Desi Arnaz, Jr.
 Desiree Casado
 Desiree Cousteau
@@ -5949,7 +5967,7 @@ Destiny Reyes Allstun
 Dev Patel
 Devendra Banhart
 Devika Parikh
-Devin D. Vasquez
+Devin DeVasquez
 Devin Ratray
 Devo
 Devon Aoki
@@ -5969,7 +5987,7 @@ Dexter Holland
 Dey Young
 Deya Simone
 Dez Dickerson
-Dhaffer L. Abidine
+Dhaffer L'Abidine
 Diahann Carroll
 Diahnne Abbott
 Diamond Dallas Page
@@ -5999,7 +6017,7 @@ Diana-Maria Riva
 Diane Ayala Goldner
 Diane Baker
 Diane Cary
-Diane D. Aquila
+Diane D'Aquila
 Diane Deckard
 Diane Delano
 Diane Franklin
@@ -6008,7 +6026,7 @@ Diane Keaton
 Diane Kruger
 Diane Ladd
 Diane Lane
-Diane M. Bain
+Diane McBain
 Diane Michelle
 Diane Mizota
 Diane Pershing
@@ -6041,10 +6059,10 @@ Dick Gregory
 Dick Haymes
 Dick Latessa
 Dick Lowry
-Dick M. Garvin
 Dick Martin
+Dick McGarvin
 Dick Miller
-Dick O. Neill
+Dick O'Neill
 Dick Richards
 Dick Roberge
 Dick Rude
@@ -6077,7 +6095,7 @@ Dikembe Mutombo
 Dikran Tulaine
 Dileep Rao
 Dillon Freasier
-Dillon O. Mahoney
+Dillon O'Mahoney
 Dimitra Arliss
 Dimitri Diatchenko
 Dimitri Logothetis
@@ -6100,7 +6118,7 @@ Dinsdale Landen
 Dion Albanese
 Dion Basco
 Dion Culberson
-Dion D. Mucci
+Dion DiMucci
 Dion Lane
 Dionisio
 Dionne Quan
@@ -6136,7 +6154,7 @@ Dolores Sutton
 Dolores del Río
 Dolph Lundgren
 Dolph Sweet
-Dom D. Luise
+Dom DeLuise
 Dom Hetrakul
 Dom Irrera
 Dom Magwili
@@ -6173,7 +6191,7 @@ Dominique Sanda
 Dominique Swain
 Dominique Valera
 Domiziana Giordano
-Don 'D. C.' Curry
+Don 'D.C.' Curry
 Don Adams
 Don Ameche
 Don Amendolia
@@ -6222,13 +6240,13 @@ Don Kennedy
 Don King
 Don Knight
 Don Knotts
-Don L. Fontaine
+Don LaFontaine
 Don Lake
-Don M. Corkindale
-Don M. Kellar
-Don M. Killop
-Don M. Manus
 Don Marshall
+Don McCorkindale
+Don McKellar
+Don McKillop
+Don McManus
 Don Megowan
 Don Messick
 Don Michael Paul
@@ -6275,8 +6293,8 @@ Dona Speir
 Donal Donnelly
 Donal Gibson
 Donal Logue
-Donal M. Cann
-Donal M. Cann
+Donal McCann
+Donal McCann
 Donald Burton
 Donald Douglas
 Donald Eccles
@@ -6294,7 +6312,7 @@ Donald Madden
 Donald Mantooth
 Donald May
 Donald Moffat
-Donald O. Connor
+Donald O'Connor
 Donald Patrick Harvey
 Donald Pilon
 Donald Pleasence
@@ -6309,12 +6327,12 @@ Donald Webster
 Dondre T. Whitfield
 Dondre Whitfield
 Donna Anderson
-Donna D. Errico
+Donna D'Errico
 Donna Dixon
 Donna Hanover
 Donna Jamison
 Donna King
-Donna M. Kechnie
+Donna McKechnie
 Donna Mills
 Donna Mitchell
 Donna Murphy
@@ -6326,7 +6344,7 @@ Donna de Varona
 Donnald P. Sibble
 Donnelly Rhodes
 Donnie Fritts
-Donnie M. Clurkin
+Donnie McClurkin
 Donnie Montemarano
 Donnie Most
 Donnie Wahlberg
@@ -6365,8 +6383,8 @@ Dorothy Lamour
 Dorothy Loudon
 Dorothy Love Coates
 Dorothy Lyman
-Dorothy M. Guire
 Dorothy Malone
+Dorothy McGuire
 Dorothy Shay
 Dorothy Stratten
 Dorothy Tutin
@@ -6392,9 +6410,9 @@ Doug Johnson
 Doug Jones
 Doug Kershaw
 Doug Lennox
-Doug M. Clure
-Doug M. Grath
-Doug M. Keon
+Doug McClure
+Doug McGrath
+Doug McKeon
 Doug Parker
 Doug Preis
 Doug Robinson
@@ -6410,13 +6428,13 @@ Douglas Anderson
 Douglas Barr
 Douglas Campbell
 Douglas Emerson
-Douglas Fairbanks, Jr.
+Douglas Fairbanks Jr.
 Douglas Fowley
 Douglas Gresham
 Douglas Henshall
 Douglas Hodge
 Douglas Kenney
-Douglas M. Grath
+Douglas McGrath
 Douglas Rain
 Douglas Robinson
 Douglas Rowe
@@ -6488,7 +6506,7 @@ Duncan Gamble
 Duncan Maclean
 Duncan Regehr
 Duncan Young
-Durga M. Broom
+Durga McBroom
 Dustin Diamond
 Dustin Hoffman
 Dustin Lance Black
@@ -6517,14 +6535,15 @@ Dwyane Wade
 Dyan Cannon
 Dyana Ortelli
 Dyanne Thorne
+Dyer McHenry
 Dylan Baker
 Dylan Bruno
 Dylan Cash
 Dylan Hartigan
 Dylan Henry
 Dylan Kussman
-Dylan M. Dermott
-Dylan M. Laughlin
+Dylan McDermott
+Dylan McLaughlin
 Dylan Minnette
 Dylan Moran
 Dylan Neal
@@ -6543,9 +6562,11 @@ E. J. Morris
 E. J. Peaker
 E. Katherine Kerr
 E. Lamont Johnson
-E. MD
 E. Rodney Jones
-E. Y.C.
+E.G. Daily
+E.G. Marshall
+E.Y.C.
+EPMD
 Eamonn Healy
 Eamonn Owens
 Eamonn Roche
@@ -6578,7 +6599,7 @@ Ecstasia Sanders
 Ed Amatrudo
 Ed Asner
 Ed Baierlein
-Ed Begley, Jr.
+Ed Begley Jr.
 Ed Bernard
 Ed Binns
 Ed Bishop
@@ -6601,16 +6622,16 @@ Ed Jewett
 Ed Koch
 Ed Lauter
 Ed Lover
-Ed M. Mahon
-Ed M. Namara
 Ed Mann
 Ed Marinaro
+Ed McMahon
+Ed McNamara
 Ed Metzger
 Ed Nelson
-Ed O. Neill
-Ed O. Ross
+Ed O'Neill
+Ed O'Ross
 Ed Parker
-Ed Parker, Jr.
+Ed Parker Jr.
 Ed Peck
 Ed Peranio
 Ed Robertson
@@ -6631,7 +6652,7 @@ Edd Byrnes
 Eddie Albert
 Eddie Alderson
 Eddie Barth
-Eddie Bo Smith, Jr.
+Eddie Bo Smith Jr.
 Eddie Bracken
 Eddie Bunker
 Eddie Byrne
@@ -6644,7 +6665,7 @@ Eddie Duncan
 Eddie Egan
 Eddie Firestone
 Eddie Fisher
-Eddie Foy, Jr.
+Eddie Foy Jr.
 Eddie Frierson
 Eddie Garcia
 Eddie Gossling
@@ -6659,8 +6680,8 @@ Eddie Lawrence
 Eddie Levert
 Eddie Little Sky
 Eddie Lo Russo
-Eddie M. Clintock
 Eddie Marsan
+Eddie McClintock
 Eddie Mekka
 Eddie Mills
 Eddie Murphy
@@ -6685,7 +6706,7 @@ Edge
 Edi Gathegi
 Edie Adams
 Edie Falco
-Edie M. Clurg
+Edie McClurg
 Edie Mirman
 Edison Chen
 Edita Brychta
@@ -6695,7 +6716,7 @@ Edith Díaz
 Edith Fellows
 Edith Heerdegen
 Edith Massey
-Edmond O. Brien
+Edmond O'Brien
 Edmund Cambridge
 Edmund Chen
 Edmund Entin
@@ -6705,7 +6726,7 @@ Edmund Moriarty
 Edmund Villa
 Edoardo Ballerini
 Edoardo Costa
-Edouard D. Soto
+Edouard DeSoto
 Edsel Keith
 Eduard Fernández
 Eduard Will
@@ -6775,10 +6796,11 @@ Edwin Newman
 Edwin de Leon
 Edwina Follows
 Edy Williams
+Efrem Zimbalist Jr.
 Efrem Zimbalist, Jr.
 Efren Ramirez
 Egor Pazenko
-Ehren M. Ghehey
+Ehren McGhehey
 Eiji Go
 Eiji Okada
 Eileen April Boylan
@@ -6840,7 +6862,7 @@ Eli Roth
 Eli Wallach
 Elias Hänninen Pedersen
 Elias Koteas
-Elias M. Connell
+Elias McConnell
 Elie Samaha
 Eliel Swinton
 Elijah Kelley
@@ -6870,6 +6892,7 @@ Elisabeth Spriggs
 Elisabeth Wagner
 Elise Gatien
 Elise Neal
+Elisha Cook Jr.
 Elisha Cook, Jr.
 Elisha Cuthbert
 Elisha Shapiro
@@ -6911,12 +6934,12 @@ Elizabeth Kaitan
 Elizabeth Kapu'uwailani Lindsey
 Elizabeth Kemp
 Elizabeth Lawrence
-Elizabeth M. Govern
-Elizabeth M. Kechnie
 Elizabeth MacRae
 Elizabeth Maclellan
 Elizabeth Marvel
 Elizabeth Mathis
+Elizabeth McGovern
+Elizabeth McKechnie
 Elizabeth Mitchell
 Elizabeth Nottoli
 Elizabeth Omilami
@@ -6955,15 +6978,15 @@ Ellen Burstyn
 Ellen Cleghorne
 Ellen Corby
 Ellen Crawford
-Ellen D. Generes
 Ellen David
+Ellen DeGeneres
 Ellen Dubin
 Ellen Foley
 Ellen Geer
 Ellen Gerstell
 Ellen Greene
 Ellen Holly
-Ellen M. Elduff
+Ellen McElduff
 Ellen Muth
 Ellen Page
 Ellen Parker
@@ -6985,7 +7008,7 @@ Ellis Williams
 Elmer Kline
 Elmore Vincent
 Elodie Bouchez
-Eloise Broady D. Joria
+Eloise Broady DeJoria
 Eloise Eonnet
 Eloy Casados
 Elpidia Carrillo
@@ -7022,7 +7045,7 @@ Emil Feist
 Emil Hostina
 Emil Marwa
 Emil Sitka
-Emile Abossolo M. Bo
+Emile Abossolo M'Bo
 Emile Gladstone
 Emile Hirsch
 Emiliano Redondo
@@ -7124,9 +7147,9 @@ Enzo Cilenti
 Enzo Fiermonte
 Enzo G. Castellari
 Enzo Robutti
-Enzo Squillino, Jr.
+Enzo Squillino Jr.
 Enzo Vitale
-Eoin M. Carthy
+Eoin McCarthy
 Eric Allan Kramer
 Eric Andre
 Eric Anthony
@@ -7173,9 +7196,9 @@ Eric Laneuville
 Eric Lange
 Eric Lively
 Eric Lloyd
-Eric M. Cormack
 Eric Mabius
 Eric Mason
+Eric McCormack
 Eric Mercury
 Eric Michael Cole
 Eric Millegan
@@ -7215,7 +7238,7 @@ Erica Gavin
 Erica Gimpel
 Erica Leerhsen
 Erica Luttrell
-Erica M. Dermott
+Erica McDermott
 Erica Yohn
 Erica Zeitlin
 Erich Anderson
@@ -7274,13 +7297,13 @@ Erna Brunell
 Erna Riedl
 Ernest Borgnine
 Ernest Dickerson
-Ernest Dickerson, Jr.
+Ernest Dickerson Jr.
 Ernest Harada
 Ernest Harden, Jr.
 Ernest Lee Thomas
 Ernest Miller
 Ernest Misko
-Ernest O. Donnell
+Ernest O'Donnell
 Ernest P. Worrell
 Ernest Thompson
 Ernest Tubb
@@ -7297,6 +7320,7 @@ Ernie Grunwald
 Ernie Hudson
 Ernie Lee Banks
 Ernie Lively
+Ernie Reyes Jr.
 Ernie Reyes, Jr.
 Ernie Sabella
 Ernie Wheelwright
@@ -7369,7 +7393,7 @@ Eva Gabor
 Eva Green
 Eva Haßmann
 Eva Huang
-Eva L. Rue
+Eva LaRue
 Eva Le Gallienne
 Eva Longoria
 Eva Löbau
@@ -7407,8 +7431,8 @@ Eve Brenner
 Eve Brent
 Eve Brent Ashe
 Eve Gordon
-Eve M. Veagh
 Eve Mauro
+Eve McVeagh
 Eve Plumb
 Evel Knievel
 Evelyn Ashford
@@ -7419,12 +7443,12 @@ Evelyn Krape
 Evelyn Lear
 Ever Carradine
 Everclear
-Everett M. Gill
+Everett McGill
 Everlast
 Evie Peck
 Ewa Telega
 Ewan Chung
-Ewan M. Gregor
+Ewan McGregor
 Ewan Stewart
 Ewen Bremner
 Ewen Solon
@@ -7438,9 +7462,9 @@ Ezio Greggio
 Ezra Buzzington
 Ezra Dagan
 Ezra Miller
-F. J. O. Neil
 F. Murray Abraham
 F. William Parker
+F.J. O'Neil
 Fab 5 Freddy
 Fab Filippo
 Fab Five Freddy
@@ -7508,7 +7532,7 @@ Felicity Dean
 Felicity Huffman
 Felicity Jones
 Felicity Kendal
-Felicity L. Fortune
+Felicity LaFortune
 Felicity Waterman
 Felipe Luciano
 Felipe Rose
@@ -7520,6 +7544,7 @@ Felli Fel
 Felton Perry
 Femi Fatoba
 Fenella Woolgar
+Feodor Chaliapin Jr.
 Feodor Chaliapin, Jr.
 Ferdy Mayne
 Fergal Reilly
@@ -7570,7 +7595,7 @@ Fisher Stevens
 Flaminia Cinque
 Flavor Flav
 Flea
-Flesh-N. Bone
+Flesh-N-Bone
 Flex Alexander
 Flip Wilson
 Flo Gerrish
@@ -7598,7 +7623,7 @@ Fonzworth Bentley
 Forbes Collins
 Ford Rainey
 Forest Whitaker
-Forrest J. Ackerman
+Forrest J Ackerman
 Forrest Landis
 Forrest Murray
 Forrest Tucker
@@ -7630,10 +7655,10 @@ Frances Fisher
 Frances Foster
 Frances Fuller
 Frances Hyland
-Frances Lee M. Cain
-Frances M. Dormand
+Frances Lee McCain
+Frances McDormand
 Frances Nacman
-Frances O. Connor
+Frances O'Connor
 Frances Sternhagen
 Frances de la Tour
 Francesca Annis
@@ -7656,7 +7681,7 @@ Francis Capra
 Francis Ford Coppola
 Francis Guinan
 Francis Laborial
-Francis X. M. Carthy
+Francis X. McCarthy
 Francisca Lopez
 Francisco Gattorno
 Francisco Rabal
@@ -7691,11 +7716,11 @@ Frank Catalano
 Frank Collison
 Frank Converse
 Frank Coraci
-Frank D. Kova
-Frank D. Leo
 Frank De Vol
+Frank DeKova
 Frank Dekova
 Frank Delfino
+Frank DiLeo
 Frank Doubleday
 Frank Douglas
 Frank Finlay
@@ -7717,12 +7742,12 @@ Frank L. Ridley
 Frank Langella
 Frank Lee Sprague
 Frank Loverde
-Frank M. Rae
 Frank Maharajh
 Frank Mankiewicz
 Frank Marshall
 Frank Marth
 Frank Maxwell
+Frank McRae
 Frank Medrano
 Frank Michael Liu
 Frank Middlemass
@@ -7732,8 +7757,8 @@ Frank Moore
 Frank Nelson
 Frank Noon
 Frank Novak
+Frank O'Sullivan
 Frank O. Hill
-Frank O. Sullivan
 Frank Oz
 Frank P. Costanza
 Frank Patterson
@@ -7749,6 +7774,7 @@ Frank Shelley
 Frank Shorter
 Frank Silva
 Frank Sinatra
+Frank Sinatra Jr.
 Frank Sinatra, Jr.
 Frank Singuineau
 Frank Sivero
@@ -7780,7 +7806,7 @@ Frankie Howerd
 Frankie Ingrassia
 Frankie J. Galasso
 Frankie Jonas
-Frankie M. Cafferty
+Frankie McCafferty
 Frankie Muniz
 Frankie Pace
 Frankie Sakai
@@ -7828,12 +7854,12 @@ Fred Henderson
 Fred J. Lincoln
 Fred J. Scollay
 Fred Keating
-Fred Kohler, Jr.
+Fred Kohler Jr.
 Fred Krone
 Fred Lerner
-Fred M. Carren
 Fred MacMurray
 Fred Mandel
+Fred McCarren
 Fred Melamed
 Fred Newman
 Fred Norris
@@ -7867,6 +7893,7 @@ Freddie Highmore
 Freddie Hubbard
 Freddie Jackson
 Freddie Jones
+Freddie Prinze Jr.
 Freddie Prinze, Jr.
 Freddy Fender
 Freddy Moore
@@ -7914,6 +7941,8 @@ G. D. Spradlin
 G. Stanley Jones
 G. W. Bailey
 G. Wood
+G.D. Spradlin
+G.W. Bailey
 GQ
 Gabby West
 Gabe Kaplan
@@ -7969,7 +7998,7 @@ Gail Gale
 Gail Grainger
 Gail Harris
 Gail Matthius
-Gail O. Grady
+Gail O'Grady
 Gail Strickland
 Gail Thomas
 Gailard Sartain
@@ -8006,8 +8035,8 @@ Garry Chalk
 Garry Chalk
 Garry Cooper
 Garry Goodrow
-Garry M. Donald
 Garry Marshall
+Garry McDonald
 Garry Robbins
 Garry Shandling
 Garry Walberg
@@ -8027,7 +8056,7 @@ Gary Bullock
 Gary Busey
 Gary Cady
 Gary Carlos Cervantes
-Gary Clark, Jr.
+Gary Clark Jr.
 Gary Cockrell
 Gary Cole
 Gary Coleman
@@ -8061,14 +8090,14 @@ Gary Johnston
 Gary Kaznocha
 Gary Kemp
 Gary Kroeger
-Gary L. Roi Gray
 Gary Lahti
+Gary LeRoi Gray
 Gary Lewis
 Gary Littlejohn
 Gary Lockwood
-Gary M. Larty
 Gary Marinoff
 Gary Martin
+Gary McLarty
 Gary Merrill
 Gary Morgan
 Gary Morton
@@ -8094,15 +8123,15 @@ Gary Waldhorn
 Gastone Moschin
 Gastón Melo
 Gastón Pauls
-Gates M. Fadden
+Gates McFadden
 Gattlin Griffith
 Gaura Vani
 Gaurav Chopra
-Gavan O. Herlihy
+Gavan O'Herlihy
 Gavin Buhr
 Gavin MacFadyen
 Gavin MacLeod
-Gavin O. Connor
+Gavin O'Connor
 Gavin Polone
 Gavin Rossdale
 Gawn Grainger
@@ -8131,7 +8160,7 @@ Gene Hackman
 Gene Honda
 Gene Kelly
 Gene Kiniski
-Gene L. Bell
+Gene LeBell
 Gene Lockhart
 Gene Nelson
 Gene Okerlund
@@ -8143,7 +8172,7 @@ Genelle Williams
 Geneva Carr
 Genevieve Cortese
 Genevieve Lemon
-Genevieve O. Reilly
+Genevieve O'Reilly
 Geneviève Bujold
 Geneviève Page
 Genie Francis
@@ -8208,8 +8237,8 @@ George Cole
 George Costigan
 George Coulouris
 George Coutoupis
-George D. Cenzo
 George D. Wallace
+George DiCenzo
 George Dickerson
 George Dzundza
 George Eastman
@@ -8243,14 +8272,14 @@ George Lopez
 George Loros
 George Lowe
 George Lynch
-George M. Arthur
-George M. Govern
 George MacKay
 George Maharis
 George Marshall
 George Marshall Ruge
 George Martin
 George Mather
+George McArthur
+George McGovern
 George Melly
 George Memmoli
 George Menta
@@ -8262,9 +8291,9 @@ George Murdock
 George Nader
 George Newbern
 George Nutting
+George O'Hanlon
+George O'Hanlon Jr.
 George O. Gore II
-George O. Hanlon
-George O. Hanlon, Jr.
 George O. Petrie
 George P. Wilbur
 George Palermo
@@ -8322,12 +8351,12 @@ Georgy Vitsin
 Gerald Harper
 Gerald Hiken
 Gerald Iles
-Gerald M. Raney
+Gerald McRaney
 Gerald Okamura
 Gerald Papasyan
 Gerald Petievich
 Gerald R. Molen
-Gerald S. O. Loughlin
+Gerald S. O'Loughlin
 Gerald Schoenfeld
 Gerald Sim
 Gerald Wallace
@@ -8337,7 +8366,7 @@ Geraldine Fitzgerald
 Geraldine Hughes
 Geraldine James
 Geraldine Keams
-Geraldine M. Ewan
+Geraldine McEwan
 Geraldine Page
 Geraldine Smith
 Geraldine Somerville
@@ -8345,7 +8374,7 @@ Geraldo Rivera
 Gerard Butler
 Gerard Christopher
 Gerard Horan
-Gerard M. Sorley
+Gerard McSorley
 Gerard Murphy
 Gerard Parkes
 Gerard Plunkett
@@ -8365,7 +8394,7 @@ Gerry Becker
 Gerry Bednob
 Gerry Lively
 Gerry Lopez
-Gerry M. Intyre
+Gerry McIntyre
 Gerry Mendicino
 Gerry Parkes
 Gerry Rosenthal
@@ -8407,7 +8436,7 @@ Gil Birmingham
 Gil Gerard
 Gil Glasgow
 Gil Hill
-Gil M. Kinney
+Gil McKinney
 Gil Perkins
 Gil Robbins
 Gil Rogers
@@ -8430,16 +8459,16 @@ Gillian Jacobs
 Gillian Simpson
 Gillian Vigman
 Gillo Pontecorvo
-Gilmer M. Cormick
+Gilmer McCormick
 Gina Bellman
-Gina D. Angelis
+Gina DeAngelis
 Gina Figueroa
 Gina Gallego
 Gina Gershon
 Gina Hecht
 Gina Holden
 Gina Lynn
-Gina M. Kee
+Gina McKee
 Gina Morelli
 Gina Philips
 Gina Ravera
@@ -8472,7 +8501,7 @@ Giuseppe Cederna
 Gladys Dano
 Gladys Hill
 Gladys Knight
-Gladys O. Connor
+Gladys O'Connor
 Gledis Cinque
 Glen Adams
 Glen Chin
@@ -8493,7 +8522,7 @@ Glenn Fitzgerald
 Glenn Ford
 Glenn Frey
 Glenn Hughes
-Glenn M. Cuen
+Glenn McCuen
 Glenn Medeiros
 Glenn Morshower
 Glenn Plummer
@@ -8506,14 +8535,14 @@ Glenn Wrage
 Glenndon Chatman
 Glenne Headly
 Gloria Allred
-Gloria D. Haven
+Gloria DeHaven
 Gloria Estefan
 Gloria Foster
 Gloria Garayua
 Gloria Grahame
 Gloria Hendry
 Gloria Jean
-Gloria L. Roy
+Gloria LeRoy
 Gloria Leonard
 Gloria Lynne Henry
 Gloria Macarenko
@@ -8532,7 +8561,7 @@ Glynis Johns
 Glynn Edwards
 Glynn Rubin
 Glynn Turman
-Glynnis O. Connor
+Glynnis O'Connor
 Godfrey
 Godfrey Cambridge
 Godfrey Danchimah
@@ -8602,7 +8631,7 @@ Graham Crowden
 Graham Dewar
 Graham Greene
 Graham Jarvis
-Graham M. Tavish
+Graham McTavish
 Graham Phillips
 Graham Stark
 Graham Wardle
@@ -8627,7 +8656,7 @@ Granville Van Dusen
 Grateful Dead
 Gratien Gélinas
 Gray Frederickson
-Grayson M. Couch
+Grayson McCouch
 Grayson Russell
 Greg Baine
 Greg Ballora
@@ -8712,10 +8741,10 @@ Gretchen Mol
 Gretchen Palmer
 Gretchen Wyler
 Grete Nordrå
-Grey D. Lisle
+Grey DeLisle
 Greydon Clark
 Griffin Dunne
-Griffin O. Neal
+Griffin O'Neal
 Grischa Huber
 Grégoire Aslan
 Grégory Fitoussi
@@ -8792,11 +8821,13 @@ H. B. Haggerty
 H. Jon Benjamin
 H. M. Wynant
 H. Richard Greene
+H.B. Haggerty
+H.M. Wynant
 Hadria Lawner
 Hagan Beggs
 Haig Sutherland
 Hailee Steinfeld
-Hailey M. Cann
+Hailey McCann
 Haing S. Ngor
 Haji
 Hal Baylor
@@ -8805,7 +8836,7 @@ Hal Fishman
 Hal Hartley
 Hal Havins
 Hal Holbrook
-Hal Landon, Jr.
+Hal Landon Jr.
 Hal Lieberman
 Hal Linden
 Hal Miller
@@ -8833,13 +8864,13 @@ Halley Feiffer
 Hallie Eisenberg
 Hallie Foote
 Hallie Kate Eisenberg
-Hallie M. Collum
+Hallie McCollum
 Hallie Todd
 Hallvar Thoresen
 Haluk Bilginer
 Hamilton Camp
 Hamish Linklater
-Hamish M. Coll
+Hamish McColl
 Hammam Shafie
 Hampton Fancher
 Han Guan Hua
@@ -8852,8 +8883,8 @@ Hank Garrett
 Hank Greenspun
 Hank Harris
 Hank Rolike
-Hank Williams I. I
-Hank Williams, Jr.
+Hank Williams III
+Hank Williams Jr.
 Hank Worden
 Hanna Hertelendy
 Hanna R. Hall
@@ -8908,6 +8939,7 @@ Harold J. Stone
 Harold Lee Thompson
 Harold Nicholas
 Harold Perrineau
+Harold Perrineau Jr.
 Harold Perrineau, Jr.
 Harold Pruett
 Harold Ramis
@@ -8937,7 +8969,9 @@ Harry Antrim
 Harry Belafonte
 Harry Bellaver
 Harry Bugin
+Harry Carey Jr.
 Harry Carey, Jr.
+Harry Connick Jr.
 Harry Connick, Jr.
 Harry Crews
 Harry Crosby
@@ -8971,6 +9005,7 @@ Harry Northup
 Harry Porter
 Harry Ritz
 Harry Shearer
+Harry Shum Jr.
 Harry Shum, Jr.
 Harry Sinclair
 Harry Towb
@@ -9000,7 +9035,7 @@ Harvey Shield
 Harvey Spencer Stephens
 Harvey Virdi
 Harvey Weinstein
-Haskell V. Anderson I. I
+Haskell V. Anderson III
 Hassan Johnson
 Hatsune Ishihara
 Hatsuo Uda
@@ -9015,8 +9050,8 @@ Hayden Christensen
 Hayden Panettiere
 Hayes MacArthur
 Hayley Atwell
-Hayley M. Farland
 Hayley Marie Norman
+Hayley McFarland
 Hayley Mills
 Haylie Duff
 Haylie Johnson
@@ -9033,7 +9068,7 @@ Heather Burge
 Heather Burns
 Heather Casler
 Heather Craney
-Heather D. Loach
+Heather DeLoach
 Heather Doerksen
 Heather Donahue
 Heather Goldenhersh
@@ -9047,15 +9082,15 @@ Heather Kafka
 Heather Langenkamp
 Heather Lilly
 Heather Locklear
-Heather M. Comb
 Heather MacRae
 Heather Mason
 Heather Matarazzo
 Heather Mazur
+Heather McComb
 Heather Menzies
 Heather Morris
 Heather Morris
-Heather O. Rourke
+Heather O'Rourke
 Heather Rattray
 Heather Simms
 Heather Stephens
@@ -9105,8 +9140,8 @@ Helen Hunt
 Helen Kleeb
 Helen Lloyd Breed
 Helen Ludlam
-Helen M. Crory
 Helen Martin
+Helen McCrory
 Helen Mendes
 Helen Mirren
 Helen Morse
@@ -9146,7 +9181,7 @@ Henry Bean
 Henry Beckman
 Henry Brandon
 Henry Brown
-Henry Brown, Jr.
+Henry Brown Jr.
 Henry Bumstead
 Henry Cavill
 Henry Cele
@@ -9164,8 +9199,8 @@ Henry Jaglom
 Henry Jones
 Henry Judd Baker
 Henry Kingi
-Henry Kingi, Jr.
-Henry M. Gee
+Henry Kingi Jr.
+Henry McGee
 Henry Milligan
 Henry O
 Henry O. Arnold
@@ -9202,8 +9237,9 @@ Herbert Fux
 Herbert Grönemeyer
 Herbert Heyes
 Herbert Hirschman
+Herbert Jefferson Jr.
 Herbert Jefferson, Jr.
-Herbert Kohler, Jr.
+Herbert Kohler Jr.
 Herbert Lom
 Herbert Morrison
 Herbert Nelson
@@ -9288,7 +9324,7 @@ Holly Robinson Peete
 Holly Weber
 Holly Woodlawn
 Holmes Osborne
-Holt M. Callany
+Holt McCallany
 Holter Graham
 Homayoun Ershadi
 Honey
@@ -9324,8 +9360,8 @@ Howard Jackson
 Howard Jarvis
 Howard K. Smith
 Howard Kaylan
-Howard M. Gillin
 Howard Mann
+Howard McGillin
 Howard Metzenbaum
 Howard Morris
 Howard Morton
@@ -9367,12 +9403,12 @@ Hugh Hurd
 Hugh Jackman
 Hugh Jass
 Hugh Laurie
-Hugh M. Dermott
-Hugh M. Phillips
 Hugh Manning
+Hugh McDermott
+Hugh McPhillips
 Hugh Millais
-Hugh O. Brian
-Hugh O. Conor
+Hugh O'Brian
+Hugh O'Conor
 Hugh Panaro
 Hugh Quarshie
 Hugh Rathbone
@@ -9444,12 +9480,12 @@ Ian Holm
 Ian James Corlett
 Ian Kahn
 Ian Kelsey
-Ian M. Cabe
-Ian M. Diarmid
-Ian M. Elhinney
-Ian M. Kellen
-Ian M. Neice
-Ian M. Shane
+Ian McCabe
+Ian McDiarmid
+Ian McElhinney
+Ian McKellen
+Ian McNeice
+Ian McShane
 Ian Mercer
 Ian Michael Smith
 Ian Moran
@@ -9478,8 +9514,8 @@ Ice-T
 Ichirô Zaitsu
 Ida Griesemer
 Ida Lupino
-Idalis D. Leon
-Idalis D. León
+Idalis DeLeon
+Idalis DeLeón
 Idan Alterman
 Iddo Goldberg
 Idina Menzel
@@ -9584,17 +9620,17 @@ Irma Alegre
 Irma P. Hall
 Irma St. Paule
 Iron Eyes Cody
-IronE. Singleton
+IronE Singleton
 Irrfan Khan
 Irvin Kershner
 Irving Metzman
 Irwin Corey
 Irwin Keyes
 Irène Jacob
-Isaac C. Singleton, Jr.
+Isaac C. Singleton Jr.
 Isaac Fe'aunati
 Isaac Hayes
-Isaac Hayes I. I
+Isaac Hayes III
 Isaac Mizrahi
 Isaac Ruiz
 Isaach De Bankolé
@@ -9625,6 +9661,7 @@ Ishaq Bux
 Ishia Bennison
 Ishmael Houston-Jones
 Isiah Thomas
+Isiah Whitlock Jr.
 Isiah Whitlock, Jr.
 Isla Blair
 Isla Fisher
@@ -9664,48 +9701,28 @@ Ivyann Schwann
 Iván Rodríguez
 Izabella Miko
 Izabella Scorupco
+J Cooch Lucchese
+J-Boog
 J. A. Preston
 J. Adam Brown
-J. Anna Garcia
 J. Anthony Brown
 J. August Richards
-J. B. Adams
-J. B. Bivens
 J. B. Smoove
-J. B. Williamson
-J. Be Cerny
-J. Beth Williams
-J. Boog
 J. C. Brandy
 J. C. MacKenzie
 J. C. Quinn
-J. Cooch Lucchese
-J. D. Cannon
 J. D. Cerna
-J. D. Clarke
 J. D. Daniels
 J. D. Evermore
 J. D. Garfield
-J. D. Hall
-J. D. Nicholsen
-J. D. Souther
-J. D. Walsh
-J. D. Williams
 J. David Moeller
 J. Dixon Byrne
 J. Don Ferguson
 J. E. Freeman
 J. Evan Bonifant
-J. H. Wyman
 J. J. Abrams
-J. J. Anderson
-J. J. Cohen
 J. J. Johnston
-J. J. North
-J. J. Perry
 J. Jay Saunders
-J. Jo
-J. Jo D. Amore
 J. K. Simmons
 J. Kenneth Campbell
 J. Larose
@@ -9713,27 +9730,49 @@ J. Mack Slaughter, Jr.
 J. Madison Wright Morris
 J. Michael Hunter
 J. Miles Dale
-J. Nell Kennedy
 J. P. Manoux
-J. Pat O. Malley
-J. Patrick M. Cormack
+J. Pat O'Malley
+J. Patrick McCormack
 J. Paul Boehmer
-J. R. Bookwalter
-J. R. Bourne
-J. R. Messado
 J. Smith-Cameron
 J. Stephen Peace
-J. T. Colosa
 J. T. Walsh
 J. Todd Adams
 J. Trevor Edmond
-J. W. Smith
-JB. Blanc
-JD. Cullum
-JJ. Feild
-JR. Reed
+J.A. Preston
+J.B. Adams
+J.B. Bivens
+J.B. Smoove
+J.B. Williamson
+J.C. Quinn
+J.D. Cannon
+J.D. Clarke
+J.D. Daniels
+J.D. Hall
+J.D. Nicholsen
+J.D. Souther
+J.D. Walsh
+J.D. Williams
+J.E. Freeman
+J.H. Wyman
+J.J. Anderson
+J.J. Cohen
+J.J. North
+J.J. Perry
+J.K. Simmons
+J.P. Manoux
+J.R. Bookwalter
+J.R. Bourne
+J.R. Messado
+J.T. Colosa
+J.T. Walsh
+J.W. Smith
+JB Blanc
+JD Cullum
+JJ Feild
+JR Reed
 Ja Rule
-Ja'net D. Bois
+Ja'net DuBois
 Ja'net Dubois
 Jac Emel
 Jace Alexander
@@ -9765,11 +9804,11 @@ Jack Colvin
 Jack Conley
 Jack Cooper
 Jack Creley
-Jack D. Leon
-Jack D. Sena
 Jack Davenport
 Jack David Walker
 Jack Davidson
+Jack DeLeon
+Jack DeSena
 Jack Dodson
 Jack Donner
 Jack Duffy
@@ -9800,16 +9839,16 @@ Jack Klugman
 Jack Koenig
 Jack Kosslyn
 Jack Kruschen
-Jack L. Lanne
 Jack La Rue
+Jack LaLanne
 Jack Lawless
 Jack Lemmon
-Jack M. Brayer
-Jack M. Gee
 Jack MacGowran
 Jack Magner
 Jack Manning
 Jack May
+Jack McBrayer
+Jack McGee
 Jack Mercer
 Jack Mulcahy
 Jack Mullaney
@@ -9817,7 +9856,7 @@ Jack Murdock
 Jack Nance
 Jack Nicholson
 Jack Noseworthy
-Jack O. Halloran
+Jack O'Halloran
 Jack Osbourne
 Jack Palance
 Jack Palladino
@@ -9881,7 +9920,7 @@ Jackson Walker
 Jackson Walker
 Jacky Ido
 Jackée Harry
-Jaclyn D. Santis
+Jaclyn DeSantis
 Jaclyn Smith
 Jacob Arabo
 Jacob Duran
@@ -9902,7 +9941,7 @@ Jacqueline Cole
 Jacqueline Hennessy
 Jacqueline Kim
 Jacqueline Klein
-Jacqueline M. Kenzie
+Jacqueline McKenzie
 Jacqueline Mills
 Jacqueline Obradors
 Jacqueline Pearce
@@ -9943,7 +9982,7 @@ Jake Abel
 Jake Busey
 Jake Cherry
 Jake Curran
-Jake D. Arcy
+Jake D'Arcy
 Jake Goldberg
 Jake Gyllenhaal
 Jake Hoffman
@@ -9952,11 +9991,11 @@ Jake Johnson
 Jake La Botz
 Jake Langerud
 Jake Lloyd
-Jake M. Dorman
-Jake M. Kinnon
-Jake M. Kinnon
-Jake M. Laughlin
 Jake M. Smith
+Jake McDorman
+Jake McKinnon
+Jake McKinnon
+Jake McLaughlin
 Jake Miller
 Jake Mullins
 Jake Paltrow
@@ -10001,7 +10040,7 @@ James Bentley
 James Best
 James Biberi
 James Blendick
-James Bond I. I
+James Bond III
 James Booth
 James Broderick
 James Brodhead
@@ -10028,8 +10067,8 @@ James Cosmo
 James Cossins
 James Costa
 James Cromwell
-James D. Arcy
-James D. R. Hickox
+James D'Arcy
+James D.R. Hickox
 James Daly
 James Daughton
 James Denton
@@ -10087,10 +10126,10 @@ James Keach
 James Klawin
 James Kroupa
 James Kyson
-James L. Gros
 James Lance
 James Laurenson
 James Le Gros
+James LeGros
 James Lecesne
 James Leo Herlihy
 James Lew
@@ -10098,14 +10137,8 @@ James Lipton
 James Lister
 James Luisi
 James Lyons
-James M. Avoy
-James M. Caffrey
 James M. Connor
-James M. Daniel
-James M. Eachin
-James M. Hale
 James M. Halty
-James M. Murtry
 James MacDonald
 James Macdonald
 James Madio
@@ -10117,6 +10150,12 @@ James Marsters
 James Mason
 James Mathers
 James Mayberry
+James McAvoy
+James McCaffrey
+James McDaniel
+James McEachin
+James McHale
+James McMurtry
 James Merendino
 James Michael Gregary
 James Mitchell
@@ -10138,6 +10177,7 @@ James Patrick Stuart
 James Pax
 James Paxton
 James Pearson
+James Pickens Jr.
 James Pickens, Jr.
 James Purefoy
 James R. Black
@@ -10163,7 +10203,7 @@ James Stephens
 James Stewart
 James T. Callahan
 James Taenaka
-James Thomas Finley, Jr.
+James Thomas Finley Jr.
 James Tillis
 James Toback
 James Tolkan
@@ -10179,6 +10219,7 @@ James Wainwright
 James Waterston
 James Whitmore
 James Whitmore Jr
+James Whitmore Jr.
 James Whitmore, Jr.
 James Widdoes
 James Wilby
@@ -10218,10 +10259,10 @@ Jamie Hector
 Jamie Kennedy
 Jamie Lee Curtis
 Jamie Lynn Spears
-Jamie M. Murray
-Jamie M. Shane
 Jamie Marsh
-Jamie O. Brien
+Jamie McMurray
+Jamie McShane
+Jamie O'Brien
 Jamie Parker
 Jamie Renée Smith
 Jamie Rose
@@ -10322,9 +10363,9 @@ Janet Land
 Janet League
 Janet Leigh
 Janet Lord
-Janet M. Teer
 Janet MacLachlan
 Janet Margolin
+Janet McTeer
 Janet Montgomery
 Janet St. Onge
 Janet Suzman
@@ -10441,16 +10482,16 @@ Jason Lewis
 Jason Lively
 Jason London
 Jason Lustig
-Jason M. Hugh
 Jason Manns
 Jason Mantzoukas
 Jason Manuel Olazabal
 Jason Marsden
+Jason McHugh
 Jason Mewes
 Jason Miller
 Jason Mizell
 Jason Narvy
-Jason O. Mara
+Jason O'Mara
 Jason Olive
 Jason Patric
 Jason Pennycooke
@@ -10561,7 +10602,7 @@ Jean Hill
 Jean Howell
 Jean Kasem
 Jean Kent
-Jean L. Clerc
+Jean LeClerc
 Jean Lefebvre
 Jean London
 Jean Louisa Kelly
@@ -10699,10 +10740,10 @@ Jeff Kober
 Jeff Koons
 Jeff Kueppers
 Jeff Langton
-Jeff M. Carthy
-Jeff M. Donald
 Jeff Marcus
 Jeff Maxwell
+Jeff McCarthy
+Jeff McDonald
 Jeff Morris
 Jeff Nathanson
 Jeff Pidgeon
@@ -10729,8 +10770,8 @@ Jeffrey Byron
 Jeffrey Charlton
 Jeffrey Combs
 Jeffrey Culver
-Jeffrey D. Munn
 Jeffrey D. Sams
+Jeffrey DeMunn
 Jeffrey Dean Morgan
 Jeffrey Dinowitz
 Jeffrey Donovan
@@ -10756,7 +10797,7 @@ Jeffrey Zubernis
 Jeffry Wickham
 Jello Biafra
 Jemaine Clement
-Jemma M. Kenzie-Brown
+Jemma McKenzie-Brown
 Jena Malone
 Jenee Gill
 Jenette Goldstein
@@ -10770,7 +10811,7 @@ Jenna Fischer
 Jenna Jameson
 Jenna Lamia
 Jenna von Oÿ
-Jennette M. Curdy
+Jennette McCurdy
 Jenni Baird
 Jennie Kwan
 Jennie Linden
@@ -10792,9 +10833,9 @@ Jennifer Cooke
 Jennifer Coolidge
 Jennifer Crumbley
 Jennifer Crystal Foley
-Jennifer D. Lora
 Jennifer Dale
 Jennifer Darling
+Jennifer DeLora
 Jennifer Decker
 Jennifer Dundas
 Jennifer Edwards
@@ -10839,7 +10880,7 @@ Jennifer MacDonald
 Jennifer Miller
 Jennifer Milmore
 Jennifer Morrison
-Jennifer O. Neill
+Jennifer O'Neill
 Jennifer Paige
 Jennifer Pisana
 Jennifer Rubin
@@ -10870,9 +10911,9 @@ Jenny Galloway
 Jenny Lewis
 Jenny Lovell
 Jenny Lumet
-Jenny M. Carthy
+Jenny McCarthy
 Jenny Mollen
-Jenny O. Hara
+Jenny O'Hara
 Jenny Robertson
 Jenny Rowland
 Jenny Runacre
@@ -10990,7 +11031,7 @@ Jerry Mathers
 Jerry Mayer
 Jerry Messing
 Jerry Nelson
-Jerry O. Connell
+Jerry O'Connell
 Jerry Orbach
 Jerry Reed
 Jerry Rivera
@@ -11020,7 +11061,7 @@ Jesper Parnevik
 Jess Barker
 Jess Harnell
 Jess Hill
-Jess Lapid, Jr.
+Jess Lapid Jr.
 Jess Osuna
 Jess Riggle
 Jessalyn Gilsig
@@ -11047,9 +11088,9 @@ Jesse James Rutherford
 Jesse Johnson
 Jesse L. Martin
 Jesse Lee Soffer
-Jesse M. Bride
-Jesse M. Cartney
 Jesse M. Unruh
+Jesse McBride
+Jesse McCartney
 Jesse Metcalfe
 Jesse Moss
 Jesse Plemons
@@ -11164,7 +11205,7 @@ Jillian Bach
 Jillian Grace
 Jillian Hirasawa
 Jillian Kesner
-Jillian M. Whirter
+Jillian McWhirter
 Jillian Murray
 Jilly Rizzo
 Jim Antonio
@@ -11220,9 +11261,9 @@ Jim Jones
 Jim Jordan
 Jim Kelly
 Jim Lauderdale
-Jim M. Krell
-Jim M. Mullan
 Jim Martin
+Jim McKrell
+Jim McMullan
 Jim Meskimen
 Jim Metzler
 Jim Moody
@@ -11234,8 +11275,8 @@ Jim Nabors
 Jim Nantz
 Jim Norton
 Jim Norton
-Jim O. Connor
-Jim O. Heir
+Jim O'Connor
+Jim O'Heir
 Jim Parsons
 Jim Peck
 Jim Piddock
@@ -11286,9 +11327,9 @@ Jimmy Justice
 Jimmy Keegan
 Jimmy Kimmel
 Jimmy Lennon
-Jimmy M. Nichol
 Jimmy MacDonald
 Jimmy Martinez
+Jimmy McNichol
 Jimmy Murphy
 Jimmy Nail
 Jimmy Pinchak
@@ -11323,6 +11364,12 @@ Jo Miller
 Jo Ross
 Jo Van Fleet
 Jo-El Sonnier
+JoAnna Garcia
+JoBe Cerny
+JoBeth Williams
+JoJo
+JoJo D'Amore
+JoNell Kennedy
 Joachim Hansen
 Joan Allen
 Joan Baez
@@ -11347,9 +11394,9 @@ Joan Jett
 Joan Juliet Buck
 Joan La Barbara
 Joan Lorring
-Joan M. Call
+Joan McCall
 Joan Newmark
-Joan O. Hara
+Joan O'Hara
 Joan Plowright
 Joan Prather
 Joan Pringle
@@ -11370,7 +11417,7 @@ Joanna Going
 Joanna Kerns
 Joanna Levesque
 Joanna Lumley
-Joanna M. Callum
+Joanna McCallum
 Joanna Merlin
 Joanna Miles
 Joanna P. Adler
@@ -11390,7 +11437,7 @@ Joanne Whalley
 Joanne Whalley-Kilmer
 Joanne Woodward
 Joaquim de Almeida
-Joaquin Garay I. I
+Joaquin Garay III
 Joaquin Martinez
 Joaquin Phoenix
 Joaquín Cosío
@@ -11416,7 +11463,7 @@ Jodi Carlisle
 Jodi Carlson
 Jodi Douglas
 Jodi Long
-Jodi Lyn O. Keefe
+Jodi Lyn O'Keefe
 Jodi Thelen
 Jodie Foster
 Jodie Markell
@@ -11432,13 +11479,13 @@ Joe Bugner
 Joe C.
 Joe Cahill
 Joe Camp
-Joe Camp I. I
+Joe Camp III
 Joe Chrest
 Joe Cocker
 Joe Colligan
 Joe Conforte
 Joe Cornish
-Joe D. Angerio
+Joe D'Angerio
 Joe Dallesandro
 Joe Dante
 Joe De Santis
@@ -11536,10 +11583,10 @@ Joel Heyman
 Joel Joan
 Joel Kovel
 Joel Kramer
-Joel M. Crary
-Joel M. Hale
-Joel M. Kinnon Miller
 Joel Madden
+Joel McCrary
+Joel McHale
+Joel McKinnon Miller
 Joel Michaely
 Joel Murray
 Joel Polis
@@ -11646,7 +11693,7 @@ John Burton
 John Byner
 John C. Becher
 John C. Cooke
-John C. M. Ginley
+John C. McGinley
 John C. Reilly
 John Cameron Mitchell
 John Candy
@@ -11687,12 +11734,9 @@ John Cullum
 John Cunningham
 John Cusack
 John Cygan
-John D. Aquino
-John D. L. May
-John D. Leo
-John D. Maggio
-John D. Resta
-John D. Santis
+John D'Aquino
+John D'Leo
+John D. LeMay
 John Dair
 John Daniels
 John Davey
@@ -11702,12 +11746,15 @@ John David Whalen
 John Davidson
 John Davis Chandler
 John De Troia
+John DeSantis
 John Dehner
 John Dennis
 John Dennis Johnston
 John Densmore
 John Denver
 John Di Domenico
+John DiMaggio
+John DiResta
 John Dicks
 John Diehl
 John Diehl
@@ -11722,12 +11769,12 @@ John Durbin
 John Dye
 John Edwin Shaw
 John Ennis
-John Enos I. I
+John Enos III
 John Epperson
 John Erwin
 John F. Goff
 John F. Kennedy
-John F. O. Donohue
+John F. O'Donohue
 John Facenda
 John Falch
 John Farley
@@ -11749,7 +11796,7 @@ John Fugelsang
 John Fujioka
 John Furey
 John Gabriel
-John Gallagher, Jr.
+John Gallagher Jr.
 John Gatins
 John Gavin
 John Gegenhuber
@@ -11826,7 +11873,7 @@ John Kiriakou
 John Koshel
 John Krasinski
 John Kruk
-John L. Zar
+John LaZar
 John Landis
 John Larch
 John Larroquette
@@ -11852,20 +11899,7 @@ John Lupton
 John Lurie
 John Lydon
 John Lynch
-John M. Cann
-John M. Connell
-John M. Curry
-John M. Darby
-John M. Enery
-John M. Enroe
-John M. Giver
-John M. Glynn
-John M. Intire
 John M. Jackson
-John M. Laughlin
-John M. Laughlin
-John M. Liam
-John M. Martin
 John M. Watson, Sr.
 John MacKay
 John Maclaren
@@ -11887,6 +11921,19 @@ John Martino
 John Massari
 John Matshikiza
 John Matuszak
+John McCann
+John McConnell
+John McCurry
+John McDarby
+John McEnery
+John McEnroe
+John McGiver
+John McGlynn
+John McIntire
+John McLaughlin
+John McLaughlin
+John McLiam
+John McMartin
 John Megna
 John Meillon
 John Melendez
@@ -11901,6 +11948,7 @@ John Mitchum
 John Morgan Evans
 John Morris
 John Morton
+John Moschitta Jr.
 John Moschitta, Jr.
 John Mowood
 John Murphy
@@ -11915,8 +11963,8 @@ John Newton
 John Noble
 John Normington
 John Novak
-John O. Hurley
-John O. Leary
+John O'Hurley
+John O'Leary
 John Oates
 John Oliver
 John Orchard
@@ -11926,7 +11974,8 @@ John P. Codiglia
 John P. Farley
 John P. Fertitta
 John P. Finnegan
-John P. M. Garr
+John P. McGarr
+John P. Navin Jr.
 John P. Navin, Jr.
 John P. Ryan
 John P. Ryan
@@ -11935,7 +11984,7 @@ John Pappas
 John Paragon
 John Patrick Amedori
 John Paul
-John Paul D. Joria
+John Paul DeJoria
 John Paul Vetturini
 John Payne
 John Pearce
@@ -12103,6 +12152,7 @@ Johnny Lee
 Johnny Legend
 Johnny Lewis
 Johnny Martino
+Johnny McPhail
 Johnny Meres
 Johnny Messner
 Johnny Miller
@@ -12156,9 +12206,9 @@ Jon Kortajarena
 Jon Lindstrom
 Jon Lormer
 Jon Lovitz
-Jon M. Laren
-Jon M. Laughlin
 Jon Manfrellotti
+Jon McLaren
+Jon McLaughlin
 Jon Paul Steuer
 Jon Pertwee
 Jon Polito
@@ -12306,7 +12356,7 @@ Jordi Molla
 Jordi Mollà
 Jordon Dorrance
 Jorg Schnass
-Jorge Cervera, Jr.
+Jorge Cervera Jr.
 Jorge García Bustamante
 Jorge Gil
 Jorge Humberto Robles
@@ -12332,7 +12382,7 @@ Josef Sommer
 Josefina Echanove
 Josefina Echánove
 Joseph Ashton
-Joseph Badalucco, Jr.
+Joseph Badalucco Jr.
 Joseph Barbera
 Joseph Baroncini
 Joseph Bologna
@@ -12350,9 +12400,9 @@ Joseph Cotten
 Joseph Cross
 Joseph Culp
 Joseph Cure
-Joseph D. Giroloma
 Joseph D. Reitman
 Joseph Darrell
+Joseph DiGiroloma
 Joseph Fiennes
 Joseph Fuqua
 Joseph Garcia
@@ -12366,15 +12416,15 @@ Joseph Kaufmann
 Joseph Kosala
 Joseph Latimore
 Joseph Lindsey
-Joseph M. Bride
-Joseph M. Carthy
-Joseph M. Kenna
 Joseph Maher
 Joseph Malerba
 Joseph Malone
 Joseph Marshak
 Joseph Mascolo
 Joseph Mazzello
+Joseph McBride
+Joseph McCarthy
+Joseph McKenna
 Joseph Melito
 Joseph Michael Cross
 Joseph Millson
@@ -12382,7 +12432,7 @@ Joseph Morgan
 Joseph Murphy
 Joseph Nasser
 Joseph Nunez
-Joseph O. Conor
+Joseph O'Conor
 Joseph Olita
 Joseph Perrino
 Joseph Pilato
@@ -12508,7 +12558,7 @@ Joy Tanner
 Joyce Brabner
 Joyce Brothers
 Joyce Bulifant
-Joyce D. Witt
+Joyce DeWitt
 Joyce Ebert
 Joyce Gordon
 Joyce Hyser
@@ -12522,7 +12572,7 @@ Joyce Menges
 Joyce Van Patten
 Joyce Walker
 Joyce Workman
-Joycelyn O. Brien
+Joycelyn O'Brien
 Jsu Garcia
 Juan Andres
 Juan Carlos Ortiz
@@ -12565,8 +12615,8 @@ Judith Hoag
 Judith Ivey
 Judith Kahan
 Judith Lowry
-Judith M. Connell
 Judith Malina
+Judith McConnell
 Judith Nathan
 Judith Parker
 Judith Roberts
@@ -12620,7 +12670,7 @@ Julia Duffy
 Julia Hart
 Julia Lea Wolov
 Julia Louis-Dreyfus
-Julia M. Ilvaine
+Julia McIlvaine
 Julia Migenes
 Julia Montgomery
 Julia Montgomery Brown
@@ -12645,7 +12695,7 @@ Julian Firth
 Julian Glover
 Julian Holloway
 Julian Lewis Jones
-Julian M. Mahon
+Julian McMahon
 Julian Morris
 Julian Orchard
 Julian Rhind-Tutt
@@ -12655,12 +12705,12 @@ Julian Scott Urena
 Julian Wadham
 Juliana Donald
 Julianna Guill
-Julianna M. Carthy
 Julianna Margulies
+Julianna McCarthy
 Julianne Buescher
 Julianne Hough
-Julianne M. Namara
 Julianne Mazziotti
+Julianne McNamara
 Julianne Moore
 Julianne Nicholson
 Julianne Phillips
@@ -12804,16 +12854,19 @@ Jérôme Pradon
 Jérôme Tiberghien
 Jürgen Andersen
 Jürgen Prochnow
+K Callan
 K. C. Collins
 K. C. Martel
-K. Callan
 K. D. Aubert
-K. Dee Strickland
 K. K. Dodds
-K. S-One
 K. T. Oslin
 K. Todd Freeman
+K.C. Clyde
+K.D. Aubert
+K.K. Dodds
 K.d. lang
+KRS-One
+KaDee Strickland
 Kaaren Lee
 Kabir Bedi
 Kacey Clarke
@@ -12877,11 +12930,11 @@ Karen Kondazian
 Karen Kopins
 Karen Lamm
 Karen Lynn Gorney
-Karen M. Dougal
 Karen M. Waldron
 Karen Malina White
 Karen Maruyama
 Karen Mayo-Chandler
+Karen McDougal
 Karen Mok
 Karen Montgomery
 Karen Philipp
@@ -12949,7 +13002,7 @@ Kasi Lemmons
 Kasia Siwak
 Kasia Smutniak
 Kasim Sulton
-Kassie D. Paiva
+Kassie DePaiva
 Kat Cressida
 Kat Dennings
 Kata Dobó
@@ -12973,18 +13026,18 @@ Kate Jennings Grant
 Kate Lang Johnson
 Kate Levering
 Kate Lynch
-Kate M. Neil
 Kate Maberly
 Kate Magowan
 Kate Mara
+Kate McNeil
 Kate Micucci
 Kate Mulgrew
 Kate Murtagh
 Kate Nauta
 Kate Nelligan
 Kate Norby
-Kate O. Mara
-Kate O. Toole
+Kate O'Mara
+Kate O'Toole
 Kate Orsini
 Kate Reid
 Kate Robbins
@@ -13008,7 +13061,7 @@ Katharine Hepburn
 Katharine Houghton
 Katharine Isabelle
 Katharine Levy
-Katharine M. Phee
+Katharine McPhee
 Katharine Ross
 Katherine Bailess
 Katherine Boecher
@@ -13021,7 +13074,7 @@ Katherine Helmond
 Katherine Justice
 Katherine Kamhi
 Katherine Kelly Lang
-Katherine L. Nasa
+Katherine LaNasa
 Katherine Moennig
 Katherine Squire
 Katherine Waterston
@@ -13046,7 +13099,7 @@ Kathleen Marshall
 Kathleen Miller
 Kathleen Nolan
 Kathleen Noone
-Kathleen O. Malley
+Kathleen O'Malley
 Kathleen Quinlan
 Kathleen Robertson
 Kathleen Sullivan
@@ -13084,8 +13137,8 @@ Kathy Fitzgerald
 Kathy Griffin
 Kathy Ireland
 Kathy Kinney
-Kathy M. Cullen
 Kathy Marothy
+Kathy McCullen
 Kathy Morath
 Kathy Najimy
 Kathy Payne
@@ -13144,7 +13197,7 @@ Kaye Elhardt
 Kaye Stevens
 Kayla Buglewicz
 Kayla Ewell
-Kaylee D. Fer
+Kaylee DeFer
 Kaz Garas
 Kazimierz Deyna
 Kazuo Kumakura
@@ -13166,7 +13219,7 @@ Keiko Kishi
 Keili Lefkovitz
 Keir Dullea
 Keir Gilchrist
-Keir O. Donnell
+Keir O'Donnell
 Keira Knightley
 Keisha Howard
 Keisuke Hoashi
@@ -13189,7 +13242,7 @@ Keith Hamilton
 Keith Knight
 Keith Langsdale
 Keith Loneker
-Keith M. Dermott
+Keith McDermott
 Keith Michell
 Keith Moon
 Keith Nobbs
@@ -13222,7 +13275,7 @@ Kellie Martin
 Kellie Parker
 Kellie Shanygne Williams
 Kellita Smith
-Kelly A. Coin
+Kelly AuCoin
 Kelly Bishop
 Kelly Blatz
 Kelly Brook
@@ -13241,11 +13294,11 @@ Kelly Hu
 Kelly Hunter
 Kelly Jean Peters
 Kelly Jo Minter
-Kelly L. Brock
 Kelly Le Brock
+Kelly LeBrock
 Kelly Lynch
-Kelly M. Gillis
 Kelly Macdonald
+Kelly McGillis
 Kelly Monaco
 Kelly Nichols
 Kelly Osbourne
@@ -13350,8 +13403,8 @@ Kenneth Haigh
 Kenneth Hudson Campbell
 Kenneth J. Warren
 Kenneth Lonergan
-Kenneth M. Millan
 Kenneth Mars
+Kenneth McMillan
 Kenneth Mitchell
 Kenneth Nelson
 Kenneth Tigar
@@ -13377,8 +13430,8 @@ Kenny Vadas
 Kenny Vance
 Kent Broadhurst
 Kent Faulcon
-Kent M. Cord
 Kent Masters King
+Kent McCord
 Kent O. Doering
 Kent Shocknek
 Kent Smith
@@ -13398,7 +13451,7 @@ Keri Maletto
 Keri Russell
 Kerisse Hutchinson
 Kermit Love
-Kermit the Frog
+Kermit~the~Frog
 Kerr Smith
 Kerri Green
 Kerri Kenney
@@ -13472,7 +13525,7 @@ Kevin Heffernan
 Kevin Hickey
 Kevin Hooks
 Kevin Howarth
-Kevin J. O. Connor
+Kevin J. O'Connor
 Kevin Jackson
 Kevin James
 Kevin Jarre
@@ -13487,28 +13540,28 @@ Kevin L. Stotts
 Kevin Levrone
 Kevin Lima
 Kevin Loring
-Kevin M. Carthy
-Kevin M. Corkle
-Kevin M. Donald
-Kevin M. Kidd
-Kevin M. Nally
-Kevin M. Nulty
 Kevin Mambo
 Kevin Matthews
+Kevin McCarthy
+Kevin McCorkle
+Kevin McDonald
+Kevin McKidd
+Kevin McNally
+Kevin McNulty
 Kevin Michael Brown
 Kevin Michael Richardson
 Kevin Nash
 Kevin Nealon
-Kevin O. Callaghan
-Kevin O. Connor
-Kevin O. Morrison
+Kevin O'Callaghan
+Kevin O'Connor
+Kevin O'Morrison
 Kevin Page
 Kevin Peter Hall
 Kevin Phillips
 Kevin Pollak
 Kevin Porter
 Kevin Quinn
-Kevin R. M. Nally
+Kevin R. McNally
 Kevin Ramsey
 Kevin Rankin
 Kevin Rice
@@ -13599,14 +13652,14 @@ Kim Kardashian
 Kim Keo
 Kim Krizan
 Kim Lankford
-Kim M. Guire
+Kim McGuire
 Kim Milford
 Kim Miyori
 Kim Morgan Greene
 Kim Murphy
 Kim Myers
 Kim Novak
-Kim O. Brien
+Kim O'Brien
 Kim Ostrenko
 Kim Raver
 Kim Rhodes
@@ -13631,9 +13684,9 @@ Kimberly Elise
 Kimberly Evenson
 Kimberly Foster
 Kimberly J. Brown
-Kimberly M. Arthur
-Kimberly M. Cullogh
-Kimberly M. Cullough
+Kimberly McArthur
+Kimberly McCullogh
+Kimberly McCullough
 Kimberly Russell
 Kimberly Scott
 Kimberly Williams-Paisley
@@ -13650,7 +13703,7 @@ King Moody
 King Vidor
 Kinga Philipps
 Kinky Friedman
-Kinna M. Inroe
+Kinna McInroe
 Kiowa Gordon
 Kip Niven
 Kip Pardue
@@ -13698,7 +13751,7 @@ Klinton Spilsbury
 Knowl Johnson
 Kobe Tai
 Kobi Assaf
-Kodi Smit-M. Phee
+Kodi Smit-McPhee
 Kofi Siriboe
 Kohl Sudduth
 Kokane
@@ -13706,7 +13759,7 @@ Koko Taylor
 Konnan
 Konstantin Khabensky
 Koo Stark
-Kool G. Rap
+Kool G Rap
 Kool Herc
 Kool Mo Dee
 Kool Moe Dee
@@ -13719,9 +13772,9 @@ Krayzie Bone
 Kris Kristofferson
 Kris Kross
 Kris Lemche
-Kris M. Gaha
-Kris M. Quade
 Kris Marshall
+Kris McGaha
+Kris McQuade
 Kris Park
 Krist Novoselic
 Krista Allen
@@ -13775,14 +13828,14 @@ Kristina Simonds
 Kristina Sisco
 Kristina Wagner
 Kristine Cameron
-Kristine D. Bell
+Kristine DeBell
 Kristine Nielsen
 Kristine Sutherland
 Kristoff St. John
 Kristoffer Anders
 Kristoffer Tabori
 Kristopher Logan
-Kristy M. Nichol
+Kristy McNichol
 Kristy Swanson
 Krystal Harris
 Krysten Ritter
@@ -13807,7 +13860,7 @@ Kurt Johnson
 Kurt Johnson
 Kurt Lockwood
 Kurt Loder
-Kurt M. Kinney
+Kurt McKinney
 Kurt Naebig
 Kurt Rambis
 Kurt Russell
@@ -13855,21 +13908,21 @@ Kyra Sedgwick
 Kōichi Satō
 Kōji Kitao
 L. Andy Stone
-L. Ann Rimes
 L. M. Kit Carson
-L. Nease Adams
 L. Q. Jones
 L. Scott Caldwell
-L. Tanya Richardson
-L. Toya Luckett
-L. Van Davis
-L. Var Burton
-L. Wanda Page
+L.M. Kit Carson
+L.Q. Jones
 L7
-LL. Cool J
-LZ. Granderson
+LL Cool J
+LZ Granderson
 La Chanze
 La La Anthony
+LaNease Adams
+LaNette LaFrance
+LaTanya Richardson
+LaVan Davis
+LaWanda Page
 Lacey Chabert
 Lachele Carl
 Lachlan Murdoch
@@ -13898,7 +13951,7 @@ Lamont Bentley
 Lamont Johnson
 Lana Antonova
 Lana Clarkson
-Lana M. Kissack
+Lana McKissack
 Lana Schwab
 Lana Turner
 Lana Wood
@@ -13913,7 +13966,7 @@ Lance Guest
 Lance Henriksen
 Lance Kerwin
 Lance Kinsey
-Lance L. Gault
+Lance LeGault
 Lance Lee Baxley
 Lance May
 Lance Mountain
@@ -13930,7 +13983,7 @@ Lane Garrison
 Lane Smith
 Lane Toran
 Lanei Chapman
-Lani O. Grady
+Lani O'Grady
 Lani Tupu
 Lanna Saunders
 Lanny Flaherty
@@ -13975,6 +14028,7 @@ Larry Fishburne
 Larry Flynt
 Larry Gates
 Larry Gelman
+Larry Gilliard Jr.
 Larry Gilliard, Jr.
 Larry Hagman
 Larry Haines
@@ -13987,17 +14041,17 @@ Larry Joshua
 Larry King
 Larry Lindsey
 Larry Linville
-Larry M. Cormick
-Larry M. Coy
 Larry Mahan
 Larry Manetti
 Larry Manning
 Larry Marshall
+Larry McCormick
+Larry McCoy
 Larry Meyers
 Larry Miller
 Larry Miller
 Larry Mintz
-Larry Mullen, Jr.
+Larry Mullen Jr.
 Larry Norman
 Larry Pennell
 Larry Pine
@@ -14123,7 +14177,7 @@ Laurence Olivier
 Laurene Landon
 Laurent Bateau
 Laurent Le Doyen
-Laurette Spang-M. Cook
+Laurette Spang-McCook
 Lauri Landry
 Laurie Anderson
 Laurie Ann Gibson
@@ -14141,7 +14195,7 @@ Laurie Lee
 Laurie Main
 Laurie Mateyko
 Laurie Metcalf
-Laurie O. Brien
+Laurie O'Brien
 Laurie Rose
 Laurie Sivell
 Laurie Walters
@@ -14153,6 +14207,7 @@ Lawrence Bender
 Lawrence Cook
 Lawrence Dane
 Lawrence Dobkin
+Lawrence Gilliard Jr.
 Lawrence Gilliard, Jr.
 Lawrence Hilton Jacobs
 Lawrence Hilton-Jacobs
@@ -14170,7 +14225,10 @@ Layla Roberts
 Layne Beachley
 Laz Alonso
 Le Tari
-Lea D. Laria
+LeAnn Rimes
+LeToya Luckett
+LeVar Burton
+Lea DeLaria
 Lea Moreno Young
 Lea Thompson
 Leagh Conwell
@@ -14211,10 +14269,10 @@ Lee J. Cobb
 Lee Jackson
 Lee Joon
 Lee Loughnane
-Lee M. Laughlin
 Lee Majors
 Lee Marvin
 Lee Mathis
+Lee McLaughlin
 Lee Meredith
 Lee Montague
 Lee Montgomery
@@ -14263,7 +14321,7 @@ Leigh Hamilton
 Leigh Harris
 Leigh Hennessy
 Leigh Lawson
-Leigh M. Closkey
+Leigh McCloskey
 Leigh Taylor Young
 Leigh Taylor-Young
 Leigh Whannell
@@ -14331,10 +14389,10 @@ Leo Geter
 Leo Gordon
 Leo Gullotta
 Leo Howard
-Leo M. Kern
 Leo Marks
 Leo Martinez
-Leo O. Brien
+Leo McKern
+Leo O'Brien
 Leo Penn
 Leo Rossi
 Leon Ames
@@ -14355,7 +14413,7 @@ Leon Redbone
 Leon Rippy
 Leon Robinson
 Leon Russom
-Leon Thomas I. I
+Leon Thomas III
 Leon Vitali
 Leon W. Grant
 Leon Wagner
@@ -14382,7 +14440,7 @@ Leonard Trolley
 Leonard Weinglass
 Leonardo Brzezicki
 Leonardo Cimino
-Leonardo D. Caprio
+Leonardo DiCaprio
 Leonardo Nam
 Leonid Nevedomsky
 Leonid Weinstein
@@ -14413,7 +14471,7 @@ Leslie Caron
 Leslie Carrara-Rudolph
 Leslie Charleson
 Leslie Cheung
-Leslie D. Antonio
+Leslie DeAntonio
 Leslie Easterbrook
 Leslie Erganian
 Leslie Graves
@@ -14449,7 +14507,7 @@ Levi Kreis
 Levi Stubbs
 Levon Helm
 Lew Ayres
-Lew D. Witt
+Lew DeWitt
 Lew Horn
 Lew Temple
 Lewis Alsamari
@@ -14490,7 +14548,7 @@ Liam Redmond
 Liam Tuohy
 Liam Waite
 Liana Liberato
-Liana O. Cleirigh
+Liana O'Cleirigh
 Liana Pai
 Liane Alexandra Curtis
 Liane Balaban
@@ -14696,12 +14754,12 @@ Lisa Lu
 Lisa Lucas
 Lisa Lynn Masters
 Lisa Lyon
-Lisa M. Clowry
 Lisa M. Hansen
 Lisa Marcos
 Lisa Marie
 Lisa Marie Newmyer
 Lisa Maxwell
+Lisa McClowry
 Lisa Nicole Carson
 Lisa Niemi
 Lisa Oestreich
@@ -14733,7 +14791,7 @@ Lisa Zane
 Lisa-Marie Allen
 LisaGay Hamilton
 LisaRaye
-LisaRaye M. Coy
+LisaRaye McCoy
 Lisanne Falk
 Lise Cutter
 Lise Durocher-Viens
@@ -14768,7 +14826,7 @@ Liz Torres
 Liz Vassey
 Liz White
 Liza Colón-Zayas
-Liza D. Agostino
+Liza D'Agostino
 Liza Greer
 Liza Lapira
 Liza Minnelli
@@ -14827,10 +14885,10 @@ Lon Hill
 Lon Satton
 Lona Williams
 London Lee
-Lonette M. Kee
+Lonette McKee
 Loni Anderson
 Loni Love
-Lonne Elder I. I
+Lonne Elder III
 Lonnie Shelton
 Lonny Chapman
 Lonny Price
@@ -14904,7 +14962,7 @@ Lou Hudson
 Lou Jacobi
 Lou Liberatore
 Lou Marini
-Lou Molino I. I
+Lou Molino III
 Lou Myers
 Lou Perryman
 Lou Piniella
@@ -14916,7 +14974,7 @@ Lou Taylor Pucci
 Lou Wagner
 Louan Gideon
 Louanne Sirota
-Loudon Wainwright I. I
+Loudon Wainwright III
 Louie Anderson
 Louie Elias
 Louie Lawless
@@ -14925,11 +14983,12 @@ Louie Rankin
 Louie Torrellas
 Louis Bertignac
 Louis Black
-Louis C. K.
+Louis C.K.
 Louis Del Grande
 Louis Eppolito
 Louis Ferreira
 Louis Giambalvo
+Louis Gossett Jr.
 Louis Gossett, Jr.
 Louis Guss
 Louis H. Mackey
@@ -14988,7 +15047,7 @@ Lucas Black
 Lucas Donat
 Lucas Grabeel
 Lucas Hedges
-Lucas M. Hugh Carroll
+Lucas McHugh Carroll
 Lucas Till
 Luce Rains
 Lucia Mendez
@@ -15070,7 +15129,7 @@ Luke Pegler
 Luke Perry
 Luke Treadaway
 Luke Wilson
-Lulu M. Clatchy
+Lulu McClatchy
 Lumi Cavazos
 Lupe Gigliotti
 Lupe Ontiveros
@@ -15117,7 +15176,7 @@ Lynn Frazen-Cohen
 Lynn Hamilton
 Lynn Harris
 Lynn Lowry
-Lynn M. Ree
+Lynn McRee
 Lynn Redgrave
 Lynn Schiller
 Lynn Seymour
@@ -15142,28 +15201,25 @@ Léa Seydoux
 M'el Dowd
 M. C. Brennan
 M. C. Gainey
-M. Caleb Burnett
-M. Coy Tyner
 M. Emmet Walsh
 M. G. Kelly
-M. Kenzie Westmore
-M. Lean Stevenson
-M. Neil Hendricks
 M. Night Shyamalan
 M. Phil Senini
 M. Sharon Madigan
-MC. Eiht
-MC. Hammer
-MC. Jin
-MC. Lyte
-MC. Serch
+M.C. Gainey
+M.G. Kelly
+MC Eiht
+MC Hammer
+MC Jin
+MC Lyte
+MC Serch
 Mabe Applebe
 Mabel Albertson
 Mabel King
 Mable John
 Mablean Ephriam
 Mac Davis
-Mac M. Donald
+Mac McDonald
 Macaulay Culkin
 Macha Grenon
 Mack 10
@@ -15172,7 +15228,7 @@ Mackenzie Astin
 Mackenzie Crook
 Mackenzie Firgens
 Mackenzie Phillips
-Macon M. Calman
+Macon McCalman
 Macy Gray
 Maddie Corman
 Maddie Taylor
@@ -15211,7 +15267,7 @@ Mae Middleton
 Mae Questel
 Mae West
 Mae Whitman
-Maeve M. Guire
+Maeve McGuire
 Maeve Quinlan
 Mafumi Sakamoto
 Magali Noël
@@ -15225,7 +15281,7 @@ Maggie Gwinn
 Maggie Gyllenhaal
 Maggie Kiley
 Maggie Ma
-Maggie O. Neill
+Maggie O'Neill
 Maggie Q
 Maggie Renzi
 Maggie Roswell
@@ -15260,7 +15316,7 @@ Mal Jones
 Mal Tobias
 Malachi Pearson
 Malachi Throne
-Malachy M. Court
+Malachy McCourt
 Malcolm Atterbury
 Malcolm Barrett
 Malcolm Curley
@@ -15269,7 +15325,7 @@ Malcolm David Kelley
 Malcolm Dixon
 Malcolm Goodwin
 Malcolm Groome
-Malcolm M. Dowell
+Malcolm McDowell
 Malcolm Sinclair
 Malcolm Stewart
 Malcolm Stoddard
@@ -15327,9 +15383,9 @@ Marc Hayashi
 Marc Ian Sklar
 Marc John Jefferies
 Marc Lawrence
-Marc M. Clure
 Marc Macaulay
 Marc Maron
+Marc McClure
 Marc Musso
 Marc Newburger
 Marc Pickering
@@ -15430,7 +15486,7 @@ Margaret Mazzantini
 Margaret Modlin
 Margaret Moore
 Margaret Nagle
-Margaret O. Brien
+Margaret O'Brien
 Margaret Preece
 Margaret Smith
 Margaret Tyzack
@@ -15499,7 +15555,7 @@ Maria del Mar
 Maria-Elena Laas
 Mariah Carey
 Mariah Inger
-Mariah O. Brien
+Mariah O'Brien
 Marian Hailey-Moss
 Marian Mercer
 Marian Seldes
@@ -15515,9 +15571,9 @@ Marianne Gordon
 Marianne Gravatte
 Marianne Hagan
 Marianne Jean-Baptiste
-Marianne M. Andrew
 Marianne Maddalena
 Marianne Marks
+Marianne McAndrew
 Marianne Muellerleile
 Marianne Sägebrecht
 Maribel Verdú
@@ -15531,7 +15587,7 @@ Marie Jones
 Marie Kean
 Marie Matiko
 Marie Mullen
-Marie O. Henry
+Marie O'Henry
 Marie Richardson
 Marie V. Cruz
 Marie Windsor
@@ -15563,9 +15619,9 @@ Marilyn Ghigliotti
 Marilyn Hassett
 Marilyn Joi
 Marilyn Lightstone
-Marilyn M. Coo
 Marilyn Manson
 Marilyn Martinez
+Marilyn McCoo
 Marilyn Monroe
 Marilyn Schreffler
 Marilyn Sokol
@@ -15605,7 +15661,7 @@ Mario Yedidia
 Marion Bailey
 Marion Brash
 Marion Cotillard
-Marion M. Corry
+Marion McCorry
 Marion Ramsey
 Marion Ross
 Maris Valainis
@@ -15633,7 +15689,7 @@ Marjatta Nissinen
 Marjean Holden
 Marji Banks
 Marjoe Gortner
-Marjolaine D. Graeve
+Marjolaine DeGraeve
 Marjorie Bennett
 Marjorie Clifton
 Marjorie Durant
@@ -15649,8 +15705,8 @@ Mark Barriere
 Mark Blankfield
 Mark Blum
 Mark Blundell
+Mark Boone Jr.
 Mark Boone Junior
-Mark Boone, Jr.
 Mark Borchardt
 Mark Breland
 Mark Buntzman
@@ -15668,8 +15724,8 @@ Mark Colson
 Mark Consuelos
 Mark Courier
 Mark Curry
-Mark D. Michele
 Mark Dacascos
+Mark DeMichele
 Mark Dindal
 Mark Dodson
 Mark Duplass
@@ -15718,11 +15774,11 @@ Mark Lewis Jones
 Mark Lindsay Chapman
 Mark Linn-Baker
 Mark Lye
-Mark M. Cracken
-Mark M. Kinney
 Mark Malone
 Mark Margolis
 Mark Matkevich
+Mark McCracken
+Mark McKinney
 Mark Metcalf
 Mark Miller
 Mark Moraghan
@@ -15789,7 +15845,7 @@ Marlyn Gates
 Marne Maitland
 Marneen Fields
 Marnette Patterson
-Marnie M. Phail
+Marnie McPhail
 Marnix Van Den Broeke
 Marny Eng
 Marque Richardson
@@ -15811,8 +15867,8 @@ Marshall Colt
 Marshall Crenshaw
 Marshall Efron
 Marshall Goodman
-Marshall M. Luhan
 Marshall Manesh
+Marshall McLuhan
 Marshall Napier
 Marshall R. Teague
 Marshall Teague
@@ -15867,12 +15923,12 @@ Martin Kemp
 Martin Klebba
 Martin Kove
 Martin L. Mercer
-Martin L. Salle
+Martin LaSalle
 Martin Landau
 Martin Lavut
 Martin Lawrence
 Martin Luther King
-Martin Luther M. Coy
+Martin Luther McCoy
 Martin Mull
 Martin Neufeld
 Martin Okello
@@ -15916,7 +15972,7 @@ Maruschka Detmers
 Marv Albert
 Marvin Corman
 Marvin Hamlisch
-Marvin J. M. Intyre
+Marvin J. McIntyre
 Marvin Kaplan
 Marvin Miller
 Marvin Rosand
@@ -15938,7 +15994,7 @@ Mary Dean Lauria
 Mary Donnelly-Haskell
 Mary Elizabeth Mastrantonio
 Mary Elizabeth Winstead
-Mary Ellen O. Neill
+Mary Ellen O'Neill
 Mary Ellen Trainor
 Mary Fallick
 Mary Field
@@ -15955,21 +16011,21 @@ Mary Jo Deschanel
 Mary Kate Schellhardt
 Mary Kay Bergman
 Mary Kay Place
-Mary L. Roche
+Mary LaRoche
 Mary Leona Perry Kirtley
 Mary Lou Retton
 Mary Louise Weller
 Mary Louise Wilson
 Mary Lynn Rajskub
-Mary M. Carty
-Mary M. Cormack
-Mary M. Donald-Lewis
-Mary M. Donnell
 Mary MacLeod
 Mary Mara
 Mary Margaret Amato
 Mary Mary
 Mary Maude
+Mary McCarty
+Mary McCormack
+Mary McDonald-Lewis
+Mary McDonnell
 Mary Moore
 Mary Mouser
 Mary Murphy
@@ -16063,10 +16119,10 @@ Matt Kanen
 Matt Keeslar
 Matt King
 Matt Klemp
-Matt L. Blanc
 Matt Lanter
 Matt Lattanzi
 Matt Lauer
+Matt LeBlanc
 Matt Leinart
 Matt Letscher
 Matt Levin
@@ -16074,19 +16130,19 @@ Matt Long
 Matt Lucas
 Matt Lucas
 Matt Lutz
-Matt M. Colm
-Matt M. Coy
-Matt M. Grath
-Matt M. Kenzie
 Matt Maiellaro
 Matt Malloy
+Matt McColm
+Matt McCoy
+Matt McGrath
+Matt McKenzie
 Matt Mitler
 Matt Mulhern
 Matt Murphy
 Matt Nolan
 Matt Norklun
 Matt Nover
-Matt O. Leary
+Matt O'Leary
 Matt Pinfield
 Matt Pletcher
 Matt Prokop
@@ -16140,13 +16196,13 @@ Matthew Laurance
 Matthew Lawrence
 Matthew Lillard
 Matthew Long
-Matthew M. Conaughey
-Matthew M. Grory
-Matthew M. Nulty
 Matthew Macfadyen
 Matthew Maher
 Matthew Marsden
 Matthew Marsh
+Matthew McConaughey
+Matthew McGrory
+Matthew McNulty
 Matthew Modine
 Matthew Morrison
 Matthew Newton
@@ -16188,11 +16244,11 @@ Maureen Anderman
 Maureen Connell
 Maureen Flannigan
 Maureen Lipman
-Maureen M. Cormick
-Maureen M. Govern
+Maureen McCormick
+Maureen McGovern
 Maureen Murphy
-Maureen O. Hara
-Maureen O. Sullivan
+Maureen O'Hara
+Maureen O'Sullivan
 Maureen Shannon
 Maureen Stapleton
 Maureen Teefy
@@ -16205,8 +16261,8 @@ Maurice Denham
 Maurice Evans
 Maurice Godin
 Maurice Hines
-Maurice L. Marche
-Maurice O. Connell
+Maurice LaMarche
+Maurice O'Connell
 Maurice Ronet
 Maurice Roëves
 Mauricio Sanchez
@@ -16220,7 +16276,7 @@ Maurício Gugelmin
 Mavis Staples
 Mavor Moore
 Max Alexander
-Max Baer, Jr.
+Max Baer Jr.
 Max Beesley
 Max Benitz
 Max Brooks
@@ -16270,7 +16326,7 @@ Maxine Bahns
 Maxine Gordon
 Maxine Stuart
 Maxwell Caulfield
-Maxwell M. Cabe-Lokos
+Maxwell McCabe-Lokos
 Maxwell Perry Cotton
 Maxx Payne
 May Au
@@ -16288,6 +16344,11 @@ Maïwenn Le Besco
 Małgorzata Gebel
 Małgorzata Zajączkowska
 Mc chris
+McCaleb Burnett
+McCoy Tyner
+McKenzie Westmore
+McLean Stevenson
+McNeil Hendricks
 Meade Roberts
 Meadow Sisto
 Meadowlark Lemon
@@ -16321,8 +16382,8 @@ Megan Gallagher
 Megan Harvey
 Megan Kuhlmann
 Megan Leitch
-Megan M. Kinnon
 Megan Marsden
+Megan McKinnon
 Megan Milner
 Megan Mullally
 Megan Owen
@@ -16349,7 +16410,7 @@ Mel Gorham
 Mel Harris
 Mel Howard
 Mel Jackson
-Mel Johnson, Jr.
+Mel Johnson Jr.
 Mel Leven
 Mel Novak
 Mel Raido
@@ -16380,7 +16441,7 @@ Melina Mercouri
 Melinda Clarke
 Melinda Culea
 Melinda Dillon
-Melinda M. Graw
+Melinda McGraw
 Melinda Mullins
 Melinda O. Fee
 Melissa Anne Acosta
@@ -16398,11 +16459,11 @@ Melissa Hill
 Melissa Joan Hart
 Melissa Leo
 Melissa Lingafelt
-Melissa M. Bride
-Melissa M. Carthy
 Melissa Manchester
 Melissa Mars
 Melissa Martinez
+Melissa McBride
+Melissa McCarthy
 Melissa Moore
 Melissa Ordway
 Melissa Peterman
@@ -16430,8 +16491,8 @@ Melyssa Ade
 Memphis Bleek
 Men of Vizion
 Mena Suvari
-Mercedes M. Cambridge
-Mercedes M. Nab
+Mercedes McCambridge
+Mercedes McNab
 Mercedes Ruehl
 Mercedes Shirley
 Merci Montello
@@ -16486,6 +16547,7 @@ Micah Stephen Williams
 Michael A. Goorjian
 Michael A. Hoey
 Michael A. Miranda
+Michael Anderson Jr.
 Michael Anderson, Jr.
 Michael Angarano
 Michael Angelis
@@ -16512,7 +16574,7 @@ Michael Beck
 Michael Been
 Michael Bell
 Michael Bentt
-Michael Berry, Jr.
+Michael Berry Jr.
 Michael Berryman
 Michael Biehn
 Michael Billington
@@ -16584,19 +16646,19 @@ Michael Cunio
 Michael Cunningham
 Michael Currie
 Michael D. Guerin
-Michael D. Lorenzo
-Michael D. Luise
 Michael D. Roberts
 Michael Daingerfield
 Michael Dante
 Michael David Eilert
 Michael Davis
+Michael DeLorenzo
+Michael DeLuise
 Michael Deak
 Michael Delano
 Michael Des Barres
 Michael Dickman
 Michael Dolan
-Michael Donovan O. Donnell
+Michael Donovan O'Donnell
 Michael Dorman
 Michael Dorn
 Michael Douglas
@@ -16608,7 +16670,7 @@ Michael E. Knight
 Michael E. Rodgers
 Michael Ealy
 Michael Edelstein
-Michael Edward M. Guinn
+Michael Edward McGuinn
 Michael Edwards
 Michael Egan
 Michael Eklund
@@ -16695,7 +16757,7 @@ Michael Knowles
 Michael Kopelow
 Michael Kopsa
 Michael L. Blair
-Michael L. Guardia
+Michael LaGuardia
 Michael Lally
 Michael Landes
 Michael Laskin
@@ -16712,16 +16774,6 @@ Michael Lord
 Michael Lowry
 Michael Lucas
 Michael Luciano
-Michael M. Cleery
-Michael M. Connohie
-Michael M. Donald
-Michael M. Elroy
-Michael M. Grady
-Michael M. Greevey
-Michael M. Guire
-Michael M. Kean
-Michael M. Lafferty
-Michael M. Millian
 Michael Madsen
 Michael Maguire
 Michael Maloney
@@ -16733,6 +16785,16 @@ Michael Massee
 Michael Mastro
 Michael Mauro
 Michael Mayer
+Michael McCleery
+Michael McConnohie
+Michael McDonald
+Michael McElroy
+Michael McGrady
+Michael McGreevey
+Michael McGuire
+Michael McKean
+Michael McLafferty
+Michael McMillian
 Michael Medwin
 Michael Mellinger
 Michael Michele
@@ -16749,11 +16811,11 @@ Michael Nehring
 Michael Nesmith
 Michael Nouri
 Michael Nunes
-Michael O. Donoghue
-Michael O. Hagan
-Michael O. Hare
-Michael O. Keefe
-Michael O. Neill
+Michael O'Donoghue
+Michael O'Hagan
+Michael O'Hare
+Michael O'Keefe
+Michael O'Neill
 Michael Offei
 Michael Oliver
 Michael Olowokandi
@@ -16921,9 +16983,9 @@ Michelle Joyner
 Michelle Krusiec
 Michelle Le Mothe
 Michelle Lopez
-Michelle M. Lean
 Michelle Marley
 Michelle Marvin
+Michelle McLean
 Michelle Meyrink
 Michelle Monaghan
 Michelle Nicastro
@@ -16972,7 +17034,8 @@ Micky Dolenz
 Micole Mercurio
 Miezi Sungu
 Migdia Chinea Varela
-Miguel A. Nunez, Jr.
+Miguel A. Nunez Jr.
+Miguel A. Núñez Jr.
 Miguel A. Núñez, Jr.
 Miguel Castro
 Miguel Falabella
@@ -17028,13 +17091,13 @@ Mike Kellin
 Mike Lane
 Mike Lange
 Mike Lookinland
-Mike M. Glone
-Mike M. Shane
 Mike MacDonald
 Mike Maronna
 Mike Marshall
 Mike Massey
 Mike Mazurki
+Mike McGlone
+Mike McShane
 Mike Miller
 Mike Mitchell
 Mike Modano
@@ -17044,7 +17107,7 @@ Mike Myers
 Mike Nomad
 Mike Norris
 Mike Nussbaum
-Mike O. Malley
+Mike O'Malley
 Mike Olton
 Mike Patton
 Mike Piazza
@@ -17096,7 +17159,7 @@ Miles Anderson
 Miles Chapin
 Miles Fisher
 Miles Kreuger
-Miles O. Keeffe
+Miles O'Keeffe
 Miles Teller
 Miles Watkins
 Miley Cyrus
@@ -17107,7 +17170,7 @@ Millie Jackson
 Millie Perkins
 Millie Slavin
 Mills Watson
-Milo O. Shea
+Milo O'Shea
 Milo Rafi
 Milo Ventimiglia
 Miloš Forman
@@ -17160,7 +17223,7 @@ Miranda Paige Walls
 Miranda Richardson
 Miranda Stuart Rhyne
 Mircea Monroe
-Mirella D. Angelo
+Mirella D'Angelo
 Miriam Byrd Nethery
 Miriam Byrd-Nethery
 Miriam Colon
@@ -17204,14 +17267,14 @@ Mitchell Ryan
 Mitchell Whitfield
 Mittie Lawrence
 Mitzi Hoag
-Mitzi M. Call
 Mitzi Martin
+Mitzi McCall
 Miyuki Ono
 Mizuo Peck
 Mo Collins
 Mo Gaffney
 Mo Gallini
-Mo M. Rae
+Mo McRae
 Mo'Nique
 Moby
 Moe Michaels
@@ -17232,7 +17295,7 @@ Molly Dodd
 Molly Ephraim
 Molly Erdman
 Molly Hagan
-Molly M. Clure
+Molly McClure
 Molly Parker
 Molly Picon
 Molly Price
@@ -17354,9 +17417,9 @@ Murray Cruchley
 Murray Gershenz
 Murray Hamilton
 Murray Langston
-Murray M. Arthur
 Murray MacLeod
 Murray Matheson
+Murray McArthur
 Murray Melvin
 Murray Westgate
 Muse Watson
@@ -17392,8 +17455,8 @@ Mícheál Mac Donncha
 Míriam Colón
 Míriam Pires
 Mónica Randall
-N. Bushe Wright
-N. O.R. E.
+N'Bushe Wright
+N.O.R.E.
 Nabil Shaban
 Nadege August
 Nadezhda Pavlova
@@ -17444,12 +17507,12 @@ Nancy Kyes
 Nancy Lee Grahn
 Nancy Lenehan
 Nancy Linehan Charles
-Nancy M. Keon
 Nancy Marchand
+Nancy McKeon
 Nancy Morgan
 Nancy Nevinson
 Nancy New
-Nancy O. Dell
+Nancy O'Dell
 Nancy Olson
 Nancy Parsons
 Nancy Paul
@@ -17510,7 +17573,7 @@ Natalie West
 Natalie Wood
 Natalie Zea
 Natalya Andrejchenko
-Natascha M. Elhone
+Natascha McElhone
 Natasha Alam
 Natasha Gregson Wagner
 Natasha Henstridge
@@ -17588,7 +17651,7 @@ Neal Brennan
 Neal Huff
 Neal Israel
 Neal Jones
-Neal M. Donough
+Neal McDonough
 Neal Parrow
 Nectar Rose
 Ned Beatty
@@ -17611,7 +17674,7 @@ Neef Buck
 Neena Gupta
 Neha Dubey
 Nehemiah Persoff
-Neil Brown, Jr.
+Neil Brown Jr.
 Neil Crone
 Neil Diamond
 Neil Dickson
@@ -17621,7 +17684,7 @@ Neil Giuntoli
 Neil Hopkins
 Neil Hunt
 Neil Jackson
-Neil M. Carthy
+Neil McCarthy
 Neil Morrissey
 Neil Mullarkey
 Neil Munro
@@ -17637,9 +17700,10 @@ Nell Campbell
 Nell Carter
 Nell Newman
 Nellie Bellflower
-Nellie M. Kay
+Nellie McKay
 Nelly Furtado
 Nelsan Ellis
+Nelson Burton Jr.
 Nelson Burton, Jr.
 Nelson Dantas
 Nelson Franklin
@@ -17671,7 +17735,7 @@ Nia Vardalos
 Niall Buggy
 Niall MacGinnis
 Niall Matter
-Niall O. Brien
+Niall O'Brien
 Niall Tóibín
 Niamh Cusack
 Niamh Wilson
@@ -17687,7 +17751,7 @@ Nicholas Campbell
 Nicholas Cascone
 Nicholas Clay
 Nicholas Colasanto
-Nicholas D. Agosto
+Nicholas D'Agosto
 Nicholas Day
 Nicholas Eadie
 Nicholas Farrell
@@ -17796,7 +17860,7 @@ Nicole Beharie
 Nicole Bilderback
 Nicole Burdette
 Nicole Calfan
-Nicole D. Huff
+Nicole DeHuff
 Nicole Dillenberg
 Nicole Donahoo
 Nicole Eggert
@@ -17805,8 +17869,8 @@ Nicole Fugere
 Nicole Garcia
 Nicole Jacobs
 Nicole Kidman
-Nicole L. Liberte
-Nicole L. Placa
+Nicole LaLiberte
+Nicole LaPlaca
 Nicole Leach
 Nicole Lydy
 Nicole Muirbrook
@@ -17843,7 +17907,7 @@ Nikita Hopkins
 Nikki Blonsky
 Nikki Boyer
 Nikki Cox
-Nikki D. Loach
+Nikki DeLoach
 Nikki Graham
 Nikki Reed
 Nikki Schieler Ziering
@@ -17888,6 +17952,7 @@ Nitza Shaul
 Nitzi Arellano
 Nivek Ogre
 Noah Baumbach
+Noah Beery Jr.
 Noah Beery, Jr.
 Noah Blake
 Noah Danby
@@ -17908,8 +17973,8 @@ Noam Jenkins
 Noberto Kerner
 Noble Craig
 Noble Willingham
-Nobu M. Carthy
 Nobu Matsuhisa
+Nobu McCarthy
 Noel Coleman
 Noel Conlon
 Noel Drayton
@@ -17977,7 +18042,7 @@ Norman Wooland
 Norman Yeung
 Nosher Powell
 Notch
-Noureen D. Wulf
+Noureen DeWulf
 Novella Nelson
 Noémie Lenoir
 Ntare Guma Mbaho Mwine
@@ -17986,13 +18051,14 @@ Nuno Leal Maia
 Nydia Caro
 Néstor Carbonell
 Néstor Rodulfo
+O'Neal Compton
+O-Lan Jones
+O-T Fagbenle
 O. J. Simpson
 O. L. Duke
-O. Lan Jones
-O. Neal Compton
-O. T Fagbenle
 O. Winston Link
-OK. Go
+O.L. Duke
+OK Go
 Oana Pellea
 Obba Babatunde
 Obba Babatundé
@@ -18108,7 +18174,7 @@ Orson Welles
 Orwin C. Harvey
 Osamu Okawa
 Oscar Beregi
-Oscar Brown, Jr.
+Oscar Brown Jr.
 Oscar Goodman
 Oscar Isaac
 Oscar Nunez
@@ -18127,7 +18193,7 @@ Otto Jürgen Hofmann
 Otto Sanchez
 Owen Benjamin
 Owen Bush
-Owen O. Neill
+Owen O'Neill
 Owen Wilson
 Oz Perkins
 Ozman Sirgood
@@ -18136,9 +18202,10 @@ Ozzy Osbourne
 P. Diddy
 P. H. Moriarty
 P. J. Byrne
-P. J. Ochlan
 P. J. Soles
 P. Lynn Johnson
+P.J. Ochlan
+P.J. Soles
 Pablo Schreiber
 Paco Morayta
 Paddi Edwards
@@ -18151,7 +18218,7 @@ Paget Brewster
 Paige Howard
 Paige Hurd
 Paige Moss
-Paige O. Hara
+Paige O'Hara
 Paige Sullivan
 Paige Turco
 Palle Mikkelborg
@@ -18250,17 +18317,17 @@ Pat E. Johnson
 Pat Finn
 Pat Fraley
 Pat Gorman
-Pat Harrington, Jr.
+Pat Harrington Jr.
 Pat Healy
 Pat Hingle
 Pat Kilbane
 Pat Laffan
-Pat M. Cormick
-Pat M. Cormick
+Pat McCormick
+Pat McCormick
 Pat Morita
 Pat Musick
 Pat Nye
-Pat O. Brien
+Pat O'Brien
 Pat Parlemon
 Pat Paulsen
 Pat Priest
@@ -18282,7 +18349,7 @@ Patric Zimmerman
 Patrice Chéreau
 Patrice Donnelly
 Patrice Martinez
-Patrice O. Neal
+Patrice O'Neal
 Patricia Alice Albrecht
 Patricia Arquette
 Patricia Barry
@@ -18309,7 +18376,7 @@ Patricia Mauceri
 Patricia Medina
 Patricia Morison
 Patricia Neal
-Patricia O. Connell
+Patricia O'Connell
 Patricia Pearcy
 Patricia Quinn
 Patricia Reyes Spindola
@@ -18363,29 +18430,29 @@ Patrick Kake
 Patrick Kennedy
 Patrick Kilpatrick
 Patrick Labyorteaux
-Patrick M. Alinney
-Patrick M. Gaw
-Patrick M. Geachan
-Patrick M. Goohan
-Patrick M. Kenna
-Patrick M. Vey
 Patrick Macnee
 Patrick Magee
 Patrick Malahide
 Patrick Malone
 Patrick Massett
+Patrick McAlinney
+Patrick McGaw
+Patrick McGeachan
+Patrick McGoohan
+Patrick McKenna
+Patrick McVey
 Patrick Miller
 Patrick Mower
 Patrick Muldoon
 Patrick Myers
 Patrick Mynhardt
 Patrick Newell
-Patrick O. Brien Demsey
-Patrick O. Bryan
-Patrick O. Connell
-Patrick O. Hara
-Patrick O. Hearn
-Patrick O. Neal
+Patrick O'Brien Demsey
+Patrick O'Bryan
+Patrick O'Connell
+Patrick O'Hara
+Patrick O'Hearn
+Patrick O'Neal
 Patrick Petersen
 Patrick Pinney
 Patrick Read Johnson
@@ -18400,7 +18467,7 @@ Patrick Sullivan Burke
 Patrick Swayze
 Patrick T. Johnson
 Patrick Thomas
-Patrick Thomas O. Brien
+Patrick Thomas O'Brien
 Patrick Troughton
 Patrick Tull
 Patrick Valenzuela
@@ -18417,11 +18484,11 @@ Patsy Kelly
 Patsy Kensit
 Patsy Pease
 Patti Austin
-Patti D. Arbanville
+Patti D'Arbanville
 Patti Deutsch
 Patti Hansen
-Patti L. Belle
-Patti L. Pone
+Patti LaBelle
+Patti LuPone
 Patti Medwid
 Patti Sheehan
 Patti Smith
@@ -18432,8 +18499,8 @@ Patton Oswalt
 Patty Byrne
 Patty Duke
 Patty Hearst
-Patty M. Cormack
 Patty Maloney
+Patty McCormack
 Patty Mullen
 Paul 'Mousie' Garner
 Paul A. Partain
@@ -18554,18 +18621,18 @@ Paul Linke
 Paul Livingston
 Paul Lukather
 Paul Lynde
-Paul M. Cartney
-Paul M. Crane
-Paul M. Dowell
-Paul M. Gann
-Paul M. Gill
-Paul M. Gowen
-Paul M. Intosh
 Paul Madigan
 Paul Mantee
 Paul Marius
 Paul Maxwell
 Paul Mazursky
+Paul McCartney
+Paul McCrane
+Paul McDowell
+Paul McGann
+Paul McGill
+Paul McGowen
+Paul McIntosh
 Paul Mercurio
 Paul Methric
 Paul Michael Glaser
@@ -18577,9 +18644,9 @@ Paul Napier
 Paul Newman
 Paul Nicholas
 Paul Nolan
-Paul O. Keefe
-Paul O. Neill
-Paul O. Sullivan
+Paul O'Keefe
+Paul O'Neill
+Paul O'Sullivan
 Paul Onsongo
 Paul Pape
 Paul Perri
@@ -18674,7 +18741,7 @@ Paula Marshall
 Paula Miranda
 Paula Moore
 Paula Newsome
-Paula O. Hara
+Paula O'Hara
 Paula Patton
 Paula Prentiss
 Paula Shaw
@@ -18690,7 +18757,7 @@ Paulina Porizkova
 Pauline Brailsford
 Pauline Chan
 Pauline Collins
-Pauline M. Lynn
+Pauline McLynn
 Paulo Costanzo
 Pauly Shore
 Paunita Nichols
@@ -18705,6 +18772,7 @@ Pearce Quigley
 Pearl Bailey
 Pearl Shear
 Pedro Altamirano
+Pedro Armendáriz Jr.
 Pedro Armendáriz, Jr.
 Pedro Damián
 Pedro Gonzalez Gonzalez
@@ -18722,8 +18790,8 @@ Peggy Feury
 Peggy Fleming
 Peggy Freisen
 Peggy Lipton
-Peggy M. Cay
-Peggy M. Intaggart
+Peggy McCay
+Peggy McIntaggart
 Peggy Miley
 Peggy Pettitt
 Peggy Pope
@@ -18753,8 +18821,8 @@ Penny Downie
 Penny Fuller
 Penny Hardaway
 Penny Johnson Jerald
-Penny M. Namee
 Penny Marshall
+Penny McNamee
 Penny Peyser
 Penny Singleton
 Penny Smith
@@ -18803,7 +18871,7 @@ Pete Postlethwaite
 Pete Rock
 Pete Terhune
 Pete Vuckovich
-Peter A. Urban, Jr.
+Peter A. Urban Jr.
 Peter Alexander
 Peter Appel
 Peter Archer
@@ -18845,10 +18913,10 @@ Peter Cullen
 Peter Cummins
 Peter Curtin
 Peter Cushing
-Peter D. Luise
 Peter Dante
 Peter Davison
 Peter De Anda
+Peter DeLuise
 Peter Demlakian
 Peter Dennis
 Peter Diamond
@@ -18922,10 +18990,6 @@ Peter Law
 Peter Lawford
 Peter Lewis
 Peter Linz
-Peter M. Donald
-Peter M. Enery
-Peter M. Kenzie
-Peter M. Robbie
 Peter MacNeill
 Peter MacNicol
 Peter Macdissi
@@ -18942,6 +19006,10 @@ Peter Marshall
 Peter Martin
 Peter Masterson
 Peter Mayhew
+Peter McDonald
+Peter McEnery
+Peter McKenzie
+Peter McRobbie
 Peter Mengrone
 Peter Mensah
 Peter Michael Goetz
@@ -18951,9 +19019,9 @@ Peter Murnik
 Peter Nelson
 Peter Nevargic
 Peter New
-Peter O. Brien
-Peter O. Meara
-Peter O. Toole
+Peter O'Brien
+Peter O'Meara
+Peter O'Toole
 Peter Oldring
 Peter Oliphant
 Peter Onorati
@@ -19039,11 +19107,11 @@ Phil Hartman
 Phil Hayes
 Phil Hendrie
 Phil Hoover
-Phil L. Marr
+Phil LaMarr
 Phil Laak
 Phil Leeds
-Phil M. Call
-Phil M. Graw
+Phil McCall
+Phil McGraw
 Phil Morris
 Phil Ochs
 Phil Proctor
@@ -19073,9 +19141,9 @@ Philip Ko
 Philip Kwok
 Philip Lenkowsky
 Philip Locke
-Philip M. Keon
 Philip Madoc
 Philip Martin Brown
+Philip McKeon
 Philip Michael
 Philip Michael Thomas
 Philip Moon
@@ -19214,6 +19282,7 @@ Priscilla Lopez
 Priscilla Pointer
 Priscilla Presley
 Priyanka Xi
+Professor Tanaka
 Professor Toru Tanaka
 Proof
 Pruitt Taylor Vince
@@ -19221,8 +19290,8 @@ Prunella Scales
 Pua Magasiva
 Puchong Makaraj
 Péter Halász
-Q. Tip
-Q. Tip
+Q-Tip
+Q-Tip
 Queen Bey
 Queen Esther Marrow
 Queen Latifah
@@ -19236,7 +19305,7 @@ Quindon Tarver
 Quinn Cummings
 Quinn K. Redeker
 Quinn Lord
-Quinn O. Hara
+Quinn O'Hara
 Quinn Redeker
 Quinn Shephard
 Quinton Aaron
@@ -19247,15 +19316,17 @@ R. D. Call
 R. D. Reid
 R. D. Robb
 R. G. Armstrong
-R. H. Thomson
-R. J. Williams
 R. Keith Harris
 R. L. Armstrong
 R. L. Ryan
 R. Lee Ermey
 R. Madhavan
 R. Mahalakshmi Devaraj
-R. Paul
+R.D. Call
+R.D. Reid
+R.G. Armstrong
+R.H. Thomson
+R.J. Williams
 Ra Chapman
 Race Nelson
 Rachael Bella
@@ -19282,8 +19353,8 @@ Rachel Hurd-Wood
 Rachel Kempson
 Rachel Korine
 Rachel Luttrell
-Rachel M. Adams
-Rachel M. Dowall
+Rachel McAdams
+Rachel McDowall
 Rachel Miner
 Rachel Nichols
 Rachel Osborne
@@ -19493,18 +19564,18 @@ Ray Jewers
 Ray Kahnert
 Ray Laine
 Ray Liotta
-Ray M. Anally
-Ray M. Cort
-Ray M. Kinnon
 Ray Mancini
 Ray Manzarek
+Ray McAnally
+Ray McCort
+Ray McKinnon
 Ray Middleton
 Ray Milland
 Ray Moyer
 Ray Nitschke
 Ray Ogden
 Ray Park
-Ray Parker, Jr.
+Ray Parker Jr.
 Ray Reinhardt
 Ray Romano
 Ray Santiago
@@ -19531,8 +19602,8 @@ Raymond Forchion
 Raymond J. Barry
 Raymond K. Wong
 Raymond Louis Kennedy
-Raymond O. Connor
-Raymond O. Keefe
+Raymond O'Connor
+Raymond O'Keefe
 Raymond Serra
 Raymond Singer
 Raymond St. Jacques
@@ -19549,7 +19620,7 @@ Reagan Gomez-Preston
 Reagan Pasternak
 Reana E. Drummond
 Reb Brown
-Reba M. Entire
+Reba McEntire
 Rebecca Balding
 Rebecca Brooksher
 Rebecca Broussard
@@ -19565,8 +19636,8 @@ Rebecca Grant
 Rebecca Hall
 Rebecca Harrell Tickell
 Rebecca Jenkins
-Rebecca M. Cauley
 Rebecca Massey
+Rebecca McCauley
 Rebecca Miller
 Rebecca Nickels
 Rebecca Pidgeon
@@ -19602,7 +19673,7 @@ Reece Thompson
 Reed Birney
 Reed Diamond
 Reed Jones
-Reed M. Cant
+Reed McCant
 Reese Witherspoon
 Reeve Carney
 Ref Sanchez
@@ -19634,7 +19705,7 @@ Regis Cordic
 Regis Philbin
 Regis Toomey
 Reiko Aylesworth
-Reiley M. Clendon
+Reiley McClendon
 Reina King
 Reine Brynolfsson
 Reiner Schöne
@@ -19658,7 +19729,7 @@ Rene Medvešek
 Rene Russo
 Renee Griffin
 Renee Humphrey
-Renee O. Connor
+Renee O'Connor
 Renee Olstead
 Renee Props
 Renee Shugart
@@ -19673,11 +19744,11 @@ Renoly Santiago
 René Auberjonois
 René Auberjonois
 René Beaudin
-René Elizondo, Jr.
+René Elizondo Jr.
 René Enríquez
 René Hicks
-René L. Vant
 René Lavan
+René LeVant
 Renée Asherson
 Renée Coleman
 Renée Elise Goldsberry
@@ -19694,7 +19765,7 @@ Retta
 Reuben Langdon
 Reuben Yabuku
 Reuven Bar-Yotam
-Rex Allen, Jr.
+Rex Allen Jr.
 Rex Everhart
 Rex Hagon
 Rex Harrison
@@ -19722,7 +19793,7 @@ Rhonda Shear
 Rhys Coiro
 Rhys Darby
 Rhys Ifans
-Rhys M. Connochie
+Rhys McConnochie
 Ric Carrott
 Ric Drasin
 Ric Ocasek
@@ -19799,13 +19870,13 @@ Richard Coyle
 Richard Crenna
 Richard Crick
 Richard Cubison
-Richard Cummings, Jr.
-Richard D. Manicor
+Richard Cummings Jr.
 Richard Dahlia
 Richard Daughty
 Richard Davalos
 Richard Davidson
 Richard Dawson
+Richard DeManicor
 Richard Deacon
 Richard Dean Anderson
 Richard Derr
@@ -19879,9 +19950,9 @@ Richard Kiel
 Richard Kiley
 Richard Kind
 Richard L. Duran
-Richard L. Parmentier
 Richard Lane
 Richard Lawson
+Richard LeParmentier
 Richard Leaf
 Richard Lee Jackson
 Richard Leech
@@ -19897,15 +19968,15 @@ Richard Loring
 Richard Lundin
 Richard Lynch
 Richard Lynch
-Richard M. Cabe
 Richard M. Davidson
-Richard M. Gonagle
-Richard M. Kenzie
 Richard Marcus
 Richard Marner
 Richard Masur
 Richard Mayes
 Richard Maynard
+Richard McCabe
+Richard McGonagle
+Richard McKenzie
 Richard Meatwhistle
 Richard Mitrani
 Richard Moll
@@ -19920,7 +19991,7 @@ Richard N. Gladstein
 Richard Nance
 Richard Newman
 Richard Norton
-Richard O. Brien
+Richard O'Brien
 Richard Oldfield
 Richard Parnell Habersham
 Richard Pasco
@@ -19998,10 +20069,10 @@ Rick Batalla
 Rick Cassidy
 Rick Castro
 Rick Cramer
-Rick D. Angelo
 Rick D. Wasserman
 Rick Dean
 Rick Dees
+Rick DiAngelo
 Rick Dial
 Rick Ducommun
 Rick Ferrell
@@ -20019,9 +20090,9 @@ Rick Jason
 Rick Johnson
 Rick Kleber
 Rick Lenz
-Rick M. Nair
 Rick Macy
 Rick Malambri
+Rick McNair
 Rick Mora
 Rick Moranis
 Rick Moses
@@ -20047,14 +20118,14 @@ Rick Worthy
 Rick Yune
 Rick Zieff
 Rick Zumwalt
-Rickey D. Shon Collins
+Rickey D'Shon Collins
 Rickey Medlocke
 Rickey Smiley
 Ricki Lake
 Rickie Lee Jones
 Rickie Sorensen
 Ricky Addison Reed
-Ricky D. Shon Collins
+Ricky D'Shon Collins
 Ricky Dean Logan
 Ricky Dillard
 Ricky Gervais
@@ -20169,6 +20240,7 @@ Robert Allen Mukes
 Robert Arden
 Robert Arkins
 Robert Axelrod
+Robert Bailey Jr.
 Robert Bailey, Jr.
 Robert Baker
 Robert Beatty
@@ -20204,7 +20276,6 @@ Robert Costanzo
 Robert Culp
 Robert Curtis Brown
 Robert D. Novak
-Robert D. Qui
 Robert D. Raiford
 Robert D. Randall
 Robert Davi
@@ -20212,17 +20283,19 @@ Robert David Hall
 Robert De Niro
 Robert Deman
 Robert Desiderio
+Robert DoQui
 Robert Donavan
 Robert Donner
 Robert Doqui
 Robert Dorning
 Robert Dowdell
 Robert Downey Jr
+Robert Downey Jr.
 Robert Downey Sr.
 Robert Downey, Jr.
 Robert Drayton
 Robert Drivas
-Robert Duncan M. Neill
+Robert Duncan McNeill
 Robert Duvall
 Robert Earl Jones
 Robert Easton
@@ -20273,14 +20346,14 @@ Robert Hy Gorman
 Robert Iler
 Robert Irvin Elliott
 Robert Ito
-Robert J. Steinmiller, Jr.
+Robert J. Steinmiller Jr.
 Robert J. Wilke
 Robert Jayne
 Robert Jezek
 Robert John Burke
 Robert Joy
 Robert Judd
-Robert K. O. Neill
+Robert K. O'Neill
 Robert Karnes
 Robert Karvelas
 Robert Kass
@@ -20291,8 +20364,7 @@ Robert Knott
 Robert Kurtzman
 Robert Kya-Hill
 Robert L. Manahan
-Robert L. Pone
-Robert L. Sardo
+Robert LaSardo
 Robert Lang
 Robert Lansing
 Robert Lee
@@ -20305,10 +20377,9 @@ Robert Livingston
 Robert Logan
 Robert Loggia
 Robert Longden
+Robert LuPone
 Robert Lussier
 Robert Lussier
-Robert M. Kee
-Robert M. Kewley
 Robert MacLeod
 Robert MacNaughton
 Robert Mailhouse
@@ -20316,6 +20387,8 @@ Robert Maillet
 Robert Mak
 Robert Mammone
 Robert Mandan
+Robert McKee
+Robert McKewley
 Robert Merrill
 Robert Miano
 Robert Middleton
@@ -20331,7 +20404,7 @@ Robert Morley
 Robert Morse
 Robert N. Goodman
 Robert Norman Smith
-Robert O. Neil
+Robert O'Neil
 Robert Oliveri
 Robert Padilla
 Robert Parr
@@ -20413,7 +20486,7 @@ Robert Wagner
 Robert Wahlberg
 Robert Walden
 Robert Walker
-Robert Walker, Jr.
+Robert Walker Jr.
 Robert Wall
 Robert Webber
 Robert Whitehead
@@ -20425,7 +20498,7 @@ Robert Wolders
 Robert Wuhl
 Robert Wussler
 Robert X. Golphin
-Robert Z. Dar
+Robert Z'Dar
 Roberta Collins
 Roberta Flack
 Roberta Haynes
@@ -20499,7 +20572,7 @@ Robyn Stevan
 Rocco Sisto
 Rochelle Aytes
 Rochelle Ballard
-Rochelle L. Noir
+Rochelle LeNoir
 Rochelle Oliver
 Rock Hudson
 Rock Steady Crew
@@ -20515,17 +20588,17 @@ Rod Colbin
 Rod Culbertson
 Rod Loomis
 Rod Lurie
-Rod M. Cary
 Rod Masterson
+Rod McCary
 Rod Perry
 Rod Rondeaux
 Rod Serling
 Rod Steiger
 Rod Taylor
 Rod Wilson
-Roddy M. Dowall
-Roddy M. Millan
 Roddy Maude-Roxby
+Roddy McDowall
+Roddy McMillan
 Roddy Piper
 Roderick Cook
 Rodger Boyce
@@ -20585,7 +20658,7 @@ Roger L. Jackson
 Roger Llewellyn
 Roger Lloyd-Pack
 Roger Lodge
-Roger M. Guinn
+Roger McGuinn
 Roger Miller
 Roger Mobley
 Roger Moore
@@ -20609,9 +20682,9 @@ Rohn Thomas
 Roko Belic
 Roland Bob Harris
 Roland Culver
-Roland Harrah I. I
+Roland Harrah III
 Roland Kickinger
-Roland L. Grand Godfrey
+Roland LeGrand Godfrey
 Roland Rothchild
 Roland Thomson
 Roland Wybenga
@@ -20682,10 +20755,10 @@ Ron Lee
 Ron Leibman
 Ron Lester
 Ron Livingston
-Ron M. Larty
 Ron Masak
+Ron McLarty
 Ron Moody
-Ron O. Neal
+Ron O'Neal
 Ron Ortiz
 Ron Palillo
 Ron Parady
@@ -20756,8 +20829,8 @@ Rory Cochrane
 Rory Culkin
 Rory Jennings
 Rory Kinnear
-Rory M. Cann
 Rory Maclean
+Rory McCann
 Rosalba Neri
 Rosaleen Linehan
 Rosalie Crutchley
@@ -20776,7 +20849,7 @@ Rosamund Greenwood
 Rosamund Pike
 Rosanna Arquette
 Rosanna Carter
-Rosanna D. Soto
+Rosanna DeSoto
 Rosanna Scotto
 Rosanne Katon
 Rosanne Sorrentino
@@ -20792,37 +20865,38 @@ Rose English
 Rose Gregorio
 Rose Jackson
 Rose Keegan
-Rose M. Gowan
-Rose M. Iver
 Rose Maddox
 Rose Marie
 Rose Mary Woods
+Rose McGowan
+Rose McIver
 Rose Rollins
 Rose Weaver
 Roseanne Barr
 Roselyn Sanchez
 Roselyn Sánchez
-Rosemarie D. Witt
+Rosemarie DeWitt
 Rosemarie Dunham
 Rosemarie Heinikel
 Rosemarie Stack
-Rosemary D. Camp
 Rosemary De Angelis
+Rosemary DeCamp
 Rosemary Dunsmore
 Rosemary Forsyth
 Rosemary Harris
 Rosemary Leach
 Rosemary Martin
 Rosemary Murphy
-Rosetta L. Noire
+Rosetta LeNoire
 Rosey Grier
 Roshan Seth
 Rosie Gaines
 Rosie Malek-Yonan
-Rosie O. Donnell
+Rosie O'Donnell
 Rosie Perez
 Rosie Taylor-Ritson
 Rosie Vela
+Ross Bagdasarian Jr.
 Ross Bagdasarian, Jr.
 Ross Bagley
 Ross Elliot
@@ -20872,8 +20946,8 @@ Roy Gunsberg
 Roy Holder
 Roy Horan
 Roy Jenson
+Roy Jones Jr.
 Roy Jones, Jr
-Roy Jones, Jr.
 Roy Kinnear
 Roy London
 Roy Orbison
@@ -20891,6 +20965,7 @@ Roz Ryan
 Roz Witt
 Rozelle Gayle
 Rozonda Thomas
+RuPaul
 Ruben Blades
 Ruben Moreno
 Ruben Paul
@@ -20916,14 +20991,14 @@ Rudy Challenger
 Rudy Daniels
 Rudy De Luca
 Rudy Giuliani
-Rudy Herrera, Jr.
+Rudy Herrera Jr.
 Rudy Jones
 Rudy Ramos
 Rudy Ray Moore
 Rudy Ruettiger
 Rudy Vallee
 Rudy Wurlitzer
-Rue M. Clanahan
+Rue McClanahan
 Rufus
 Rufus Crawford
 Rufus Gifford
@@ -20933,7 +21008,7 @@ Rufus Wainwright
 Ruggero Deodato
 Rula Lenska
 Rumer Willis
-Run-D. M.C.
+Run-D.M.C.
 Rupert Degas
 Rupert Everett
 Rupert Friend
@@ -20948,8 +21023,8 @@ Russ Conway
 Russ Grieve
 Russ Kunkel
 Russ Leatherman
-Russ M. Cubbin
 Russ Marin
+Russ McCubbin
 Russ Meyer
 Russ Tamblyn
 Russell Brand
@@ -20975,7 +21050,7 @@ Russell Wong
 Russi Taylor
 Rustom K. S. Ghandhi
 Rusty Cundieff
-Rusty D. Wees
+Rusty DeWees
 Rusty Jacobs
 Rusty Schwimmer
 Ruta Lee
@@ -20989,11 +21064,11 @@ Ruth Gilbert
 Ruth Gordon
 Ruth Jones
 Ruth Kobart
-Ruth M. Devitt
 Ruth Madoc
 Ruth Maleczech
 Ruth Manning
 Ruth Marshall
+Ruth McDevitt
 Ruth Nelson
 Ruth Roman
 Ruth Sheen
@@ -21016,13 +21091,13 @@ Ryan Kelley
 Ryan Kennedy
 Ryan Kwanten
 Ryan Liestman
-Ryan M. Donald
 Ryan Malgarini
+Ryan McDonald
 Ryan Merriman
 Ryan Newman
 Ryan Northcott
-Ryan O. Donohue
-Ryan O. Neal
+Ryan O'Donohue
+Ryan O'Neal
 Ryan Ochoa
 Ryan Phillippe
 Ryan Pinkston
@@ -21044,10 +21119,10 @@ Ryō Ikebe
 Réal Andrews
 Rômulo Arantes
 S. A. Griffin
-S. Chin Pak
-S. E. Hinton
 S. Epatha Merkerson
 S. Scott Bullock
+S.A. Griffin
+S.E. Hinton
 Saadet Aksoy
 Saafir
 Sab Shimono
@@ -21112,7 +21187,7 @@ Salvatore Naturale
 Sam Anderson
 Sam Behrens
 Sam Bottoms
-Sam Chew, Jr.
+Sam Chew Jr.
 Sam Coppola
 Sam Cotton
 Sam Douglas
@@ -21135,7 +21210,7 @@ Sam Irvin
 Sam J. Jones
 Sam Jaeger
 Sam Jaffe
-Sam Jones I. I
+Sam Jones III
 Sam Kelly
 Sam Kinison
 Sam Kydd
@@ -21145,7 +21220,7 @@ Sam Levinson
 Sam Lloyd
 Sam Lloyd
 Sam Lloyd Sr.
-Sam M. Murray
+Sam McMurray
 Sam Melville
 Sam Moore
 Sam Moses
@@ -21186,8 +21261,8 @@ Samantha Harper
 Samantha Harris
 Samantha Ivers
 Samantha James
-Samantha M. Leod
 Samantha Mathis
+Samantha McLeod
 Samantha Morton
 Samantha Mumba
 Samantha Noble
@@ -21208,6 +21283,7 @@ Sammi Hanratty
 Sammi Rotibi
 Sammo Hung
 Sammuel Leung
+Sammy Davis Jr.
 Sammy Davis, Jr.
 Sammy Sheik
 Sammy Shore
@@ -21218,6 +21294,7 @@ Samuel E. Wright
 Samuel Fuller
 Samuel Honywood
 Samuel L. Jackson
+Samuel Monroe Jr.
 Samuel Monroe, Jr.
 Samuel West
 Sanaa Lathan
@@ -21252,7 +21329,7 @@ Sandrine Dumas
 Sandrine Holt
 Sands Hall
 Sandu Teodor
-Sandy Alomar, Jr.
+Sandy Alomar Jr.
 Sandy Baron
 Sandy Bull
 Sandy Dempsey
@@ -21266,8 +21343,8 @@ Sandy Helberg
 Sandy Ignon
 Sandy Johnson
 Sandy Kenyon
-Sandy M. Peak
 Sandy Martin
+Sandy McPeak
 Sandy Ward
 Sandy Winton
 Sanford Gibbons
@@ -21408,7 +21485,7 @@ Schell Rasten
 Schroeder
 Schuyler Fisk
 Scoey Mitchell
-Scoot M. Nairy
+Scoot McNairy
 Scorponok
 Scot Denton
 Scott Adkins
@@ -21460,11 +21537,11 @@ Scott L. Schwartz
 Scott Land
 Scott Lawrence
 Scott Lincoln
-Scott M. Ginnis
-Scott M. Neil
 Scott MacDonald
 Scott Marshall
 Scott Martin Gershin
+Scott McGinnis
+Scott McNeil
 Scott Mechlowicz
 Scott Menville
 Scott Michael Campbell
@@ -21505,7 +21582,7 @@ Scottie Pippen
 Scottie Thompson
 Scotty Bloch
 Scotty Leavenworth
-Scout L. Rue Willis
+Scout LaRue Willis
 Scout Taylor-Compton
 Screamin' Jay Hawkins
 Seamon Glass
@@ -21519,7 +21596,7 @@ Sean Bean
 Sean Biggerstaff
 Sean Bridgers
 Sean Brosnan
-Sean C. Cleland
+Sean C Cleland
 Sean Cameron Michael
 Sean Chapman
 Sean Combs
@@ -21541,19 +21618,19 @@ Sean Kanan
 Sean Kenney
 Sean Lawlor
 Sean Lennon
-Sean M. Cann
-Sean M. Clory
-Sean M. Namara
 Sean Maguire
 Sean Maher
 Sean Marquette
 Sean Marshall
+Sean McCann
+Sean McClory
+Sean McNamara
 Sean Murray
 Sean Nelson
-Sean O. Brien Teague
-Sean O. Bryan
-Sean O. Kane
-Sean O. Neal
+Sean O'Brien Teague
+Sean O'Bryan
+Sean O'Kane
+Sean O'Neal
 Sean Patrick Flanery
 Sean Patrick Thomas
 Sean Paul
@@ -21633,13 +21710,13 @@ Seu Jorge
 Severn Darden
 Seychelle Gabriel
 Seymour Cassel
-Seán M. Ginley
+Seán McGinley
 Sgt. Slaughter
 Sha-Na-Na
 Shabana Azmi
 Shabba Doo
 Shadia Simmons
-Shae D. Lyn
+Shae D'Lyn
 Shaggy 2 Dope
 Shahine Ezell
 Shahkrit Yamnarm
@@ -21679,9 +21756,9 @@ Shannon Fiedler
 Shannon Kane
 Shannon Lee
 Shannon Lucio
-Shannon M. Cormick
 Shannon Marie Woodward
-Shannon O. Hurley
+Shannon McCormick
+Shannon O'Hurley
 Shannon Spruill
 Shannon Tweed
 Shannon Whirry
@@ -21691,7 +21768,7 @@ Shannyn Sossamon
 Shantel VanSanten
 Shanésia Davis-Williams
 Shaobo Qin
-Shaquille O. Neal
+Shaquille O'Neal
 Shar Jackson
 Shareeka Epps
 Shari Belafonte
@@ -21720,8 +21797,8 @@ Sharon Johansen
 Sharon Kinney
 Sharon Lawrence
 Sharon Leal
-Sharon M. Night
 Sharon Maughan
+Sharon McNight
 Sharon Mitchell
 Sharon Osbourne
 Sharon Small
@@ -21772,13 +21849,13 @@ Shawnee Free Jones
 Shawnee Smith
 Shay Astar
 Shay Duffin
-Shayla L. Veaux
+Shayla LaVeaux
 Shayna Fox
 Shea Curry
 Shea Whigham
 Sheb Wooley
 Shecky Greene
-Shedrack Anderson I. I
+Shedrack Anderson III
 Sheela Tessler
 Sheena Easton
 Sheeri Rappaport
@@ -21790,9 +21867,9 @@ Sheila Frazier
 Sheila Gish
 Sheila Hancock
 Sheila Kay Davis
-Sheila M. Carthy
-Sheila M. Laughlin
 Sheila Matthews Allen
+Sheila McCarthy
+Sheila McLaughlin
 Sheila Raynor
 Sheila Reid
 Sheila Tousey
@@ -21856,7 +21933,7 @@ Sheryl Lee
 Sheryl Lee Ralph
 Sheryl Underwood
 Shi Yan Ming
-Shia L. Beouf
+Shia LaBeouf
 Shiek Mahmud-Bey
 Shifra Lerer
 Shigeru Kōyama
@@ -21937,8 +22014,8 @@ Sidney S. Liufau
 Siegfried Rauch
 Sienna Guillory
 Sienna Miller
-Sierra Aylina M. Clain
-Sierra M. Cormick
+Sierra Aylina McClain
+Sierra McCormick
 Sierra Railway No. 3
 Sig Shore
 Sigal Erez
@@ -21980,8 +22057,8 @@ Simon J. Smith
 Simon Jones
 Simon Kassianides
 Simon Kunz
-Simon M. Burney
 Simon MacCorkindale
+Simon McBurney
 Simon Merrells
 Simon Oakland
 Simon Pegg
@@ -22017,7 +22094,7 @@ Sinead Matthews
 Sinitta
 Sinjin Smith
 Sinéad Cusack
-Sinéad O. Connor
+Sinéad O'Connor
 Siobhan Fallon Hogan
 Siobhan Hayes
 Sione Fakaʻosilea
@@ -22045,14 +22122,14 @@ Skip E. Lowe
 Skip Engblom
 Skip Hinnant
 Skip Homeier
-Skip O. Brien
+Skip O'Brien
 Skipp Lynch
 Skipp Sudduth
 Sky Dumont
 Sky Saxon
 Sky du Mont
 Skye Aubrey
-Skye M. Cole Bartusiak
+Skye McCole Bartusiak
 Skye Tollefson
 Skylan Brooks
 Skylar Astin
@@ -22150,8 +22227,8 @@ Soundwave
 Southside Johnny Lyon
 Spacehog
 Spalding Gray
-Spanky M. Farlane
 Spanky Manikan
+Spanky McFarlane
 Sparky Marcus
 Spencer Breslin
 Spencer Daniels
@@ -22224,12 +22301,12 @@ Stanley Beck
 Stanley Bennett Clay
 Stanley Brock
 Stanley Clements
-Stanley D. Santis
+Stanley DeSantis
 Stanley Jordan
 Stanley Kamel
 Stanley Lebor
 Stanley Livingston
-Stanley M. Geagh
+Stanley McGeagh
 Stanley Ralph Ross
 Stanley Sheff
 Stanley Simmonds
@@ -22343,15 +22420,15 @@ Stephen Lee
 Stephen Lisk
 Stephen Little
 Stephen Lofaro
-Stephen M. Cole
-Stephen M. Hattie
-Stephen M. Nally
 Stephen MacKenna
 Stephen Macht
 Stephen Mailer
 Stephen Mangan
 Stephen Marcus
 Stephen Marshall
+Stephen McCole
+Stephen McHattie
+Stephen McNally
 Stephen Meadows
 Stephen Mellor
 Stephen Merchant
@@ -22359,8 +22436,8 @@ Stephen Moore
 Stephen Moyer
 Stephen Nichols
 Stephen Norrington
-Stephen O. Reilly
-Stephen O. Rourke
+Stephen O'Reilly
+Stephen O'Rourke
 Stephen Peace
 Stephen Pearlman
 Stephen R. Hart
@@ -22457,11 +22534,11 @@ Steve Lemme
 Steve Levitt
 Steve Levy
 Steve Lundquist
-Steve M. Clintock
-Steve M. Queen
 Steve Mackall
 Steve Martin
 Steve Matteucci
+Steve McClintock
+Steve McQueen
 Steve Miner
 Steve Monroe
 Steve Mouzakis
@@ -22516,7 +22593,7 @@ Steven Boyer
 Steven Brand
 Steven Brill
 Steven Brill
-Steven C. Raphael
+Steven C Raphael
 Steven Crowder
 Steven Culp
 Steven Curtis Chapman
@@ -22534,18 +22611,18 @@ Steven L. Long
 Steven Mackintosh
 Steven Martini
 Steven Mond
-Steven O. Donnell
+Steven O'Donnell
 Steven Pasquale
 Steven Peros
 Steven Prince
-Steven R. M. Queen
+Steven R. McQueen
 Steven R. Schirripa
 Steven Reisch
 Steven Robertson
 Steven Rodriguez
 Steven Rooke
 Steven Seagal
-Steven Shane M. Donald
+Steven Shane McDonald
 Steven Soderbergh
 Steven Soles
 Steven Spielberg
@@ -22563,8 +22640,8 @@ Stevie Rachelle
 Stevie Ray Vaughan
 Stewart Bick
 Stewart Copeland
-Stewart Finlay-M. Lennan
-Stewart Finley M. Lennan
+Stewart Finlay-McLennan
+Stewart Finley McLennan
 Stewart Granger
 Stewart Miller
 Stewart Moss
@@ -22625,6 +22702,7 @@ Stéphane Freiss
 Stéphane Roux
 Stéphanie Szostak
 Stênio Garcia
+SuChin Pak
 Subas Herrero
 Suburban Lawns
 Sue Ane Langdon
@@ -22639,7 +22717,7 @@ Sugar Ray
 Sugar Ray Leonard
 Suketu Mehta
 Sukie Smith
-Suli M. Cullough
+Suli McCullough
 Sullivan Stapleton
 Sullivan Walker
 Sully Boyar
@@ -22711,10 +22789,10 @@ Susan Lee Hoffman
 Susan Littler
 Susan Lowe
 Susan Lynch
-Susan M. Bain
 Susan MacDonald
 Susan Marie Snyder
 Susan May Pratt
+Susan McBain
 Susan Misner
 Susan Myers
 Susan Oliver
@@ -22772,9 +22850,9 @@ Suzanne Coy
 Suzanne Cryer
 Suzanne Danielle
 Suzanne Krull
-Suzanne M. Bain
 Suzanne Mari
 Suzanne May
+Suzanne McBain
 Suzanne Pleshette
 Suzanne Savoy
 Suzanne Shepard
@@ -22816,7 +22894,7 @@ Sylva Langova
 Sylvaine Strike
 Sylvester
 Sylvester Groth
-Sylvester M. Coy
+Sylvester McCoy
 Sylvester Stallone
 Sylvester Williams
 Sylvia Kauders
@@ -22829,29 +22907,32 @@ Sébastien Foucan
 Sônia Braga
 Sönke Möhring
 Søren Lindsted
-T. Bone
-T. Bone Burnett
-T. C
+T-Bone
+T-Bone Burnett
+T-Pain
 T. C. Carson
-T. E. Russell
-T. I.
-T. J. Jagodowski
-T. J. Lowther
-T. J. M. Clain
 T. J. Miller
-T. J. Myers
 T. J. Storm
 T. J. Thyne
 T. K. Carter
 T. Max Graham
-T. P. M. Kenna
-T. Pain
+T. P. McKenna
 T. Ryder Smith
-T. S.O. L.
-T. V. Carpio
+T.E. Russell
+T.I.
+T.J. Jagodowski
+T.J. Lowther
+T.J. McClain
+T.J. Miller
+T.J. Myers
+T.J. Storm
+T.K. Carter
+T.S.O.L.
+T.V. Carpio
+TLC
 Ta-Ronce Allen
 Ta-Tanisha
-Taaffe O. Connell
+Taaffe O'Connell
 Tab Hunter
 Tab Thacker
 Tabitha Lupien
@@ -22897,7 +22978,7 @@ Tamara Garina
 Tamara Glynn
 Tamara Gorski
 Tamara Hope
-Tamara L. Seon Bass
+Tamara LaSeon Bass
 Tamara Mark
 Tamara Mello
 Tamara Taylor
@@ -22924,9 +23005,9 @@ Tamsin Kelsey
 Tamyra Gray
 Tamzin Merchant
 Tanc Sade
-Tane M. Clure
+Tane McClure
 Tanedra Howard
-Tanee M. Call
+Tanee McCall
 Tang Wei
 Tangie Ambrose
 Tania Nolan
@@ -22946,11 +23027,11 @@ Tanya Lopert
 Tanya Lynne Lee
 Tanya Roberts
 Tanya Tucker
-Tané M. Clure
+Tané McClure
 Tap Canutt
 Tara Buckman
 Tara Fitzgerald
-Tara M. Gowran
+Tara McGowran
 Tara Reid
 Tara Rosling
 Tara Slone
@@ -22980,7 +23061,7 @@ Tate Ellington
 Tate Taylor
 Tatiana Maslany
 Tatjana Patitz
-Tatum O. Neal
+Tatum O'Neal
 Tatyana Ali
 Tatyana Yassukovich
 Taurean Blacque
@@ -23011,9 +23092,9 @@ Teala Dunn
 Teck Holmes
 Ted Beniades
 Ted Cassidy
-Ted D. Arms
-Ted D. Biase
+Ted D'Arms
 Ted Danson
+Ted DiBiase
 Ted Gehring
 Ted Gilbert
 Ted Hartley
@@ -23025,8 +23106,8 @@ Ted Lange
 Ted Le Plat
 Ted Levine
 Ted Liss
-Ted M. Ginley
 Ted Markland
+Ted McGinley
 Ted Neeley
 Ted Nugent
 Ted Raimi
@@ -23072,8 +23153,8 @@ Terence Hill
 Terence Kelly
 Terence Knox
 Terence Longdon
-Terence M. Govern
 Terence Marsh
+Terence McGovern
 Terence Paul Winter
 Terence Rigby
 Terence Stamp
@@ -23097,13 +23178,13 @@ Teri Garr
 Teri Hatcher
 Teri Keane
 Teri Landrum
-Teri M. Minn
+Teri McMinn
 Teri Polo
 Terra Jole
 Terrance Ellis
 Terrance Zdunich
 Terrence C. Carson
-Terrence E. M. Nally
+Terrence E. McNally
 Terrence Evans
 Terrence Hardiman
 Terrence Howard
@@ -23141,14 +23222,14 @@ Terry Kinney
 Terry Kiser
 Terry Klassen
 Terry Layman
-Terry M. Govern
-Terry M. Ilvain
+Terry McGovern
+Terry McIlvain
 Terry Michos
 Terry Moore
 Terry Murphy
 Terry Norris
-Terry O. Neill
-Terry O. Quinn
+Terry O'Neill
+Terry O'Quinn
 Terry Plummer
 Terry Richards
 Terry Serpico
@@ -23251,13 +23332,14 @@ Thomas Kopache
 Thomas Kretschmann
 Thomas Lennon
 Thomas Lennon
-Thomas M. Elroy
 Thomas Mann
+Thomas McElroy
 Thomas Middleditch
 Thomas Mikal Ford
 Thomas Mills Wood
 Thomas Robins
 Thomas Robinson
+Thomas Rosales Jr.
 Thomas Rosales, Jr.
 Thomas Roy
 Thomas Ryan
@@ -23325,12 +23407,12 @@ Tim Colceri
 Tim Conlon
 Tim Conway
 Tim Curry
-Tim D. Kay
-Tim D. Zarn
 Tim Daggett
 Tim Daly
 Tim Dang
 Tim De Zarn
+Tim DeKay
+Tim DeZarn
 Tim Donnelly
 Tim Dutton
 Tim Finn
@@ -23349,15 +23431,15 @@ Tim Kazurinsky
 Tim Kelleher
 Tim Lagasse
 Tim Loane
-Tim M. Graw
-Tim M. Innerny
-Tim M. Intire
-Tim M. Mulian
 Tim Matheson
+Tim McGraw
+Tim McInnerny
+Tim McIntire
+Tim McMulian
 Tim Mcniff
 Tim Meadows
 Tim Monsion
-Tim O. Connor
+Tim O'Connor
 Tim Parati
 Tim Payovich
 Tim Pigott-Smith
@@ -23443,14 +23525,14 @@ Tino Insana
 Tinsel Korey
 Tinsley Grimes
 Tiny Lister
-Tiny Lister, Jr.
+Tiny Lister Jr.
 Tiny Ron
 Tiny Ron Taylor
 Tiny Skaggs
 Tiny Tim
 Tiny Wells
 Tionne Watkins
-Tip O. Neill
+Tip O'Neill
 Tippi Hedren
 Tiriel Mora
 Tisa Farrow
@@ -23500,8 +23582,8 @@ Todd Lookinland
 Todd Louiso
 Todd Lowe
 Todd Loyd
-Todd M. Farlane
 Todd Martin
+Todd McFarlane
 Todd Phillips
 Todd Richards
 Todd Sand
@@ -23544,10 +23626,10 @@ Tom Cohen
 Tom Conti
 Tom Courtenay
 Tom Cruise
-Tom D. Cillo
-Tom D. Longe
 Tom Dahlgren
 Tom Davis
+Tom DeLonge
+Tom DiCillo
 Tom Dugan
 Tom Everett
 Tom Everett Scott
@@ -23589,30 +23671,31 @@ Tom Laughlin
 Tom Leopold
 Tom Lester
 Tom Ligon
+Tom Lister Jr.
 Tom Lister, Jr.
-Tom M. Beath
-Tom M. Bride
-Tom M. Cafferty
-Tom M. Camus
-Tom M. Carthy
-Tom M. Cleister
-Tom M. Fadden
-Tom M. Gowan
-Tom M. Grath
-Tom M. Greevey
-Tom M. Loughlin
 Tom Malloy
 Tom Malone
 Tom Mardirosian
 Tom Mason
+Tom McBeath
+Tom McBride
+Tom McCafferty
+Tom McCamus
+Tom McCarthy
+Tom McCleister
+Tom McFadden
+Tom McGowan
+Tom McGrath
+Tom McGreevey
+Tom McLoughlin
 Tom Morga
 Tom Muzila
 Tom Nolan
 Tom Nolan
 Tom Noonan
 Tom Nowicki
-Tom O. Brien
-Tom O. Rourke
+Tom O'Brien
+Tom O'Rourke
 Tom Papa
 Tom Parks
 Tom Pedi
@@ -23655,7 +23738,7 @@ Tom Willett
 Tom Wisdom
 Tom Wlaschiha
 Tom Wood
-Tom Woodruff, Jr.
+Tom Woodruff Jr.
 Tom Wright
 Tom Wu
 Tom Wyner
@@ -23715,7 +23798,7 @@ Tony Barry
 Tony Becker
 Tony Beckley
 Tony Bennett
-Tony Beso, Jr.
+Tony Beso Jr.
 Tony Bill
 Tony Bonner
 Tony Brande
@@ -23782,7 +23865,7 @@ Tony Munafo
 Tony Musante
 Tony Nappo
 Tony Nikolakopoulos
-Tony O. Dell
+Tony O'Dell
 Tony Oliver
 Tony Orlando
 Tony Peck
@@ -23840,7 +23923,7 @@ Toshiyuki Nagashima
 Toshizo Fujiwara
 Tou Chung-hua
 Toukie Smith
-Toussaint M. Call
+Toussaint McCall
 Tovah Feldshuh
 Townsend Coleman
 Trace Adkins
@@ -23865,7 +23948,7 @@ Tracy Fraim
 Tracy Griffith
 Tracy Griswold
 Tracy Letts
-Tracy M. Grady
+Tracy McGrady
 Tracy Melchior
 Tracy Middendorf
 Tracy Morgan
@@ -23880,7 +23963,7 @@ Tracy Vilar
 Tracy Wells
 Travis Best
 Travis Fine
-Travis M. Kenna
+Travis McKenna
 Travis Oliver
 Travis Schuldt
 Travis Stanberry
@@ -23900,11 +23983,11 @@ Trenna Keating
 Trent Cameron
 Trent Ford
 Trent Walker
-Trenton M. Clain Boyd
+Trenton McClain Boyd
 Tresa Hughes
 Tress MacNeille
 Treva Etienne
-Trever O. Brien
+Trever O'Brien
 Trevor Baxter
 Trevor Cooper
 Trevor Coppola
@@ -23923,20 +24006,20 @@ Trevor St. John
 Trevor Thomas
 Trevor White
 Trevor Wright
-Trevyn M. Dowell
+Trevyn McDowell
 Trey Parker
 Trey Songz
 Trey Wilson
 Tricia Helfer
 Tricia Leigh Fisher
-Tricia O. Neil
+Tricia O'Neil
 Tricia Vessey
 Tricky
 Trieste Kelly Dunn
 Trieu Tran
 Trilby Glover
-Trina M. Gee
-Trina M. Gee-Davis
+Trina McGee
+Trina McGee-Davis
 Trina Willard
 Trini Alvarado
 Trinidad Silva
@@ -23989,7 +24072,7 @@ Ty Hardin
 Ty Hodges
 Ty Law
 Ty Miller
-Ty O. Neal
+Ty O'Neal
 Ty Olsson
 Ty Panitz
 Ty Reed
@@ -24020,6 +24103,7 @@ Tyrin Turner
 Tyron Leitso
 Tyrone Benskin
 Tyrone Giordano
+Tyrone Power Jr.
 Tyrone Power, Jr.
 Tyson Beckford
 Tyson Houseman
@@ -24027,8 +24111,8 @@ Tyson Ritter
 Tzi Ma
 Táta Vega
 Téa Leoni
-U. God
-US. Maple
+U-God
+US Maple
 Udo Kier
 Ugo Tognazzi
 Ulises Cuadra
@@ -24053,7 +24137,8 @@ Uta Hagen
 Ute Lemper
 Uğur Yücel
 V. C. Andrews
-V. C. Dupree
+V.C. Dupree
+V.S. Brodie
 Vadim Glowna
 Vaginal Davis
 Val Avery
@@ -24110,10 +24195,10 @@ Van Christie
 Van Dyke Parks
 Van Hammer
 Van Johnson
-Van M. Coy
+Van McCoy
 Van Williams
 Vance Colvig
-Vance Colvig, Jr.
+Vance Colvig Jr.
 Vance Valencia
 Vanessa Angel
 Vanessa Baden
@@ -24135,7 +24220,7 @@ Vanessa Monique Rossel
 Vanessa Morley
 Vanessa Parise
 Vanessa Redgrave
-Vanessa Redgrave C. E
+Vanessa Redgrave CBE
 Vanessa Williams
 Vanessa Zima
 Vanessa del Rio
@@ -24234,8 +24319,8 @@ Victor Izay
 Victor Jory
 Victor Langley
 Victor Lanoux
-Victor M. Guire
 Victor Mature
+Victor McGuire
 Victor Melleney
 Victor Millan
 Victor Mohica
@@ -24298,7 +24383,7 @@ Vince Barnett
 Vince Carter
 Vince Colosimo
 Vince Corazza
-Vince Deadrick, Jr.
+Vince Deadrick Jr.
 Vince Edwards
 Vince Gill
 Vince Grant
@@ -24318,7 +24403,7 @@ Vincent Beck
 Vincent Cassel
 Vincent Castellanos
 Vincent Curatola
-Vincent D. Onofrio
+Vincent D'Onofrio
 Vincent Franklin
 Vincent Gale
 Vincent Gallo
@@ -24353,7 +24438,7 @@ Vinessa Shaw
 Ving Rhames
 Vinicius Machado
 Vinnie Curto
-Vinnie D. Ramus
+Vinnie DeRamus
 Vinnie Jones
 Vinny Argiro
 Vinny Vella
@@ -24370,7 +24455,7 @@ Virginia Hawkins
 Virginia Kiser
 Virginia Madsen
 Virginia Mayo
-Virginia O. Brien
+Virginia O'Brien
 Virginia Smith
 Virginia Vestoff
 Virginia Vincent
@@ -24381,7 +24466,7 @@ Vita
 Vitalie Bantas
 Vitamin C
 Vito Antuofermo
-Vito D. Ambrosio
+Vito D'Ambrosio
 Vito Scotti
 Vittorio Duse
 Vittorio Gassman
@@ -24419,7 +24504,7 @@ Voltio
 Von Flores
 Vondie Curtis Hall
 Vondie Curtis-Hall
-Vonetta M. Gee
+Vonetta McGee
 Vonte Sweet
 Vonzell Solomon
 Vsevolod Larionov
@@ -24471,13 +24556,13 @@ Walter Gotell
 Walter Koenig
 Walter Kohut
 Walter Lynn
-Walter M. Carty
-Walter M. Ginn
 Walter Marín
 Walter Massey
 Walter Masterson
 Walter Mathews
 Walter Matthau
+Walter McCarty
+Walter McGinn
 Walter Mercado
 Walter Olkewicz
 Walter Parazaider
@@ -24513,7 +24598,7 @@ Warren Saire
 Warren Stevens
 Warren Taurien
 Warren Vanders
-Warrent F. M. Knight
+Warrent F. McKnight
 Warrington Hudlin
 Warwick Davis
 Washington Sixolo
@@ -24538,9 +24623,9 @@ Wayne Gretzky
 Wayne Kaatz
 Wayne Knight
 Wayne Lam
-Wayne M. Laren
 Wayne Maugans
 Wayne Maunder
+Wayne McLaren
 Wayne Messmer
 Wayne Newton
 Wayne Pygram
@@ -24557,10 +24642,10 @@ Wee Man
 Welker White
 Wendee Lee
 Wendel Meldrum
-Wendell B. Harris, Jr.
+Wendell B. Harris Jr.
 Wendell Burton
 Wendell Pierce
-Wendi M. Lendon-Covey
+Wendi McLendon-Covey
 Wendie Jo Sperber
 Wendie Malick
 Wendii Fulford
@@ -24646,9 +24731,9 @@ Will Kemp
 Will Knickerbacker
 Will Knickerbocker
 Will Lyman
-Will M. Cormack
-Will M. Millan
 Will Malnati
+Will McCormack
+Will McMillan
 Will Oldham
 Will Patton
 Will Poulter
@@ -24728,7 +24813,7 @@ William Guhl
 William H. Macy
 William H. Marshall
 William Hall
-William Hall, Jr.
+William Hall Jr.
 William Hanna
 William Hansen
 William Hickey
@@ -24746,26 +24831,26 @@ William Joyce
 William Katt
 William Kunstler
 William L. Johnson
-William L. Massena
 William L. Petersen
 William Lanteau
 William Le Massena
+William LeMassena
 William Lee Scott
 William Lucking
 William Lustig
-William M. Ghee
-William M. Namara
 William Mapother
 William Marshall
 William May
+William McGhee
+William McNamara
 William Melling
 William Mesnik
 William Moseley
 William N. Clark
 William Newman
-William O. Connell
-William O. Leary
-William O. Malley
+William O'Connell
+William O'Leary
+William O'Malley
 William Paterson
 William Patterson Dunlop
 William Petersen
@@ -24800,7 +24885,7 @@ William Tepper
 William Traylor
 William Utay
 William Watson
-William Wellman, Jr.
+William Wellman Jr.
 William Windom
 William Wintersole
 William Wisher, Jr.
@@ -24826,7 +24911,7 @@ Willoughby Goddard
 Willoughby Gray
 Willow Bay
 Willow Smith
-Willy D. Ville
+Willy DeVille
 Willy Holt
 Willy Millowitsch
 Willy Parsons
@@ -24865,7 +24950,7 @@ Wonderful Smith
 Wong Fei-lung
 Wood Harris
 Wood Moy
-Woodie King, Jr.
+Woodie King Jr.
 Woodrow Chambliss
 Woodrow Parfrey
 Woody Allen
@@ -24885,18 +24970,19 @@ Wyking Jones
 Wyman Wong
 Wynn Everett
 Wynn Roberts
+X Brands
 X. Ben Fakackt
-X. Brands
 Xander Berkeley
 Xavier Gélin
-Xavier M. Daniel
 Xavier Marc
+Xavier McDaniel
 Xavier Saint-Macary
 Xavier Samuel
 Xi Meijuan
 Xosha Roquemore
 Xzibit
-Y. N-Vee
+Y.K. Kim
+Y?N-Vee
 Ya'ackov Ben-Sira
 Yaani King
 Yakov Smirnoff
@@ -24905,7 +24991,7 @@ Yancy Butler
 Yang Yun
 Yani Gellman
 Yanko Damboulev
-Yanna M. Intosh
+Yanna McIntosh
 Yannick Bisson
 Yaphet Kotto
 Yara Martinez
@@ -24917,13 +25003,13 @@ Yasmin Deliz
 Yasmin Paige
 Yasmine Bleeth
 Yasuaki Kurata
-Yaya D. Costa
+Yaya DaCosta
 Yaya Dacosta
 Yeardley Smith
 Yee Jee Tso
 Yehuda Efroni
 Yelena Solovey
-Yemi A. D.
+Yemi A.D.
 Yeon Joo Kim
 Yeva-Genevieve Lavlinski
 Yevgeni Lazarev
@@ -24987,7 +25073,7 @@ Yvonne De Carlo
 Yvonne Elliman
 Yvonne Fair
 Yvonne Gilan
-Yvonne M. Cord
+Yvonne McCord
 Yvonne Mitchell
 Yvonne Niami
 Yvonne Romain
@@ -25025,10 +25111,10 @@ Zachary Quinto
 Zachery Ty Bryan
 Zachi Noy
 Zack Norman
-Zack O. Malley Greenburg
+Zack O'Malley Greenburg
 Zack Shada
 Zack Ward
-Zahn M. Clarnon
+Zahn McClarnon
 Zaide Silvia Gutiérrez
 Zak Orth
 Zakes Mokae
@@ -25068,7 +25154,7 @@ Zoe Cunningham
 Zoe Kazan
 Zoe Levin
 Zoe Lister-Jones
-Zoe M. Lellan
+Zoe McLellan
 Zoe Saldana
 Zoe Ventoura
 Zoe Warner

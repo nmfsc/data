@@ -492,6 +492,7 @@ Badge 373
 Badlands
 Bagdad Café
 Bait
+Ballast
 Ballistic: Ecks vs. Sever
 Balls of Fury
 Balto
@@ -695,6 +696,7 @@ Blink
 Blizzard
 Blonde Ambition
 Blood Diamond
+Blood Diner
 Blood In Blood Out
 Blood Simple
 Blood Work
@@ -2048,6 +2050,7 @@ Gloria
 Gloria
 Glory
 Go
+Go Fish
 Go Tell the Spartans
 God Told Me To
 Gods and Generals
@@ -3226,6 +3229,7 @@ Meteor
 Metro
 Metropolitan
 Miami Blues
+Miami Connection
 Miami Rhapsody
 Miami Vice
 Michael
@@ -5071,6 +5075,7 @@ The Believers
 The Bell Jar
 The Best Little Whorehouse in Texas
 The Best Man
+The Best Two Years
 The Best of Times
 The Betsy
 The Beverly Hillbillies
@@ -6869,6 +6874,7 @@ Zandy's Bride
 Zapped Again!
 Zapped!
 Zardoz
+Zarkorr! The Invader
 Zathura
 Zebrahead
 Zelig
