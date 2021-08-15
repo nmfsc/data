@@ -29,6 +29,7 @@ Disaster
 Docudrama
 Documentary
 Drama
+Drama Comedy
 Drama comedy
 Epic
 Erotic
@@ -104,7 +105,6 @@ Television
 Thriller
 Tragicomedy
 Trial drama
-Uncategorized
 War
 Western
 Women in prison
