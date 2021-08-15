@@ -1,28 +1,111 @@
-action
-adult
-adventure
-animated
-biography
-comedy
-crime
-disaster
-drama
-drama comedy
-family
-fantasy
-historical
-horror
-musical
-mystery
-parody
-romance
-romantic comedy
-science fiction
-sports
-spy
-superhero
-suspense
-thriller
-uncategorized
-war
-western
+Action
+Action Thriller
+Adaptation
+Adventure
+Animation
+Anthology
+Anti-war
+Auto racing
+B
+Biography
+Blaxploitation
+Buddy
+Buddy cop
+Caper story
+Comedy
+Comedy horror
+Comedy music
+Comedy of manners
+Coming of age
+Concert
+Crime
+Crime Thriller
+Cult film
+Cyberpunk
+Dance
+Dark comedy
+Detective novel
+Disaster
+Docudrama
+Documentary
+Drama
+Drama comedy
+Epic
+Erotic
+Erotic thriller
+Experimental
+Exploitation
+Family
+Family Drama
+Fantasy
+Farce
+Heist
+Hip hop
+Historical drama
+History
+Horror
+Indie film
+LGBT
+Legal drama
+Mafia
+Martial Arts
+Melodrama
+Mockumentary
+Monster
+Music
+Music genre
+Musical
+Mystery
+Natural horror
+Neo-noir
+Noir
+Outlaw biker
+Parody
+Parody film
+Political cinema
+Political drama
+Political thriller
+Pornographic
+Post-apocalyptic
+Prison
+Psychological thriller
+Punk rock
+Religious
+Revisionist Western
+Road
+Romance
+Romantic comedy
+Satire
+Science fiction
+Screwball comedy
+Sex comedy
+Sexploitation
+Short
+Silent
+Slapstick
+Slasher
+Social problem
+Spaghetti Western
+Splatter
+Sport
+Sports
+Spy
+Stand-up comedy
+Stoner
+Superhero
+Supernatural
+Supernatural horror
+Surfing
+Survival
+Suspense
+Swashbuckler
+Teen
+Television
+Thriller
+Tragicomedy
+Trial drama
+War
+Western
+Women in prison
+World cinema
+Zombie
