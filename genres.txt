@@ -3,15 +3,11 @@ adult
 adventure
 animated
 biography
-blaxploitation
-buddy cop
-christmas
 comedy
 crime
 disaster
 drama
 drama comedy
-exploitation
 family
 fantasy
 historical
@@ -25,9 +21,7 @@ science fiction
 sports
 spy
 superhero
-supernatural
 suspense
-teen
 thriller
 uncategorized
 war
