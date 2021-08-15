@@ -1,27 +1,24 @@
 Action
-Action Thriller
+Action thriller
 Adaptation
 Adventure
 Animation
 Anthology
-Anti-war
 Auto racing
-B
 Biography
 Blaxploitation
 Buddy
 Buddy cop
-Caper story
 Comedy
 Comedy horror
 Comedy music
 Comedy of manners
 Coming of age
+Coming-of-age story
 Concert
 Crime
-Crime Thriller
+Crime thriller
 Cult film
-Cyberpunk
 Dance
 Dark comedy
 Detective novel
@@ -31,16 +28,13 @@ Documentary
 Drama
 Drama comedy
 Epic
-Erotic
 Erotic thriller
-Experimental
 Exploitation
 Family
-Family Drama
+Family drama
 Fantasy
 Farce
 Heist
-Hip hop
 Historical drama
 History
 Horror
@@ -48,7 +42,7 @@ Indie film
 LGBT
 Legal drama
 Mafia
-Martial Arts
+Martial arts
 Melodrama
 Mockumentary
 Monster
@@ -56,10 +50,8 @@ Music
 Music genre
 Musical
 Mystery
-Natural horror
 Neo-noir
 Noir
-Outlaw biker
 Parody
 Parody film
 Political cinema
@@ -69,9 +61,7 @@ Pornographic
 Post-apocalyptic
 Prison
 Psychological thriller
-Punk rock
-Religious
-Revisionist Western
+Revisionist western
 Road
 Romance
 Romantic comedy
@@ -80,13 +70,8 @@ Science fiction
 Screwball comedy
 Sex comedy
 Sexploitation
-Short
-Silent
 Slapstick
 Slasher
-Social problem
-Spaghetti Western
-Splatter
 Sport
 Sports
 Spy
@@ -94,18 +79,10 @@ Stand-up comedy
 Stoner
 Superhero
 Supernatural
-Supernatural horror
 Surfing
-Survival
 Suspense
-Swashbuckler
 Teen
-Television
 Thriller
-Tragicomedy
 Trial drama
 War
 Western
-Women in prison
-World cinema
-Zombie
