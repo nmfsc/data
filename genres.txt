@@ -15,13 +15,11 @@ Comedy music
 Comedy of manners
 Coming of age
 Coming-of-age story
-Concert
 Crime
 Crime thriller
 Cult film
 Dance
 Dark comedy
-Detective novel
 Disaster
 Docudrama
 Documentary
@@ -46,19 +44,15 @@ Martial arts
 Melodrama
 Mockumentary
 Monster
-Music
-Music genre
 Musical
 Mystery
 Neo-noir
 Noir
 Parody
-Parody film
 Political cinema
 Political drama
 Political thriller
 Pornographic
-Post-apocalyptic
 Prison
 Psychological thriller
 Revisionist western
@@ -75,11 +69,9 @@ Slasher
 Sport
 Sports
 Spy
-Stand-up comedy
 Stoner
 Superhero
 Supernatural
-Surfing
 Suspense
 Teen
 Thriller
