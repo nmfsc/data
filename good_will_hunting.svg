@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="31.49782mm"
-   height="12.363625mm"
-   viewBox="0 0 31.49782 12.363625"
+   width="55.121185mm"
+   height="21.636343mm"
+   viewBox="0 0 55.121185 21.636344"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="goodwillhunting.svg">
+   sodipodi:docname="good_will_hunting.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs2">
     <g
@@ -1961,8 +1961,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="132.20843"
-     inkscape:cy="22.866533"
+     inkscape:cx="132.20844"
+     inkscape:cy="37.152244"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1972,8 +1972,8 @@
      fit-margin-bottom="0"
      inkscape:window-width="1677"
      inkscape:window-height="876"
-     inkscape:window-x="229"
-     inkscape:window-y="76"
+     inkscape:window-x="30"
+     inkscape:window-y="161"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -1991,10 +1991,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(21.346593,94.973861)">
+     transform="translate(21.346596,104.24658)">
     <g
        id="g14165"
-       transform="translate(-69.925595,-91.092262)">
+       transform="matrix(1.75,0,0,1.75,-106.35985,-97.453781)">
       <use
          transform="matrix(0.35277778,0,0,0.35277778,19.853796,-47.468883)"
          height="100%"
